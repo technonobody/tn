@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398761/channel_list/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" group-title="HD CHANNELS",AASTHA HD
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sanskar_TV_logo.png/640px-Sanskar_TV_logo.png" group-title="HD CHANNELS",SANSKAR HD
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_20.m3u8
+#EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="HD CHANNELS",SHUBH HD
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="HD CHANNELS",DD NATIONAL HD
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4c0e7896-2399-497b-aad2-a82f8cec3e71/4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Times_Now_Navbharat.svg/250px-Times_Now_Navbharat.svg.png" group-title="HD CHANNELS",TIMES NOW NAVBHARAT HD
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/250px-Aaj_Tak_logo.svg.png" group-title="HD CHANNELS",AAJ TAK HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 1 HD
+https://playhls.media.nic.in/live/lstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 2 HD
+https://www.youtube.com/watch?v=i60KJNLCDaQ&pp=0gcJCdgAo7VqN5tD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="HD CHANNELS",SAGA MUSIC HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/9a475d60-d827-416c-8075-dfb871b7c888/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CTV_Wild_Channel_Logo.png/250px-CTV_Wild_Channel_Logo.png" group-title="HD CHANNELS",NATURE STREAM HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/27d6d592-44ea-4b91-98fc-c440e81408fd/1.m3u8
+#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="HD CHANNELS",INDIA TV HD
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD CHANNELS",INDIA SPEED NEWS HD
+https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
