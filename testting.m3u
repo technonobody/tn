@@ -422,10 +422,10 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/61-s.webp" group-title="Nature", TRAVELXP HS
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/61-s.webp" group-title="Nature", COLORS HD USA
-https://stmify.com/live/?stream=3104
+
 
 #EXTINF:-1 tvg-logo="https://apiexcellent.com/images/television/product/anjan-tv-television10039.webp" group-title="THIS IS CLAASIC", ANJAN TV
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b4000000.m3u8
@@ -454,7 +454,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Hindi Music", E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="Hindi Music", 8XM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Hindi Music", 8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
 
