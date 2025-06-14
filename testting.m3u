@@ -301,6 +301,15 @@ https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 group-title="FIGHTER 4 EVER" tvg-logo="https://i.ibb.co/Z1wmCMF3/bb456050-e17d-42e2-b556-daac65210454.png" group-title="XTAB ENTERTAINMENT", COPYRIGHTS
 https://i.ibb.co/Z1wmCMF3/bb456050-e17d-42e2-b556-daac65210454.png
 
+#EXTINF:-1 tvg-id="" group-title="ISHWAR DARSHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/1200px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg", AYODHYA LIVE
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87be6d958d2f8ff5f724d.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 tvg-id="" group-title="ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoD7eo1YYXfQt1foxTf_HlHkKZWHsxhht5gBrcN6R-eLuRZcEyUivlVuc&s=10", Mahakal darshan
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87ca28d4666c5caa7c05a.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 tvg-id="" group-title="ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObv7Okb5kF4i_ytF7TMfr9mLEq6uRawGtcQND_FYPYrgCE7PP_mc-6kPV&s=10", Siddhivinayak Mandir
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87d218d4666c5caa7c05b.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 tvg-id="" group-title="ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0Tl6nbqZ1JS2DvBVH-rIXCg27fYkLvHTWu7k-kVuqYtKTIEV153GxtBI&s=10", Khatu Shyam Mandir
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87de9e813d30ec61c53c1.m3u8?uid=Royalland&pkey=BW7brz
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png" group-title="CRICK WORLD", Star Sports 1
 https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=QYawsNHozj8QOutv5DIA3Q&expires=1749493331
