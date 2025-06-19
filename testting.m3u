@@ -6,23 +6,26 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 #EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="HD CHANNELS",SHUBH HD
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_13.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="HD CHANNELS",DD NATIONAL HD
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/152a7a48-a87c-4c54-a307-837a8793f224/4.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/6d0ba568-c192-4fcc-a082-2699c74dd209/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Times_Now_Navbharat.svg/250px-Times_Now_Navbharat.svg.png" group-title="HD CHANNELS",TIMES NOW NAVBHARAT HD
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/250px-Aaj_Tak_logo.svg.png" group-title="HD CHANNELS",AAJ TAK HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 1 HD
-https://playhls.media.nic.in/live/lstv/index.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/f58f1061-f712-4817-abc8-3d02db5c3d2d/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 2 HD
-https://www.youtube.com/watch?v=i60KJNLCDaQ&pp=0gcJCdgAo7VqN5tD
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/0574f946-c270-46f0-b6ab-617115fdb35e/2.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="HD CHANNELS",SAGA MUSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/9a475d60-d827-416c-8075-dfb871b7c888/0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CTV_Wild_Channel_Logo.png/250px-CTV_Wild_Channel_Logo.png" group-title="HD CHANNELS",NATURE STREAM HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/27d6d592-44ea-4b91-98fc-c440e81408fd/1.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/026db462-7ade-4390-a84f-58c3b8a72ad6/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="HD CHANNELS",STAR SPORTS 1 HD
+https://smart.bengaldigital.live/star-sports-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-05-27/2505271984000.jpg" group-title="HD CHANNELS",STAR SPORTS 2 HD
+https://smart.bengaldigital.live/star-sports-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="HD CHANNELS",INDIA TV HD
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD CHANNELS",INDIA SPEED NEWS HD
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-indiatoday" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_list/indiatoday1170x658withlogo410d6610b5e84f34beb1298b4e227b12.png" group-title="ZEE NETWORK", India Today
 https://live.drmlive-02.workers.dev/zee/indiatoday.m3u8
@@ -340,11 +343,6 @@ https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681ca5d04a47bdd1d4b94dc6.m3u
 #EXTINF:-1 tvg-id="" group-title="RELEAXE LIFE" tvg-logo="https://imgproxy.fourthwall.com/C7oMXJvJl4Ju3ko_Xqi2ZJJhzkDVDia3Cg78yA8KpU4/w:132/dpr:2/sm:1/enc/36v_FjxVv6kszAZa/Ib44Q54CuM4mZfMR/aekcEWkEBpmqs8nE/VMTeN6dkNzcptISG/ooST7JbLUUNraNJn/zrpogIKdFdMdOc0e/V6iUiM_iwgCnEI9Q/k4xEcdZBVJC7nszO/UZH6KqvAXS5vmS1u/cKL7yjsmLTHY3E_M/gohcIzlW-E5BhWQU/wO72Q7vf6jV57-O8/__mC5nY6Wfnj_8qf/LxFUo5wLfO0JZSLS/JEsUW4Y1TDfYuwCw/Uq3l5bFnUclfUtGY", The Relaxed Guy - Ocean Waves
 https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681ca6124a47bdd1d4b94dc7.m3u8?uid=Royalland&pkey=BW7brz
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/God-TV-Logo.svg/100px-God-TV-Logo.svg.png" group-title="Relegion Channel",God TV
-https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Arihant_TV.jpeg/revision/latest?cb=20191230060413" group-title="Relegion Channel", Arihant TV
-https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies", Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
