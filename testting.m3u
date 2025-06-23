@@ -15,12 +15,10 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/f58f1061-f712-4817-abc8-3d02db5c3d2d/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 2 HD
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/59c08b30-050f-4d87-9b75-705efdf82cd7/4.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="HD CHANNELS",SAGA MUSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/8ad330f8-186a-4aa7-9f6c-8e0ec4b04ef2/0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="HD CHANNELS",STAR SPORTS 1 HD
-https://smart.bengaldigital.live/star-sports-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-05-27/2505271984000.jpg" group-title="HD CHANNELS",STAR SPORTS 2 HD
-https://smart.bengaldigital.live/star-sports-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="HD CHANNELS",SAGA MUSIC HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/5051.DistroTv.in/bgc/1x1/208x208/test_pic1711870515037.png" group-title="HD CHANNELS",Saga Haryanvi HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="HD CHANNELS",INDIA TV HD
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD CHANNELS",INDIA SPEED NEWS HD
