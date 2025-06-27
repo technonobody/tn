@@ -5616,7 +5616,7 @@ https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df086546a2110072f47c
 #EXTINF:-1 tvg-id="" group-title="INTERNATIONAL" tvg-logo="https://xymister.serv00.net/picon/5002_0_1_9376_752B_EC_0_0_0_0.png", Deluxe Deutschpop HD
 https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415.m3u8?uid=Royalland&pkey=BW7brz
 
-//=======================================//
+//====================NORTH INDIA===================//
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="marjaavaan" tvg-name="Marjaavaan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/816e06add5f7ae65d996d3ec15cebe0c/en/2x3/208x312/test_pic1740042021191.webp" group-title="BOLLYWOOD", MARJAAVAAN 2019
 https://d3sgzbosmwirao.cloudfront.net/video/e5a162513f0e95c0c0e6e8155fc0db59feb3aaae428f345cc12eb79ca50a9942/1/hls/h264_high.m3u8
@@ -5629,3 +5629,8 @@ https://d3sgzbosmwirao.cloudfront.net/video/22e97543ff7ae6bea4058ad361eaaf8351c4
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="shootoutatlokhandwala" tvg-name="Shootoutatlokhandwala" tvg-logo="https://qqcdnpictest.mxplay.com/pic/64c0a84c07972b5fb6f1a45da188085e/en/2x3/208x312/test_pic1734166892342.webp" group-title="BOLLYWOOD", ShootOut At Lokhandwala 2007
 https://d3sgzbosmwirao.cloudfront.net/video/f12342ea892161bc68f6f81d4c028b0d380163384c2a79794ddab4882f289b84/3/hls/h264_high.m3u8
+
+//====================SOUTH INDIA===================//
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Tollywood_Talkies_Logo_%28t2%29.png" tvg-id="LEGEND VIKRAM COLLECTION" tvg-name="LEGEND VIKRAM COLLECTION" tvg-logo="https://qqcdnpictest.mxplay.com/pic/9c913faacb18601b4872d14ce3b789ad/en/2x3/208x312/624c33184cb5d06538b29bbfe8350f2a_1280x1920.webp" group-title="TOLLYWOOD", TEMPER 2 2009
+https://d3sgzbosmwirao.cloudfront.net/video/ba0440827d79bea527df3846fdc7ffdb/2/hls/h264_high.m3u8
