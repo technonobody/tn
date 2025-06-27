@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="JoinðŸ¤–@allinone_reborn" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
+https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258/index.php
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png" tvg-id="ts840" ,Shirdi Sai Baba
 https://mini.allinonereborn.xyz/tplaydrm333/manifest.mpd?id=840|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/|license_type=clearkey&license_key=https://tp.drmlive-01.workers.dev?id=840&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Devotional" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Astro-Duniya-Transparent.png" tvg-id="ts872" ,Tata Play Astro Duniya
