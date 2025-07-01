@@ -5291,10 +5291,10 @@ http://mini.allinonereborn.xyz/zee111/index.php?id=0-9-bigmagic_1786965389
 http://mini.allinonereborn.xyz/zee111/index.php?id=0-9-zing
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
-http://mini.allinonereborn.xyz/zee111/index.php?id=0-9-zeetvhd
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1751392747~acl=%2f*~data=hdntl~hmac=a8ebb7f3be64a0f38b07b20defe690958f190d3f1868b12494d04c351d7a386b
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-http://mini.allinonereborn.xyz/zee111/index.php?id=0-9-tvhd_0
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1751392747~acl=%2f*~data=hdntl~hmac=a8ebb7f3be64a0f38b07b20defe690958f190d3f1868b12494d04c351d7a386b
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 http://mini.allinonereborn.xyz/zee111/index.php?id=0-9-zeemarathi
