@@ -5515,7 +5515,7 @@ https://allinonereborn.fun/sonylive12/index.php?ch=SONYSIXHD&id=2020593
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdnts=st=1751359663~exp=1751362663~acl=/cmaf/live/2105536/ZeeTVELE/master.m3u8*~hmac=6a52ea18d317400082c35156ac12cef2938adbe54339382428773053b58bf00b&req_id=be0e635f-2454-4657-8782-dc1f45c3a01b
 
 #EXTINF:-1 tvg-id="BigMagic" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="ZEE NETWORK",Big Magic
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdnts=st=1751359707~exp=1751362707~acl=/cmaf/live/2105176/BigMagicELE/master.m3u8*~hmac=20d94de5c6dfa0432e76d125807e58d3c7e41eccd3838ee3d949082ad6191232&req_id=7a81ca5b-00ab-46a4-95b9-11b2b9d92f4a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdnts=st=1751376121~exp=1751379121~acl=/cmaf/live/2105176/BigMagicELE/master.m3u8*~hmac=7fe619a9a9e7aefde351003aa5676c1f54ddd277b8632da8597e80acbf4991d8&req_id=52056ce8-fc87-4cb3-a81e-7e597c5e2719
 
 #EXTINF:-1 tvg-id="ZeeYuva" tvg-name="Zee Yuva" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="ZEE NETWORK",Zee Yuva
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdnts=st=1751359732~exp=1751362732~acl=/cmaf/live/2105533/ZeeYuvaELE/master.m3u8*~hmac=a7185e31371d34cfca6dc4fd9abf9c935fef6fe2777b9ce26787e721d5e5fcce&req_id=d7751c3a-7734-4f4f-87bc-50fc2c18de71
@@ -5545,28 +5545,28 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdnts=s
 
 //===ZEE5 MOVIES===//
 #EXTINF:-1 tvg-id="ZeeClassic" tvg-name="Zee Classic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="ZEE NETWORK",Zee Classic
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdnts=st=1751359889~exp=1751362889~acl=/cmaf/live/2105547/ZeeClassicELE/master.m3u8*~hmac=dc3fa59394b809f86b2ba0b313461bc31029736afdd625b209130145aef6add5&req_id=2e1a96e7-5de4-45c2-a8f1-494cbe1efb5d
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdnts=st=1751376902~exp=1751379902~acl=/cmaf/live/2105547/ZeeClassicELE/master.m3u8*~hmac=ad82caf146afe25d0ffac7bf3cf83e8cd3fcd599fd175d376795b38597b897ef&req_id=4b484b82-c28f-4689-89b6-012bb828983f
 
 #EXTINF:-1 tvg-id="ZeeCinema" tvg-name="Zee Cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="ZEE NETWORK",Zee Cinema
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdnts=st=1751359941~exp=1751362941~acl=/cmaf/live/2105552/ZeeCinemaELE/master.m3u8*~hmac=b50b150084dbd49274ee40033e65ac645cfeda8b445334f34443a10c413504a2&req_id=5257d46f-2898-4b4e-a850-dd60189b9fe9
 
 #EXTINF:-1 tvg-id="ZeeCinemaHD" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="ZEE NETWORK",Zee Cinema HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8?hdnts=st=1751359968~exp=1751362968~acl=/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8*~hmac=689df1877028430a88950014674fb353de5f6cc6c484eba9851e7462878e436a&req_id=049b70ce-f4cf-40d2-8d7a-c373c80db6f7
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8?hdnts=st=1751376566~exp=1751379566~acl=/cmaf/live/2105540/ZeeCinemaHDELE/index.m3u8*~hmac=3b418bd396f2d3a413227dff2bd5526c95c1533dca3729d22539fd06e158fee4&req_id=1a242bba-1682-4d0c-865d-b4027ea6c8c5
 
 #EXTINF:-1 tvg-id="AndPicturesHD" tvg-name="&Pictures HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="ZEE NETWORK",&Pictures HD
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index.m3u8?hdnts=st=1751359996~exp=1751362996~acl=/cmaf/live/2105174/ANDPicturesHDELE/index.m3u8*~hmac=992f677eb5ec0afeeb471e476c1378798769d8b62e97b5422369444cb38b431e&req_id=7a56cb15-017d-4673-9b1a-5ac49c5d151d
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index.m3u8?hdnts=st=1751376748~exp=1751379748~acl=/cmaf/live/2105174/ANDPicturesHDELE/index.m3u8*~hmac=f5162eb941a2948f01e2850b7013e36f887a05d51ba712051ed9ec5b51d60680&req_id=37e4d47e-63c4-46a4-b09f-e10229daf24c
 
 #EXTINF:-1 tvg-id="ZeeChitramandir" tvg-name="Zee Chitramandir" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" group-title="ZEE NETWORK",Zee Chitramandir
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdnts=st=1751360039~exp=1751363039~acl=/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8*~hmac=b0857c1a47cb01431f76258a4a8dfae0891ac63d838ef53140a09df8c123abc4&req_id=fa6f671e-4344-46d7-9db3-98587762c3c1
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdnts=st=1751376335~exp=1751379335~acl=/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8*~hmac=a0b28d679647cb3a874a5ea95c1c075cdb249a874bde123a744bd06a6827738b&req_id=1122a4d3-956e-4fdc-97c9-e921e0247131
 
 #EXTINF:-1 tvg-id="ZeeTalkiesHD" tvg-name="Zee Talkies HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="ZEE NETWORK",Zee Talkies HD
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index.m3u8?hdnts=st=1751360072~exp=1751363072~acl=/cmaf/live/2105519/ZeeTalkiesHDELE/index.m3u8*~hmac=53cb83632e96ddb4615755d7de71a3e6c37665263c258f3434c7c1a57839f33c&req_id=44796093-db73-4ce3-b533-885dda8a4dc5
 
 #EXTINF:-1 tvg-id="ZeeBollywood" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bollywood.png" group-title="ZEE NETWORK",Zee Bollywood
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdnts=st=1751360143~exp=1751363143~acl=/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8*~hmac=6d72f2952d1cd34e324a00f6e5c61808af4338ef4134c8dc2ffb1a83b4a83299&req_id=67daa0cb-4a69-4f3e-8821-e1e3ef939b3e
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdnts=st=1751376856~exp=1751379856~acl=/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8*~hmac=8616d4021b117cdc1a49a01a89a401f2625da6b0815eb9e89a1889f5ec4c5674&req_id=ff43a4ba-3e51-4976-9874-89a4437adc3d
 
 #EXTINF:-1 tvg-id="ZeeGanga" tvg-name="Zee Ganga" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="ZEE NETWORK",Zee Ganga
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdnts=st=1751360187~exp=1751363187~acl=/cmaf/live/2105171/ZeeGangaELE/master.m3u8*~hmac=aef26d31b31fa72594458f09d28fa5ccfb2a906fad0275cacac2c97f05c75517&req_id=75082b67-f95d-4b75-be2a-860185b14706
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdnts=st=1751376402~exp=1751379402~acl=/cmaf/live/2105171/ZeeGangaELE/master.m3u8*~hmac=4ddee908e0cb856e4252de8d83f7ff098d9122d66a333f509e0638ca203d4f7b&req_id=a3bee7ef-3bc9-4838-977e-57296bddeed8
 
 #EXTINF:-1 tvg-id="ZeeTalkies" tvg-name="Zee Talkies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="ZEE NETWORK",Zee Talkies
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdnts=st=1751360220~exp=1751363220~acl=/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8*~hmac=4c25e231147188e038c01051577792341b871ef3fe9441d29d8354f00d3bfeb0&req_id=8038f903-0e10-4108-8acd-152d1af7db7e
@@ -5578,7 +5578,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdnts=
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdnts=st=1751360313~exp=1751363313~acl=/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8*~hmac=56d91cc769ad3fb2597d7bcda4b46308f954f8d76d0654e8d045087359b051e3&req_id=58969fc6-f38a-4ee4-b410-2554aa2d8044
 
 #EXTINF:-1 tvg-id="Zing" tvg-name="Zing" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="ZEE NETWORK",Zing
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdnts=st=1751360357~exp=1751363357~acl=/cmaf/live/2105532/ZingELE/master.m3u8*~hmac=f99f72d442cb0b0f1a321c8e2460c73510e1701810eb0c98277e6e9de2cf6364&req_id=2a233c64-ebb3-4492-8eef-c187674360d3
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdnts=st=1751376270~exp=1751379270~acl=/cmaf/live/2105532/ZingELE/master.m3u8*~hmac=b3fef95c7bbe07405d9cf5cd3636876ebf7b4cd0cd07f0e221309c6dba8854e7&req_id=79c4025a-5d55-45ec-9c70-b6b6490dbf71
 
 #EXTINF:-1 tvg-id="AndPictures" tvg-name="&Pictures" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="ZEE NETWORK",&Pictures
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdnts=st=1751360393~exp=1751363393~acl=/cmaf/live/2105528/ANDPicturesELE/master.m3u8*~hmac=9f0a5aac38d90a869bb45b57cfa8eae00e0fd0060ce759e361a6aa442c3b4ffc&req_id=a9c47890-dd10-4b97-9329-3848861e6d04
