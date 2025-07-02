@@ -5867,20 +5867,25 @@ https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415
 
 //====================NORTH INDIA===================//
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie1" tvg-name="Marjaavaan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/816e06add5f7ae65d996d3ec15cebe0c/en/2x3/208x312/test_pic1740042021191.webp" group-title="VOD | BOLLYWOOD", MARJAAVAAN 2019
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="Marjaavaan" tvg-logo="https://qqcdnpictest.mxplay.com/pic/816e06add5f7ae65d996d3ec15cebe0c/en/2x3/208x312/test_pic1740042021191.webp" group-title="VOD | BOLLYWOOD", MARJAAVAAN | 2019
 https://d3sgzbosmwirao.cloudfront.net/video/e5a162513f0e95c0c0e6e8155fc0db59feb3aaae428f345cc12eb79ca50a9942/1/hls/h264_high.m3u8
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie2" tvg-name="Thankgod" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a08956778c46ed11fb9bd9a679eef252/en/2x3/208x312/test_pic1733482513982.webp" group-title="VOD | BOLLYWOOD", Thank God 2022
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="Thankgod" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a08956778c46ed11fb9bd9a679eef252/en/2x3/208x312/test_pic1733482513982.webp" group-title="VOD | BOLLYWOOD", Thank God | 2022
 https://d3sgzbosmwirao.cloudfront.net/video/a5766ffce2790d2433873b3e72e2053a90a72ec87af1f0f16decab13ca45a01f/4/hls/h264_high.m3u8
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie3" tvg-name="ShootOutAtWadala" tvg-logo="https://qqcdnpictest.mxplay.com/pic/fe179ab20038803593b6998fafefda1d/en/2x3/208x312/test_pic1734166985333.webp" group-title="VOD | BOLLYWOOD", Shootout At Wadala 2013
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="ShootOutAtWadala" tvg-logo="https://qqcdnpictest.mxplay.com/pic/fe179ab20038803593b6998fafefda1d/en/2x3/208x312/test_pic1734166985333.webp" group-title="VOD | BOLLYWOOD", Shootout At Wadala | 2013
 https://d3sgzbosmwirao.cloudfront.net/video/22e97543ff7ae6bea4058ad361eaaf8351c43ecc103adc8f3a6afc91ad033dbd/3/hls/h264_high.m3u8
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie4" tvg-name="Shootoutatlokhandwala" tvg-logo="https://qqcdnpictest.mxplay.com/pic/64c0a84c07972b5fb6f1a45da188085e/en/2x3/208x312/test_pic1734166892342.webp" group-title="VOD | BOLLYWOOD", ShootOut At Lokhandwala 2007
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="Shootoutatlokhandwala" tvg-logo="https://qqcdnpictest.mxplay.com/pic/64c0a84c07972b5fb6f1a45da188085e/en/2x3/208x312/test_pic1734166892342.webp" group-title="VOD | BOLLYWOOD", ShootOut At Lokhandwala | 2007
 https://d3sgzbosmwirao.cloudfront.net/video/f12342ea892161bc68f6f81d4c028b0d380163384c2a79794ddab4882f289b84/3/hls/h264_high.m3u8
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie5" tvg-name="Deewaar" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ec515fe28ee6573c98851f33fbaed834/en/2x3/208x312/test_pic1734089260048_badged_1734958434971.webp" group-title="VOD | BOLLYWOOD", DEEWAAR 2004
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="Deewaar" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ec515fe28ee6573c98851f33fbaed834/en/2x3/208x312/test_pic1734089260048_badged_1734958434971.webp" group-title="VOD | BOLLYWOOD", DEEWAAR | 2004
 https://d3sgzbosmwirao.cloudfront.net/video/51dda90f453e724f465e70b697784b7197ae46e37439ac7b24c77970a52cd200/4/hls/h264_high.m3u8
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Instantbollywood.png" tvg-id="movie" tvg-name="Kesari2" tvg-logo="https://catimages.org/images/2025/06/13/jgGSqe1YgSot6Y1zDVTVkbsZ46z.png" group-title="VOD | BOLLYWOOD", KESARI 2 | 2025
+https://asnwish.com/stream/H3IFwzatHZztIC8vLjc3Dw/kjhhiuahiuhgihdf/1751522974/53121420/master.m3u8
+
+
 
 //====================SOUTH INDIA===================//
 
@@ -5906,7 +5911,9 @@ https://cdn4521.unial363iox.com/stream2/i-arch-400/d468f0e259a2b911cf3b920e52d2f
 https://cdn4521.unial363iox.com/stream2/i-cdn-0/2353022b6a4b750dffcf30af2c788caf/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RJFTWUJlaZpnRp90VK1WWqFEMNJjUr90VNJjWtJFbOp3Yyo1RJRjTElUP:1751216998:122.177.161.24:d73c92349d2dd05bb0aa5e04bcf3d25656f9f9afc190aea90fa65d0e76672e0c/1080/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Emergency_movie_poster.jpg/250px-Emergency_movie_poster.jpg" group-title="FIGHTER | 7DAY REQUEST",EMERGENCY 2025
 https://cdn30092.unial363iox.com/stream2/i-cdn-0/66e7577405fb8a78c6f1fa74962a9ff9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290RZJjTHJlaNdlRt5kerlXWXJVbaRVW4lFVJlXTHZVaZpHbspFVrFTWtFVP:1751191008:183.83.55.73:74ef4811ad9bb2bfbcd5b6c47e5ea592425ec7ff9298a01edb891314bfd077a4/1080/index.m3u8
-#EXTINF:-1, tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2024/06/Jaat-306x393.jpg" group-title="FIGHTER | 7DAY REQUEST",JAAT 2025
-https://cdn30092.unial363iox.com/stream2/i-cdn-0/66e7577405fb8a78c6f1fa74962a9ff9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21UbZhnTqxWaORVSx4ERjlXT6VEeOJjRpllaFdXTUpVbNR0ZyolaNBzTHVVP:1751221061:183.83.55.73:dc0ba979f91d5faa62502a392cb62aa80223bd0593fdf87081d88879665945a7/1080/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Bhool_Chuk_Maaf_film_poster.jpg" group-title="FIGHTER | 7DAY REQUEST",Bhool Chuk Maaf 2025
-https:\\video-downloads.googleusercontent.com\ADGPM2mM7Xaxj9xBqElW0qCXUHZNwKLaW86rb3qOGOXIfka9rACyPtkTfGNdHSqc1UUM4hAmmXnc3yqHfmuKW1wuzE5LO_0wgl6YpE2ke95LTPpib8bSOT6d2yiSrs4sJuyqT9J96AsUEdnT2XtKOAB_iawihXqGNYjr2NPeLvLhz2YrPaFNx5ok7iMgcbeU0D__Cxy3CBjDal5MHWxI_ADOb2a27Wb6cuJBlTej8XcM3ZoHfTX_foiy4b3WfEcAAyq-G5aom-Ng
+#EXTINF:-1, tvg-logo="https://image.tmdb.org/t/p/w500/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg" group-title="FIGHTER | 7DAY REQUEST",JAAT 2025
+https://asnwish.com/stream/llQUpyNiqvFtja6UQ7gNUg/kjhhiuahiuhgihdf/1751523365/52799931/master.m3u8
+#EXTINF:-1, tvg-logo="https://catimages.org/images/2025/06/06/pIH0OFeT0mSlZQN1pYsJZ5t6PaJ.jpg" group-title="FIGHTER | 7DAY REQUEST",Bhool Chuk Maaf 2025
+https://asnwish.com/stream/ZV37vuisEhgrLvXfaVhSZQ/kjhhiuahiuhgihdf/1751523245/52859827/master.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJlMTM2OWUtYTQwNy00YmM3LTlkOTctMDBjY2ExN2JjY2UzXkEyXkFqcGc@._V1_UX500_.jpg" group-title="FIGHTER | 7DAY REQUEST",Hit The Third Case 2025
+https://asnwish.com/stream/AReq6EosMDN2o_HZ5s93aA/kjhhiuahiuhgihdf/1751523513/52533759/master.m3u8
