@@ -5923,8 +5923,7 @@ https://asnwish.com/stream/AReq6EosMDN2o_HZ5s93aA/kjhhiuahiuhgihdf/1751523513/52
 https://qnmdbn1lucqr.virtualtraceunithub.space/vr4pcjm18sa1/hls3/01/10363/4cgszq3qch0t_h/master.txt
 
 //===RANATUNGAISBACK===//
-
 #EXTM3U
-
-#EXTINF:-1 tvg-id="cf-movie-01" tvg-name="Fighter Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Fighter_film_poster.jpg" group-title="COBRA COMMANDER",Fighter Movie
+#EXTINF:-1 tvg-name="Test MP4" group-title="Test",Test MP4
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
