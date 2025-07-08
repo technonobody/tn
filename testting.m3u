@@ -23,6 +23,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="A1 | HD CHANNEL",INDIA SPEED NEWS HD
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
+//===LISTFSAMNG===//
+#EXTINF:-1 channel-id="samsung-IN38000072R" tvg-id="IN38000072R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="A1 | HD CHANNEL" tvg-chno="1000",The Movie Club
+https://jmp2.uk/sam-IN38000072R.m3u8
+#EXTINF:-1 channel-id="samsung-IN3800002VK" tvg-id="IN3800002VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png" group-title="A1 | HD CHANNEL" tvg-chno="1118",The Lallantop
+https://jmp2.uk/sam-IN3800002VK.m3u8
+#EXTINF:-1 channel-id="samsung-IN460000585" tvg-id="IN460000585" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="A1 | HD CHANNEL" tvg-chno="1166",Wild Flix
+https://jmp2.uk/sam-IN460000585.m3u8
+#EXTINF:-1 channel-id="samsung-IN300000210" tvg-id="IN300000210" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png" group-title="A1 | HD CHANNEL" tvg-chno="1363",Travelxp HD
+https://jmp2.uk/sam-IN300000210.m3u8
+
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://anjan.tv/sites/default/files/logo_0.png" group-title="A1 | CLAASIC", ANJAN TV
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b4000000.m3u8
@@ -34,6 +44,10 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="A1 | CLAASIC", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN17000109O" tvg-id="IN17000109O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20241024T054038SQUARE.png" group-title="A1 | CLAASIC" tvg-chno="1165",Epic
+https://jmp2.uk/sam-IN17000109O.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-INBD13000043W" tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20241023T011741SQUARE.png" group-title="A1 | CLAASIC" tvg-chno="1132",Animax
+https://jmp2.uk/sam-INBD13000043W.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://logowik.com/content/uploads/images/hit1443.logowik.com.webp" group-title="A1 | ULTIMATE MUSIC", HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -45,6 +59,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-06-10/2506103074000.jpg" group-title="A1 | ULTIMATE MUSIC", SHEMAROO FILMI GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8?ads.rnd=r054&ads.env_i=fa29a8ad-abd0-4309-b83f-d766e818399a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1079&ads.height=607&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=119.160.56.164&ads.geo=PK&ads.lat=30.16000&ads.long=71.71650&ads.dma=&ads.geoType=2&ads.contentid=23141&ads.content_duration=18000&ads.episode_id=123698&ads.show_id=4997&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CBollywood%2CAsian&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=hi&ads.showtitle=Shemaroo%20Filmigaane&ads.episodetitle=Shemaroo%20Filmigaane&ads.keywords=shemaroo%20Filmigaane%2Cshemaroo%20music%2Cshemaroo%20classic%20songs%2Clata%20Mangeshkar%20songs%2Cshankar%20Jaikishan%20songs%2Cold%20hindi%20songs%2Crajesh%20Khanna%20songs%2CKishor%20kumar%20songs%2Cromantic%20songs%2Casha%20Bhosle%20songs%2Claxmikant%20Pyarelal%20songs%2CBollywood%20songs%2Cbest%20hindi%20songs%2Ctop%2010%20hindi%20songs%2Clove%20songs%2Cmohd%20rafi%20songs%2CKishor%20kumar%20romantic%20songs%2CDilip%20kumar%20songs&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250216
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN26000122C" tvg-id="IN26000122C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png" group-title="A1 | ULTIMATE MUSIC", tvg-chno="1431",Kaan Phod Music
+https://jmp2.uk/sam-IN26000122C.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN2600011UH" tvg-id="IN2600011UH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png" group-title="A1 | ULTIMATE MUSIC", tvg-chno="1432",Superhit Beats
+https://jmp2.uk/sam-IN2600011UH.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN38000050P" tvg-id="IN38000050P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20241211T020333SQUARE.png" group-title="A1 | ULTIMATE MUSIC", tvg-chno="1435",9XM
+https://jmp2.uk/sam-IN38000050P.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN460001373" tvg-id="IN460001373" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="A1 | ULTIMATE MUSIC", tvg-chno="1436",NH BollyRaga
+https://jmp2.uk/sam-IN460001373.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="A1 | ULTIMATE MOVIE", Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -52,6 +74,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://m.program-tv.ro/img/fullwidth/295/29540/Bollywood_TV_devine_Bollywood_Stars.jpg" group-title="A1 | ULTIMATE MOVIE", Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN46000140Q" tvg-id="IN46000140Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="A1 | ULTIMATE MOVIE" tvg-chno="1316",NH BollyFlix
+https://jmp2.uk/sam-IN46000140Q.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RELEAXE LIFE" tvg-logo="https://yt3.googleusercontent.com/9yDKkeh2egOmrGQJAlwQwjGp4wZAxC6nHjBB4mDrt-o6abDtTA-V66cBDn3R03ll6nQSPbboGw=s160-c-k-c0x00ffffff-no-rj", Tokyo Views - 247 Lofi Chill Beats
 https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681cac4081742c00e20298bc.m3u8?uid=Royalland&pkey=BW7brz
