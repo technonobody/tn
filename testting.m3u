@@ -5945,11 +5945,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd?__hdn
 #EXTHTTP:{"cookie":"__hdnea__=st=1752286243~exp=1752372643~acl=/*~hmac=9d445c44e25102d442df560c588fe9c1e9b7594e2a3654d1527308a9f2dcc2ba"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea__=st=1752286243~exp=1752372643~acl=/*~hmac=9d445c44e25102d442df560c588fe9c1e9b7594e2a3654d1527308a9f2dcc2ba&xxx=%7Ccookie=__hdnea__=st=1752286243~exp=1752372643~acl=/*~hmac=9d445c44e25102d442df560c588fe9c1e9b7594e2a3654d1527308a9f2dcc2ba
 
-
-
-
-#EXTINF:-1 tvg-id="" group-title="JoinÃ°Å¸Â¤â€“@allinone_reborn" group-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" tvg-logo="https://i.ibb.co/RYsYthb/Screenshot-2024-01-08-172016.png" ,t.me/allinonereborn
-https://embed-cloudfront.wistia.com/deliveries/282114c59788866afb4d40b935a62258.m3u8
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
