@@ -23,12 +23,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="A1 | HD SELECTED",INDIA SPEED NEWS HD
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
+
 #EXTINF:-1 tvg-id="536" group-title="A1 | HD SELECTED" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a1d39ef3e8570a91db17590046ef76:aaa4f16ef3319d4627340f77f33d66f3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1752890819~exp=1752977219~acl=/*~hmac=b7d5a452f6b7c01869eee8447b7adc6ed59408672f7e704329c11198e129efb8"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_BTS/output/index.mpd?__hdnea__=st=1752890819~exp=1752977219~acl=/*~hmac=b7d5a452f6b7c01869eee8447b7adc6ed59408672f7e704329c11198e129efb8&xxx=%7Ccookie=__hdnea__=st=1752890819~exp=1752977219~acl=/*~hmac=b7d5a452f6b7c01869eee8447b7adc6ed59408672f7e704329c11198e129efb8
+
 //===LISTFSAMNG===//
 #EXTINF:-1 channel-id="samsung-IN38000072R" tvg-id="IN38000072R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1000",The Movie Club
 https://jmp2.uk/sam-IN38000072R.m3u8
