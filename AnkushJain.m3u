@@ -1,127 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398761/channel_list/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" group-title="HD CHANNELS",AASTHA HD
-https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sanskar_TV_logo.png/640px-Sanskar_TV_logo.png" group-title="HD CHANNELS",SANSKAR HD
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_20.m3u8
-#EXTINF:-1 tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="HD CHANNELS",SHUBH HD
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_13.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="HD CHANNELS",DD NATIONAL HD
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/152a7a48-a87c-4c54-a307-837a8793f224/4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Times_Now_Navbharat.svg/250px-Times_Now_Navbharat.svg.png" group-title="HD CHANNELS",TIMES NOW NAVBHARAT HD
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/250px-Aaj_Tak_logo.svg.png" group-title="HD CHANNELS",AAJ TAK HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 1 HD
-https://playhls.media.nic.in/live/lstv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="HD CHANNELS",SANSAD TV 2 HD
-https://www.youtube.com/watch?v=i60KJNLCDaQ&pp=0gcJCdgAo7VqN5tD
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="HD CHANNELS",SAGA MUSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/9a475d60-d827-416c-8075-dfb871b7c888/0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/CTV_Wild_Channel_Logo.png/250px-CTV_Wild_Channel_Logo.png" group-title="HD CHANNELS",NATURE STREAM HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/27d6d592-44ea-4b91-98fc-c440e81408fd/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="HD CHANNELS",INDIA TV HD
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD CHANNELS",INDIA SPEED NEWS HD
-https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD", Krewella - Parachute
-http://www.youtube.com/watch?v=xcKPyEy5quE
-#EXTINF:0 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD", Shallou - Heights
-http://www.youtube.com/watch?v=gbJC4KXr0go
-#EXTINF:0 tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="HD",Lostboycrow - Real Name
-http://www.youtube.com/watch?v=HKybVaHuW0A
-#EXTINF:0,Jasmine Thompson - Someone's Somebody
-http://www.youtube.com/watch?v=rIh8IhCC8HY
-#EXTINF:0,Zedd & Alessia Cara - Stay (Petit Biscuit Remix)
-http://www.youtube.com/watch?v=IdiHNIpWlSI
-#EXTINF:0,Terror Jr - Caramel
-http://www.youtube.com/watch?v=vb-iiiU2fXE
-#EXTINF:0,Astrid S - Party's Over
-http://www.youtube.com/watch?v=DiIBG4Oh0Ac
-#EXTINF:0,Chelsea Cutler - Sixteen
-http://www.youtube.com/watch?v=ly3vHcM3Exg
-#EXTINF:0,Astrid S - Breathe (Lauv Remix)
-http://www.youtube.com/watch?v=xFMsSpP5Cnw
-#EXTINF:0,Galantis - Hunter
-http://www.youtube.com/watch?v=Yotjv4h0Hgs
-#EXTINF:0,Miley Cyrus - Malibu (Kiso & Yvette Remix)
-http://www.youtube.com/watch?v=Jehbbi6JEpg
-#EXTINF:0,Lauv - I Like Me Better
-http://www.youtube.com/watch?v=VBFiq2iCEvg
-#EXTINF:0,Severo & Ellusive - Oceans Away (feat. Loé)
-http://www.youtube.com/watch?v=AYrN3xUcGXo
-#EXTINF:0,MagnusTheMagnus - Keep On Lovin' (feat. Seinabo Sey)
-http://www.youtube.com/watch?v=CxsQlOvjB78
-#EXTINF:0,LissA - Not
-http://www.youtube.com/watch?v=tuOuJguHALw
-#EXTINF:0,Maroon 5  - Cold ft.Future (R3hab & Khrebto Remix)
-http://www.youtube.com/watch?v=5UqJjcozCcc
-#EXTINF:0,Haux - Youth
-http://www.youtube.com/watch?v=G0g_lx4XmrI
-#EXTINF:0,Jubel - The Break Up Song
-http://www.youtube.com/watch?v=jtOlrgekpsQ
-#EXTINF:0,Shallou - Truth
-http://www.youtube.com/watch?v=NGhyTYZ3SXo
-#EXTINF:0,Shawn Mendes - There's Nothing Holding Me Back (NOTD Remix)
-http://www.youtube.com/watch?v=aWCZcevSxEU
-#EXTINF:0,Dillistone & LILI N - Don't Know Why
-http://www.youtube.com/watch?v=Bs7yv3G2bSo
-#EXTINF:0,Steve Kroeger - Coastline (feat. Skye Holland)
-http://www.youtube.com/watch?v=U-VVCFn0AOU
-#EXTINF:0,Tarro & PLVTINUM Champagne & Sunshine (Ellusive Remix)
-http://www.youtube.com/watch?v=XJjwUTPJA3s
-#EXTINF:0,Loote - High Without Your Love
-http://www.youtube.com/watch?v=Qte_hRoZ5j8
-#EXTINF:0,Holmsey - Wilder
-http://www.youtube.com/watch?v=soAODZ_gJFI
-#EXTINF:0,LIOHN & Filip - Bonfire
-http://www.youtube.com/watch?v=sM-l0FYJPwA
-#EXTINF:0,Gill Chang - Story (feat. Cimo Fränkel)
-http://www.youtube.com/watch?v=cvke4zrRnH0
-#EXTINF:0,ODESZA - Line of Sight (feat. WYNNE & Mansionair)
-http://www.youtube.com/watch?v=cPJIJrJOv7o
-#EXTINF:0,The Chainsmokers & Coldplay - Something Just Like This (R3hab Remix)
-http://www.youtube.com/watch?v=YJYrobBKruA
-#EXTINF:0,Emmit Fenn - 1995
-http://www.youtube.com/watch?v=vFADcQ6pLGE
-#EXTINF:0,Pham - Talk To Me (feat. Anuka)
-http://www.youtube.com/watch?v=CRApnKLiPCs
-#EXTINF:0,Shallou - Fictions
-http://www.youtube.com/watch?v=ljuYP6a5EgI
-#EXTINF:0,Linkin Park - Heavy ft. Kiiara (Nicky Romero Remix)
-http://www.youtube.com/watch?v=XjjY-slC_nI
-#EXTINF:0,Clean Bandit - Symphony ft. Zara Larsson (Steve Reece Remix)
-http://www.youtube.com/watch?v=YTAZlaugKvg
-#EXTINF:0,Kiiara - Whippin (feat. Felix Snow)
-http://www.youtube.com/watch?v=XGz0SIdj3GA
-#EXTINF:0,Whethan - Savage (NOTD Remix)
-http://www.youtube.com/watch?v=6yFg_SH16ys
-#EXTINF:0,XYLØ - Get Closer (Joe Mason Remix)
-http://www.youtube.com/watch?v=BfVKMB25lc4
-#EXTINF:0,Mansionz - Gorgeous
-http://www.youtube.com/watch?v=yDSt9hRniRg
-#EXTINF:0,Galantis - Rich Boy (Said The Sky Remix)
-http://www.youtube.com/watch?v=rObfQcv2F8s
-#EXTINF:0,Lukas Graham - You're Not There (Grey Remix)
-http://www.youtube.com/watch?v=tPFuEwEdltk
-#EXTINF:0,The Chainsmokers - Bloodstream
-http://www.youtube.com/watch?v=5JE-JrPFdik
-#EXTINF:0,Lauv - The Other (Matisse & Sadko Remix)
-http://www.youtube.com/watch?v=CSYg4CfvWyY
-#EXTINF:0,Kasbo - Found You (feat. Chelsea Cutler)
-http://www.youtube.com/watch?v=1KGXZVK3AEM
-#EXTINF:0,Y.V.E. 48 - Nothing To Say (feat. LissA)
-http://www.youtube.com/watch?v=MqK0wZrvd5Q
-#EXTINF:0,Maria Lynn & Toniia - Diamonds
-http://www.youtube.com/watch?v=UKnACrpPleQ
-#EXTINF:0,Kiso & Loé - Circles
-http://www.youtube.com/watch?v=Hzox8YSOdKg
-#EXTINF:0,Jason Derulo, Nicki Minaj & Ty Dolla $ign - Swalla (Vince Remix)
-http://www.youtube.com/watch?v=FFFiFGzi1IQ
-#EXTINF:0,Lucian - Close to You (feat. Jasmine Sokko)
-http://www.youtube.com/watch?v=Za1WNHC1qSo
-#EXTINF:0,Witt Lowry - Let Me Know (feat. Tori Solkowski)
-http://www.youtube.com/watch?v=mqB48tswoOo
-#EXTINF:0,Mura Masa & Charli XCX  - 1 Night
-http://www.youtube.com/watch?v=0J523eTGrLc
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1,Dora and the Search for Sol Dorado (2025)
+http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12643.mkv
+#EXTINF:-1,Play dead (2025)
+https://pixeldrain.dev/api/file/zcJkpuHt?play
+#EXTINF:-1,CID EPISODE 40
+http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12461.mkv
+#EXTINF:-1,Akaal: The Unconquered (2025)
+http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12460.mp4
+#EXTINF:-1,Ground Zero (2000)
+http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12459.mp4
+#EXTINF:-1,Baida (2025)
+http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12458.mp4
+#EXTINF:-1,Laughter Chefs EPISODE 30
