@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
 #EXTINF:-1,Ab Mujhe (2025)
-https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/playlist.m3u8
+https://iframe.mediadelivery.net/play/472759/3d7423a5-1a14-4bee-9abb-d2cba176d686
 #EXTINF:-1 tvg-id="deewana" tvg-name="Ab Mujhe Raat Din" group-title="Movies",Ab Mujhe Raat Din
 https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/playlist.m3u8
+#EXTINF:-1 tvg-id="deewana" tvg-name="Ab Mujhe Raat Din" group-title="Movies",Ab Mujhe
+https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/playlist.m3u8
+#EXTINF:-1 tvg-id="deewana" tvg-name="Ab Mujhe Raat Din" group-title="Movies",Ab Din
+https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/video.m3u8
