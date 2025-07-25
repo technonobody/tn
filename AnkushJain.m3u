@@ -1,15 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1,Dora and the Search for Sol Dorado (2025)
-http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12643.mkv
-#EXTINF:-1,Play dead (2025)
-https://pixeldrain.dev/api/file/zcJkpuHt?play
-#EXTINF:-1,CID EPISODE 40
-http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12461.mkv
-#EXTINF:-1,Akaal: The Unconquered (2025)
-http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12460.mp4
-#EXTINF:-1,Ground Zero (2000)
-http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12459.mp4
-#EXTINF:-1,Baida (2025)
-http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/12458.mp4
-#EXTINF:-1,Laughter Chefs EPISODE 30
+#EXTINF:-1,Ab Mujhe (2025)
+https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/playlist.m3u8
+#EXTINF:-1 tvg-id="deewana" tvg-name="Ab Mujhe Raat Din" group-title="Movies",Ab Mujhe Raat Din
+https://vz-e31bfe9f-35c.b-cdn.net/3d7423a5-1a14-4bee-9abb-d2cba176d686/playlist.m3u8
