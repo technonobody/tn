@@ -28,10 +28,26 @@ https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chu
 https://jmp2.uk/sam-IN38000072R.m3u8
 #EXTINF:-1 channel-id="samsung-IN3800002VK" tvg-id="IN3800002VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800002VK_20240925T012645SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1118",The Lallantop
 https://jmp2.uk/sam-IN3800002VK.m3u8
+#EXTINF:-1 channel-id="samsung-IN3800010SH" tvg-id="IN3800010SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20250122T004825SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1313",Hollywood Desi
+https://jmp2.uk/sam-IN3800010SH.m3u8
+#EXTINF:-1 channel-id="samsung-IN1600011DE" tvg-id="IN1600011DE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600011DE_20240828T013137SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1314",KCM
+https://jmp2.uk/sam-IN1600011DE.m3u8
+#EXTINF:-1 channel-id="samsung-INBC43000034X" tvg-id="INBC43000034X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png" group-title="A1 | HD SELECTED" tvg-chno="1315",BEST ACTION TV
+https://jmp2.uk/sam-INBC43000034X.m3u8
+#EXTINF:-1 channel-id="samsung-IN1600009NL" tvg-id="IN1600009NL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600009NL_20240912T093622SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1163",HISTORY TV18 - Hindi
+https://jmp2.uk/sam-IN1600009NL.m3u8
+#EXTINF:-1 channel-id="samsung-IN1600008DN" tvg-id="IN1600008DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600008DN_20240925T102238SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1164",HISTORY TV18
+https://jmp2.uk/sam-IN1600008DN.m3u8
 #EXTINF:-1 channel-id="samsung-IN460000585" tvg-id="IN460000585" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000585_20250416T020413SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1166",Wild Flix
 https://jmp2.uk/sam-IN460000585.m3u8
 #EXTINF:-1 channel-id="samsung-IN300000210" tvg-id="IN300000210" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300000210_20241113T015626SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1363",Travelxp HD
 https://jmp2.uk/sam-IN300000210.m3u8
+#EXTINF:-1 channel-id="samsung-IN3000003QJ" tvg-id="IN3000003QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000003QJ_20240925T012639SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1370",Foodxp
+https://jmp2.uk/sam-IN3000003QJ.m3u8
+#EXTINF:-1 channel-id="samsung-INBA490001909" tvg-id="INBA490001909" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490001909_20220427T054659SQUARE.png_20220427054700.png" group-title="A1 | HD SELECTED" tvg-chno="1371",Tastemade
+https://jmp2.uk/sam-INBA490001909.m3u8
+#EXTINF:-1 channel-id="samsung-IN26000170D" tvg-id="IN26000170D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000170D_20241023T011743SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="1373",Astro Tak
+https://jmp2.uk/sam-IN26000170D.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://anjan.tv/sites/default/files/logo_0.png" group-title="A1 | CLAASIC", ANJAN TV
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b4000000.m3u8
