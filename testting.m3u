@@ -8320,7 +8320,9 @@ http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7942.mkv
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7941.mkv
 #EXTINF:-1,Raja Natwarlal (2014)
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7939.mkv
-#EXTINF:-1,Jo Pyar Karta Hai (2014)
+#EXTINF:-1,URI THE SURGICAL STRIKE (2019)
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 https://stream.mux.com/l02so3xvtythR281fY8rb0000dNSVAVZx01PgPZibfhQjS00.m3u8
 #EXTINF:-1,URI THE SURGICAL STRIKE (2019)
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
 https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/9ShOt7yS5boZDkajAwtw1GwOJNAlgHHwFL9jX4oa6wrkhLxl3A474ihj4Kq8eoEULnwhywL9dwOU01IsMEnygfKzNDnMls2YG/rendition.m3u8?cdn=fastly&expires=1754510400&skid=default&signature=Njg5M2FmNDJfZDg3MmJmMDIxMDY2ZWQ0ODE3ZmExOTk2M2JjMjUwNzE2NTczM2I5YWU1ZTRmOTNjNmU1MDlkNjk1ZTU2MTUxOA==&vsid=vIp9oDgeYhWb1My00YafvJbMS019xlRHy00Vxpdu02u6S84AWEPpfDTvKD3MBHK8F02AS77K4tNof5w00
