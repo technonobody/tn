@@ -118,6 +118,14 @@ https://jmp2.uk/sam-IN38000050P.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN460001373" tvg-id="IN460001373" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="A1 | ULTIMATE SANGEET", tvg-chno="1436",NH BollyRaga
 https://jmp2.uk/sam-IN460001373.m3u8
 
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="Disney Channel" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/6b/Disney_channel_hd.png" group-title=" PLAYLIVTV⭐EXTRA",Disney Channel HD
+https://xcstream.vercel.app/share008/19741.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids: Hungama" tvg-logo="" group-title=" PLAYLIVTV⭐EXTRA",Hungama
+https://xcstream.vercel.app/share008/18456.m3u8
+#EXTINF:-1 tvg-id="sony-max-1" tvg-name="Sony MAX 1" tvg-language="Hindi" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title=" PLAYLIVTV⭐EXTRA" group-logo="https://www.sonypicturesnetworks.com/images/png", Sony MAX 1
+http://stormp-001-site1.jtempurl.com/Max/Smaxcls1.php?id=512328|User-Agent=PlayLivtv/5.0
+
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="A1 | ULTIMATE MOVIE", Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="A1 | ULTIMATE MOVIE", Bollywood HD
