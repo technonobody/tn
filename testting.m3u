@@ -78,7 +78,8 @@ https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8?ads.channel=6642&ads
 https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8?hdnts=st=1753773253~exp=1753776853~acl=!*/080823/jantv/*!yuppTVCom_5_24684742_4ccb4c70e4304219_IN_183.83.55.73~data=yuppTVCom_5_24684742_4ccb4c70e4304219_IN_183.83.55.73~hmac=d81a378bbe165091e6cba01ce9bbf3bae0da27359153715f6bad46ab2c667c5e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=NEWS&ads.channel=6641&ads.channel_name=JanTV&ads.network_name=yupptv&ads.user=0
 
 #EXTINF:-1 tvg-id="zeerajasthan.in" tvg-name="Zee Rajasthan News" tvg-logo="https://templearchitecture.com/wp-content/uploads/2025/03/zee-rajasthan.png" group-title="A1 | RAJASTHAN NEWS", Zee Rajasthan News
-https://d2jso9g61rg1h8.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTM3NzE4NjB9.YvOYKq5Ydr96LYMGYlJ6JUKhB0ctsBqHybmXEh9q7_M
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://stream.kliv.fun/allinone/z5/index.php?id=0-9-zeerajasthannews
 
 #EXTINF:-1 tvg-id="sandeshnewsrajasthan.in" tvg-name="Sandesh News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sandesh_News_logo.png" group-title="A1 | RAJASTHAN NEWS", Sandesh News Rajasthan
 http://your-stream-link/sandeshnews.m3u8
