@@ -1502,6 +1502,7 @@ https://asnwish.com/stream/ZV37vuisEhgrLvXfaVhSZQ/kjhhiuahiuhgihdf/1751523245/52
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGJlMTM2OWUtYTQwNy00YmM3LTlkOTctMDBjY2ExN2JjY2UzXkEyXkFqcGc@._V1_UX500_.jpg" group-title="PLAY ON DEMAND",Hit The Third Case | 2025
 https://asnwish.com/stream/AReq6EosMDN2o_HZ5s93aA/kjhhiuahiuhgihdf/1751523513/52533759/master.m3u8
 #EXTINF:-1 tvg-logo="https://catimages.org/images/2025/05/19/cw8DitAELYtWSD1P8yd0hzufVHj.jpg" group-title="PLAY ON DEMAND",FATEH | 2025
+https://www.1024terabox.com/api/streaming?path=%2Fmovie%2FAkha%20India%20Janta%20Hai%2C%20Kumar%20Sanu%20-%20Jaan%20Tere%20Naam%2C%20Romantic%20Song%20-%20YouTube%20(720p).mp4&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
 
 //========================MYJIOTVPLUS========================//
 //=======XFLIXDATA========//
@@ -8610,4 +8611,7 @@ http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7942.mkv
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7941.mkv
 #EXTINF:-1,Raja Natwarlal (2014)
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7939.mkv
+#EXTINF:-1,Akha India Janta Hai (2014)
+https://www.1024terabox.com/api/streaming?path=%2Fmovie%2FAkha%20India%20Janta%20Hai%2C%20Kumar%20Sanu%20-%20Jaan%20Tere%20Naam%2C%20Romantic%20Song%20-%20YouTube%20(720p).mp4&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
+
 
