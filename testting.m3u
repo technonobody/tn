@@ -1480,6 +1480,8 @@ https://asnwish.com/stream/lrugJxJKStO45rsFmzoPVQ/kjhhiuahiuhgihdf/1751522516/54
 
 //====================PLAY ON DEMAND===================//
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgzMTQ0NTgtOGRjMi00YWIxLTk0MjYtMjYwNjM4Y2I0MThjXkEyXkFqcGc@._V1_SX500.jpg" group-title="PLAY ON DEMAND",Kannappa (2025)
+https://asnwish.com/stream/1l9nud8OmcbRyGEyNJNWwA/kjhhiuahiuhgihdf/1754275060/56009366/master.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGExM2UtNTc5YS00ZTIyLTgyNTktODk3Nzk5NmVjZGU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="PLAY ON DEMAND",KAALIDHAR LAAPATA | 2025
 https://cdn30093.himer365ery.com/stream2/i-cdn-0/66e7577405fb8a78c6f1fa74962a9ff9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaBdnWEFVNZRVUxoVbKhmTEJ1aOpGZol1VNBzTXlUeNdURw0kajlnTt1UP:1752004127:183.83.55.73:fbece77e61c03510eccc44154c287be69cc3bde399a06d0a21e47dc7db7f9412/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.filmibeat.com/ph-big/2025/05/kapkapiii1747373882_1.jpg" group-title="PLAY ON DEMAND",KAPKAPIII | 2025
@@ -8608,3 +8610,4 @@ http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7942.mkv
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7941.mkv
 #EXTINF:-1,Raja Natwarlal (2014)
 http://nayatv.ydns.eu:80/movie/xfireflix/flixfire/7939.mkv
+
