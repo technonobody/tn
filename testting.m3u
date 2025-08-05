@@ -8617,6 +8617,6 @@ https://tgfiles.chsappz.com/?id=4893851725&token=116783
 https://tgfiles.chsappz.com/stream/4893851725/5904187738
 #EXTINF:-1,Fighter Mix (Fighter Mix)
 https://brics.b-cdn.net/hindivol1/output.m3u8
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-id="hindivol1" group-title="Bollywood VOD",Hindi Volume 1
+https://brics.b-cdn.net/hindivol1/output.m3u8
