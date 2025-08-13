@@ -81,8 +81,8 @@ https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8?hdnts=st=1753773253
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://stream.kliv.fun/allinone/z5/index.php?id=0-9-zeerajasthannews
 
-#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="PATRIKA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Dd-rajasthan-in.png/revision/latest?cb=20210923130352" group-title="A1 | RAJASTHAN KHABAR", PATRIKA TV
-https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=162ad587-41c2-4ada-b737-7b62c8bd2c4f
+#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="PATRIKA TV" tvg-logo="https://www.adgully.com/img/800/201903/patrika-tv-logo.jpg" group-title="A1 | RAJASTHAN KHABAR", PATRIKA TV
+https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1755128096\ei\wMycaPy9Cc3T3LUPh87jyAE\ip\183.83.53.57\id\u53edpk-3W8.1\source\yt_live_broadcast\requiressl\yes\xpc\EgVo2aDSNQ%3D%3D\tx\51477230\txs\51477230%2C51477231%2C51477232\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\ss\1\ssa\1\bui\AY1jyLNCjzxnZuTTBpALzBsZIgebAJEEWl6xN0ru_KPN9MFSUCU3iK65DButGrcn2qAglzgrLu0q6qd9\spc\l3OVKa300bqTWkj5k9Z4cAf1sdLykoodrIOEymusYFFJN6GslqPI2_C0-j6nMICDV-E\vprv\1\go\1\rqh\5\pacing\0\nvgoi\1\ncsapi\1\keepalive\yes\fexp\51355912%2C51548755\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type\sig\AJfQdSswRAIgL9UtZ17I9WXrv_Pcqdz_2Jh3hNzn3JMhKTdJwwK9QSACIEOpA0y1qr6b_58YuU1oqY2ZqY74DSbUcVQKeKN-oWCQ\file\index.m3u8
 
 #EXTINF:-1 tvg-id="sandeshnewsrajasthan.in" tvg-name="Sandesh News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sandesh_News_logo.png" group-title="A1 | RAJASTHAN KHABAR", Sandesh News Rajasthan
 http://your-stream-link/sandeshnews.m3u8
@@ -1343,3 +1343,4 @@ https://fifabd.site/OPLLXv/play.php?id=251574&|User-Agent=RANAPK
 https://fifabd.site/OPLLXv/play.php?id=251575&|User-Agent=RANAPK
 
 //===FROM PLAYLIV===//
+
