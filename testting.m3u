@@ -69,7 +69,7 @@ https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
 https://cdn.smartstream.video/smartstream-us/jantantratv/jantantratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sachbedhadak.in" tvg-name="Sach Bedhadak Rajasthan" tvg-logo="https://sachbedhadak.com/wp-content/uploads/2024/01/sach_bedhadak.png" group-title="A1 | RAJASTHAN KHABAR", Sach Bedhadak Rajasthan
-https://server.thelegitpro.in/suchbedhadak/suchbedhadak/index.fmp4.m3u8
+https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1755128096\ei\wMycaPy9Cc3T3LUPh87jyAE\ip\183.83.53.57\id\u53edpk-3W8.1\source\yt_live_broadcast\requiressl\yes\xpc\EgVo2aDSNQ%3D%3D\tx\51477230\txs\51477230%2C51477231%2C51477232\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\ss\1\ssa\1\bui\AY1jyLNCjzxnZuTTBpALzBsZIgebAJEEWl6xN0ru_KPN9MFSUCU3iK65DButGrcn2qAglzgrLu0q6qd9\spc\l3OVKa300bqTWkj5k9Z4cAf1sdLykoodrIOEymusYFFJN6GslqPI2_C0-j6nMICDV-E\vprv\1\go\1\rqh\5\pacing\0\nvgoi\1\ncsapi\1\keepalive\yes\fexp\51355912%2C51548755\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type\sig\AJfQdSswRAIgL9UtZ17I9WXrv_Pcqdz_2Jh3hNzn3JMhKTdJwwK9QSACIEOpA0y1qr6b_58YuU1oqY2ZqY74DSbUcVQKeKN-oWCQ\file\index.m3u8
 
 #EXTINF:-1 tvg-id="https://www.yupptv.com/fast-tv/a1-tv/live" tvg-name="A1 Tv Rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png" group-title="A1 | RAJASTHAN KHABAR", A1TV Rajasthan
 https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8?ads.channel=6642&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1753770978~exp=1753792578~acl=!*/080823/a1tv/*!/payload/yupptvott_5_543971_4ccb4c70e4304219_IN_183.83.55.73_yuppfast_2_channel_118_-1/*~data=yupptvott_5_543971_4ccb4c70e4304219_IN_183.83.55.73_yuppfast_2_channel_118_-1~hmac=bbeb2b002bb0a5d1f6339421bcca18539d04c836c962729a128954f1117be338&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=A1TV&ads.language=HIN&ads.user=0
@@ -1343,4 +1343,5 @@ https://fifabd.site/OPLLXv/play.php?id=251574&|User-Agent=RANAPK
 https://fifabd.site/OPLLXv/play.php?id=251575&|User-Agent=RANAPK
 
 //===FROM PLAYLIV===//
+
 
