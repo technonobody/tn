@@ -32,6 +32,12 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cc-u6hadnoh0u6td.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u6hadnoh0u6td/OTM/OTM_HollywoodActionHindi-SCTE_SAMSUNG/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="A1 | HD SELECTED", NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="A1 | HD SELECTED", Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="A1 | HD SELECTED", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://m.program-tv.ro/img/fullwidth/295/29540/Bollywood_TV_devine_Bollywood_Stars.jpg" group-title="A1 | HD SELECTED", Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20250521T010031SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",B4u Movies
 https://amg00877-amg00877c2-samsung-in-6975.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20250521T010028SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",B4u Kadak
@@ -58,8 +64,6 @@ https://cc-15xwgrsji2vbf.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://amg01448-amg01448c20-samsung-in-4354.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungindia-astrotak-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600015OO_20240912T093637SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",Crime Tak
 https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8
-#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="" group-title="A1 | HD SELECTED" tvg-chno="",Fully Faltoo
-https://amg00857-amg00857c2-samsung-in-4288.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00857-viacom18mediaprivatelimitedfast-fullyfaltoo-samsungin/cb573d16786c6d8d84cf3d78d1f64582e65939d9137
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20240911T003806SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",India Tv Aap Ki Adalat
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460000313_20250205T004601SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",Foodie Hub
@@ -72,45 +76,19 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="DD Rajasthan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Dd-rajasthan-in.png/revision/latest?cb=20210923130352" group-title="A1 | RAJASTHAN KHABAR", DD Rajasthan
-https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=162ad587-41c2-4ada-b737-7b62c8bd2c4f
-
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-
 #EXTINF:-1 tvg-id="news18rajasthan.in" tvg-name="News18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
 https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8
-
 #EXTINF:-1 tvg-id="firstindianews.in" tvg-name="First India News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/First_India_News_.png" group-title="A1 | RAJASTHAN KHABAR", First India News Rajasthan
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-
 #EXTINF:-1 tvg-id="https://indianews.in/live-tv/" tvg-name="India News Rajasthan" tvg-logo="https://img.favpng.com/8/8/4/india-news-television-channel-itv-network-png-favpng-3agR9uvjgYxCqWYZyxm5dzntp.jpg" group-title="A1 | RAJASTHAN KHABAR", India News Rajasthan
 https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
-
 #EXTINF:-1 tvg-id="jantantratvrajasthan.in" tvg-name="Jantantra TV Rajasthan" tvg-logo="https://bharatmissions.com/jannews/wp-content/uploads/2024/08/Jantantra-TV-Logo.png" group-title="A1 | RAJASTHAN KHABAR", Jantantra TV Rajasthan
 https://cdn.smartstream.video/smartstream-us/jantantratv/jantantratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sachbedhadak.in" tvg-name="Sach Bedhadak Rajasthan" tvg-logo="https://sachbedhadak.com/wp-content/uploads/2024/01/sach_bedhadak.png" group-title="A1 | RAJASTHAN KHABAR", Sach Bedhadak Rajasthan
-https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1755128096\ei\wMycaPy9Cc3T3LUPh87jyAE\ip\183.83.53.57\id\u53edpk-3W8.1\source\yt_live_broadcast\requiressl\yes\xpc\EgVo2aDSNQ%3D%3D\tx\51477230\txs\51477230%2C51477231%2C51477232\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\ss\1\ssa\1\bui\AY1jyLNCjzxnZuTTBpALzBsZIgebAJEEWl6xN0ru_KPN9MFSUCU3iK65DButGrcn2qAglzgrLu0q6qd9\spc\l3OVKa300bqTWkj5k9Z4cAf1sdLykoodrIOEymusYFFJN6GslqPI2_C0-j6nMICDV-E\vprv\1\go\1\rqh\5\pacing\0\nvgoi\1\ncsapi\1\keepalive\yes\fexp\51355912%2C51548755\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type\sig\AJfQdSswRAIgL9UtZ17I9WXrv_Pcqdz_2Jh3hNzn3JMhKTdJwwK9QSACIEOpA0y1qr6b_58YuU1oqY2ZqY74DSbUcVQKeKN-oWCQ\file\index.m3u8
-
-#EXTINF:-1 tvg-id="https://www.yupptv.com/fast-tv/a1-tv/live" tvg-name="A1 Tv Rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png" group-title="A1 | RAJASTHAN KHABAR", A1TV Rajasthan
-https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8?ads.channel=6642&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1753770978~exp=1753792578~acl=!*/080823/a1tv/*!/payload/yupptvott_5_543971_4ccb4c70e4304219_IN_183.83.55.73_yuppfast_2_channel_118_-1/*~data=yupptvott_5_543971_4ccb4c70e4304219_IN_183.83.55.73_yuppfast_2_channel_118_-1~hmac=bbeb2b002bb0a5d1f6339421bcca18539d04c836c962729a128954f1117be338&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=A1TV&ads.language=HIN&ads.user=0
-
-#EXTINF:-1 tvg-id="jantv.in" tvg-name="Jan TV Rajasthan" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/JAN-TV_black.png" group-title="A1 | RAJASTHAN KHABAR", Jan TV Rajasthan
-https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8?hdnts=st=1753773253~exp=1753776853~acl=!*/080823/jantv/*!yuppTVCom_5_24684742_4ccb4c70e4304219_IN_183.83.55.73~data=yuppTVCom_5_24684742_4ccb4c70e4304219_IN_183.83.55.73~hmac=d81a378bbe165091e6cba01ce9bbf3bae0da27359153715f6bad46ab2c667c5e&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=NEWS&ads.channel=6641&ads.channel_name=JanTV&ads.network_name=yupptv&ads.user=0
-
-#EXTINF:-1 tvg-id="zeerajasthan.in" tvg-name="Zee Rajasthan News" tvg-logo="https://templearchitecture.com/wp-content/uploads/2025/03/zee-rajasthan.png" group-title="A1 | RAJASTHAN KHABAR", Zee Rajasthan News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allinone/z5/index.php?id=0-9-zeerajasthannews
-
-#EXTINF:-1 tvg-id="ddrajasthan.in" tvg-name="PATRIKA TV" tvg-logo="https://www.adgully.com/img/800/201903/patrika-tv-logo.jpg" group-title="A1 | RAJASTHAN KHABAR", PATRIKA TV
-https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1755128096\ei\wMycaPy9Cc3T3LUPh87jyAE\ip\183.83.53.57\id\u53edpk-3W8.1\source\yt_live_broadcast\requiressl\yes\xpc\EgVo2aDSNQ%3D%3D\tx\51477230\txs\51477230%2C51477231%2C51477232\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\ss\1\ssa\1\bui\AY1jyLNCjzxnZuTTBpALzBsZIgebAJEEWl6xN0ru_KPN9MFSUCU3iK65DButGrcn2qAglzgrLu0q6qd9\spc\l3OVKa300bqTWkj5k9Z4cAf1sdLykoodrIOEymusYFFJN6GslqPI2_C0-j6nMICDV-E\vprv\1\go\1\rqh\5\pacing\0\nvgoi\1\ncsapi\1\keepalive\yes\fexp\51355912%2C51548755\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type\sig\AJfQdSswRAIgL9UtZ17I9WXrv_Pcqdz_2Jh3hNzn3JMhKTdJwwK9QSACIEOpA0y1qr6b_58YuU1oqY2ZqY74DSbUcVQKeKN-oWCQ\file\index.m3u8
-
-#EXTINF:-1 tvg-id="sandeshnewsrajasthan.in" tvg-name="Sandesh News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Sandesh_News_logo.png" group-title="A1 | RAJASTHAN KHABAR", Sandesh News Rajasthan
-http://your-stream-link/sandeshnews.m3u8
-
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://anjan.tv/sites/default/files/logo_0.png" group-title="A1 | CLAASIC", ANJAN TV
-https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/chunklist_b4000000.m3u8
+https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/2560px-POGO-logo.svg.png" group-title="A1 | CLAASIC", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="A1 | CLAASIC", Zoo Moo
@@ -130,27 +108,18 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png" group-title="A1 | ULTIMATE SANGEET", 9X JALWA
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="A1 | ULTIMATE SANGEET", E24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-06-10/2506103074000.jpg" group-title="A1 | ULTIMATE SANGEET", SHEMAROO FILMI GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8?ads.rnd=r054&ads.env_i=fa29a8ad-abd0-4309-b83f-d766e818399a&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1079&ads.height=607&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=119.160.56.164&ads.geo=PK&ads.lat=30.16000&ads.long=71.71650&ads.dma=&ads.geoType=2&ads.contentid=23141&ads.content_duration=18000&ads.episode_id=123698&ads.show_id=4997&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CBollywood%2CAsian&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=hi&ads.showtitle=Shemaroo%20Filmigaane&ads.episodetitle=Shemaroo%20Filmigaane&ads.keywords=shemaroo%20Filmigaane%2Cshemaroo%20music%2Cshemaroo%20classic%20songs%2Clata%20Mangeshkar%20songs%2Cshankar%20Jaikishan%20songs%2Cold%20hindi%20songs%2Crajesh%20Khanna%20songs%2CKishor%20kumar%20songs%2Cromantic%20songs%2Casha%20Bhosle%20songs%2Claxmikant%20Pyarelal%20songs%2CBollywood%20songs%2Cbest%20hindi%20songs%2Ctop%2010%20hindi%20songs%2Clove%20songs%2Cmohd%20rafi%20songs%2CKishor%20kumar%20romantic%20songs%2CDilip%20kumar%20songs&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250216
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN26000122C" tvg-id="IN26000122C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000122C_20241211T020344SQUARE.png" group-title="A1 | ULTIMATE SANGEET", tvg-chno="1431",Kaan Phod Music
 https://amg00857-amg00857c4-samsung-in-4292.playouts.now.amagi.tv/playlist/amg00857-viacom18mediaprivatelimitedfast-kaanphodmusic-samsungin/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN2600011UH" tvg-id="IN2600011UH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png" group-title="A1 | ULTIMATE SANGEET", tvg-chno="1432",Superhit Beats
-Request URI Path: /https://amg00857-amg00857c5-samsung-in-4293.playouts.now.amagi.tv/playlist/amg00857-viacom18mediaprivatelimitedfast-superhitbeats-samsungin/playlist.m3u8
+https://amg00857-amg00857c5-samsung-in-4293.playouts.now.amagi.tv/playlist/amg00857-viacom18mediaprivatelimitedfast-superhitbeats-samsungin/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN38000050P" tvg-id="IN38000050P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20241211T020333SQUARE.png" group-title="A1 | ULTIMATE SANGEET", tvg-chno="1435",9XM
-https://jmp2.uk/sam-IN38000050P.m3u8
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" channel-id="samsung-IN460001373" tvg-id="IN460001373" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20250416T005420SQUARE.png" group-title="A1 | ULTIMATE SANGEET", tvg-chno="1436",NH BollyRaga
-https://jmp2.uk/sam-IN460001373.m3u8
-
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="A1 | ULTIMATE MOVIE", Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="A1 | ULTIMATE MOVIE", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://m.program-tv.ro/img/fullwidth/295/29540/Bollywood_TV_devine_Bollywood_Stars.jpg" group-title="A1 | ULTIMATE MOVIE", Bollywood Classic HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="A1 | ULTIMATE MOVIE", Sony MAX 1
-http://stormp-001-site1.jtempurl.com/Max/Smaxcls1.php?id=512328|User-Agent=PlayLivtv/5.0
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="A1 | ULTIMATE SANGEET", E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RELEAXE LIFE" tvg-logo="https://yt3.googleusercontent.com/9yDKkeh2egOmrGQJAlwQwjGp4wZAxC6nHjBB4mDrt-o6abDtTA-V66cBDn3R03ll6nQSPbboGw=s160-c-k-c0x00ffffff-no-rj", Tokyo Views - 247 Lofi Chill Beats
 https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681cac4081742c00e20298bc.m3u8?uid=Royalland&pkey=BW7brz
@@ -4246,6 +4215,7 @@ https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 
 //===FROM PLAYLIV===//
+
 
 
 
