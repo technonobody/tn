@@ -5,6 +5,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_20.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/1410047subh_logo_new.png" group-title="A1 | HD SELECTED",SHUBH HD
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_10.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5534104satsang.png" group-title="A1 | HD SELECTED",SATSANG HD
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index_15.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DD_National_2025_logo.png/250px-DD_National_2025_logo.png" group-title="A1 | HD SELECTED",DD NATIONAL HD
 https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=4b6a4990-5ef4-4131-b12f-0fe148990822
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Times_Now_Navbharat.svg/250px-Times_Now_Navbharat.svg.png" group-title="A1 | HD SELECTED",TIMES NOW NAVBHARAT HD
@@ -12,7 +14,7 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/live_1080p/chunks
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/250px-Aaj_Tak_logo.svg.png" group-title="A1 | HD SELECTED",AAJ TAK HD
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="A1 | HD SELECTED",SANSAD TV 1 HD
-https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=f1971d95-60aa-4f61-b329-7aa8ebd4ffe3
+https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="A1 | HD SELECTED",SANSAD TV 2 HD
 https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=16321547-4639-4f8b-8005-537d53d0132d
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" group-title="A1 | HD SELECTED",SAGA MUSIC HD
@@ -21,6 +23,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="A1 | HD SELECTED",INDIA TV HD
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/640px-TV9_Bharatvarsh.svg.png" group-title="A1 | HD SELECTED",TV9 BHARATVARSH HD
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/speed-news.png" group-title="A1 | HD SELECTED",INDIA SPEED NEWS HD
 https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/chunklist_0.m3u8
 //===LISTFSAMNG===//
@@ -76,6 +80,18 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-in_FashionTV/playlist.m3u8
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://trambakeshwar.com/images/logo.png", Trimbakeshwar Devasthan
+https://s75.ipcamlive.com/streams_timeshift/7a0aksubnqonip7a4/stream.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/1200px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg", AYODHYA LIVE
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87be6d958d2f8ff5f724d.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoD7eo1YYXfQt1foxTf_HlHkKZWHsxhht5gBrcN6R-eLuRZcEyUivlVuc&s=10", Mahakal darshan
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87ca28d4666c5caa7c05a.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObv7Okb5kF4i_ytF7TMfr9mLEq6uRawGtcQND_FYPYrgCE7PP_mc-6kPV&s=10", Siddhivinayak Mandir
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87d218d4666c5caa7c05b.m3u8?uid=Royalland&pkey=BW7brz
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0Tl6nbqZ1JS2DvBVH-rIXCg27fYkLvHTWu7k-kVuqYtKTIEV153GxtBI&s=10", Khatu Shyam Mandir
+https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87de9e813d30ec61c53c1.m3u8?uid=Royalland&pkey=BW7brz
+
+#EXTM3U
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="news18rajasthan.in" tvg-name="News18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
@@ -86,6 +102,8 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u
 https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
 #EXTINF:-1 tvg-id="jantantratvrajasthan.in" tvg-name="Jantantra TV Rajasthan" tvg-logo="https://bharatmissions.com/jannews/wp-content/uploads/2024/08/Jantantra-TV-Logo.png" group-title="A1 | RAJASTHAN KHABAR", Jantantra TV Rajasthan
 https://cdn.smartstream.video/smartstream-us/jantantratv/jantantratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zee_media_logo.svg/1100px-Zee_media_logo.svg.png" group-title="A1 | RAJASTHAN KHABAR", Zee Rajasthan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://anjan.tv/sites/default/files/logo_0.png" group-title="A1 | CLAASIC", ANJAN TV
 https://anjantv.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
@@ -144,15 +162,6 @@ https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681c80a1e36ccb09872be1de.m3u
 https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681ca5d04a47bdd1d4b94dc6.m3u8?uid=Royalland&pkey=BW7brz
 #EXTINF:-1 tvg-id="" group-title="RELEAXE LIFE" tvg-logo="https://imgproxy.fourthwall.com/C7oMXJvJl4Ju3ko_Xqi2ZJJhzkDVDia3Cg78yA8KpU4/w:132/dpr:2/sm:1/enc/36v_FjxVv6kszAZa/Ib44Q54CuM4mZfMR/aekcEWkEBpmqs8nE/VMTeN6dkNzcptISG/ooST7JbLUUNraNJn/zrpogIKdFdMdOc0e/V6iUiM_iwgCnEI9Q/k4xEcdZBVJC7nszO/UZH6KqvAXS5vmS1u/cKL7yjsmLTHY3E_M/gohcIzlW-E5BhWQU/wO72Q7vf6jV57-O8/__mC5nY6Wfnj_8qf/LxFUo5wLfO0JZSLS/JEsUW4Y1TDfYuwCw/Uq3l5bFnUclfUtGY", The Relaxed Guy - Ocean Waves
 https://api.m3use.projectmoose.xyz/m3u/mjk1984/Misc/681ca6124a47bdd1d4b94dc7.m3u8?uid=Royalland&pkey=BW7brz
-
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/1200px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg", AYODHYA LIVE
-https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87be6d958d2f8ff5f724d.m3u8?uid=Royalland&pkey=BW7brz
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoD7eo1YYXfQt1foxTf_HlHkKZWHsxhht5gBrcN6R-eLuRZcEyUivlVuc&s=10", Mahakal darshan
-https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87ca28d4666c5caa7c05a.m3u8?uid=Royalland&pkey=BW7brz
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObv7Okb5kF4i_ytF7TMfr9mLEq6uRawGtcQND_FYPYrgCE7PP_mc-6kPV&s=10", Siddhivinayak Mandir
-https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87d218d4666c5caa7c05b.m3u8?uid=Royalland&pkey=BW7brz
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv0Tl6nbqZ1JS2DvBVH-rIXCg27fYkLvHTWu7k-kVuqYtKTIEV153GxtBI&s=10", Khatu Shyam Mandir
-https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f87de9e813d30ec61c53c1.m3u8?uid=Royalland&pkey=BW7brz
 
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | INTERNATIONAL" tvg-logo="https://xymister.serv00.net/picon/4097_0_1_2_208E_F71C_0_0_0_0.png", Deluxe Lounge HD
 https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f95728229d18dc241a6035.m3u8?uid=Royalland&pkey=BW7brz
@@ -1374,6 +1383,7 @@ https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 
 //===FROM PLAYLIV===//
+
 
 
 
