@@ -743,7 +743,7 @@ https://allinonereborn.fun/sansat-web/live.php?id=36301
 
 //===SONY SANSAT===//
 #EXTINF:-1 tvg-id="376266" tvg-name="IN| SONY FHD" tvg-logo="https://lo1.in/ind/sny.png" group-title="INDIA HINDI",IN| SONY FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376266
+https://allinonereborn.fun/sansat.m3u8/live.php?id=376266
 #EXTINF:-1 tvg-id="400159477" tvg-name="IN| SONY SAB HD" tvg-logo="https://lo1.in/ind/snysb.png" group-title="INDIA HINDI",IN| SONY SAB HD
 https://allinonereborn.fun/sansat-web/live.php?id=400159477
 #EXTINF:-1 tvg-id="400232358" tvg-name="IN| SONY SAB SD (UK)" tvg-logo="https://lo1.in/ind/snysb.png" group-title="INDIA HINDI",IN| SONY SAB SD (UK)
@@ -1383,6 +1383,7 @@ https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 
 //===FROM PLAYLIV===//
+
 
 
 
