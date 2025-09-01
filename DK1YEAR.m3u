@@ -170,1128 +170,826 @@ https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df086546a2110072f47c
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | INTERNATIONAL" tvg-logo="https://xymister.serv00.net/picon/5002_0_1_9376_752B_EC_0_0_0_0.png", Deluxe Deutschpop HD
 https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415.m3u8?uid=Royalland&pkey=BW7brz
 
-//===ALLINONE AIRTEL===//
-#EXTM3U
-#EXTINF:-1 tvg-id="510907" tvg-name="|INDIA|UTSAV PLUS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|INDIA|UTSAV PLUS
-https://allinonereborn.fun/airtel.m3u8?id=510907
-#EXTINF:-1 tvg-id="276904" tvg-name="|HI| ZEE CLASSICS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE CLASSICS
-https://allinonereborn.fun/airtel.m3u8?id=276904
-#EXTINF:-1 tvg-id="276905" tvg-name="|HI| ZEE ACTION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE ACTION
-https://allinonereborn.fun/airtel.m3u8?id=276905
-#EXTINF:-1 tvg-id="276906" tvg-name="|HI| ZEE TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE TV ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276906
-#EXTINF:-1 tvg-id="276907" tvg-name="|HI| ZEE CINEMA ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE CINEMA ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276907
-#EXTINF:-1 tvg-id="276908" tvg-name="|HI| ZING" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZING
-https://allinonereborn.fun/airtel.m3u8?id=276908
-#EXTINF:-1 tvg-id="276909" tvg-name="|HI| STAR BHARAT ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR BHARAT ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276909
-#EXTINF:-1 tvg-id="276910" tvg-name="|HI| STAR GOLD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR GOLD ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276910
-#EXTINF:-1 tvg-id="276911" tvg-name="|HI| STAR GOLD SELECT ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR GOLD SELECT ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276911
-#EXTINF:-1 tvg-id="276912" tvg-name="|HI| STAR PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276912
-#EXTINF:-1 tvg-id="276913" tvg-name="|HI| STAR UTSAV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR UTSAV
-https://allinonereborn.fun/airtel.m3u8?id=276913
-#EXTINF:-1 tvg-id="276914" tvg-name="|HI| STAR UTSAV MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR UTSAV MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=276914
-#EXTINF:-1 tvg-id="276915" tvg-name="|HI| SONY ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276915
-#EXTINF:-1 tvg-id="276916" tvg-name="|HI| SONY MAX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY MAX ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276916
-#EXTINF:-1 tvg-id="276917" tvg-name="|HI| SONY MAX 2" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY MAX 2
-https://allinonereborn.fun/airtel.m3u8?id=276917
-#EXTINF:-1 tvg-id="276918" tvg-name="|HI| SONY PIX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY PIX ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276918
-#EXTINF:-1 tvg-id="276919" tvg-name="|HI| SONY BBC EARTH ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY BBC EARTH ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276919
-#EXTINF:-1 tvg-id="276920" tvg-name="|HI| SONY SAB ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY SAB ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276920
-#EXTINF:-1 tvg-id="276921" tvg-name="|HI| SONY PAL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY PAL
-https://allinonereborn.fun/airtel.m3u8?id=276921
-#EXTINF:-1 tvg-id="276922" tvg-name="|HI| SONY WAH" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY WAH
-https://allinonereborn.fun/airtel.m3u8?id=276922
-#EXTINF:-1 tvg-id="276923" tvg-name="|HI| SONY YAY" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SONY YAY
-https://allinonereborn.fun/airtel.m3u8?id=276923
-#EXTINF:-1 tvg-id="276924" tvg-name="|HI| B4U MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| B4U MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=276924
-#EXTINF:-1 tvg-id="276925" tvg-name="|HI| COLORS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| COLORS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276925
-#EXTINF:-1 tvg-id="276926" tvg-name="|HI| 9X JALWA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| 9X JALWA
-https://allinonereborn.fun/airtel.m3u8?id=276926
-#EXTINF:-1 tvg-id="276927" tvg-name="|HI| AAJ TAK ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AAJ TAK ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276927
-#EXTINF:-1 tvg-id="276928" tvg-name="|HI| AAJ TAK TEZ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AAJ TAK TEZ
-https://allinonereborn.fun/airtel.m3u8?id=276928
-#EXTINF:-1 tvg-id="276929" tvg-name="|HI| ZOOM TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZOOM TV ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276929
-#EXTINF:-1 tvg-id="276930" tvg-name="|HI| AASTHA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AASTHA
-https://allinonereborn.fun/airtel.m3u8?id=276930
-#EXTINF:-1 tvg-id="276931" tvg-name="|HI| AASTHA BHAJAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AASTHA BHAJAN
-https://allinonereborn.fun/airtel.m3u8?id=276931
-#EXTINF:-1 tvg-id="276932" tvg-name="|HI| ABP NEWS INDIA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ABP NEWS INDIA
-https://allinonereborn.fun/airtel.m3u8?id=276932
-#EXTINF:-1 tvg-id="276933" tvg-name="|HI| AND PICTURES ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AND PICTURES ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276933
-#EXTINF:-1 tvg-id="276934" tvg-name="|HI| & TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| & TV ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276934
-#EXTINF:-1 tvg-id="276935" tvg-name="|HI| ANIMAL PLANET ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ANIMAL PLANET ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276935
-#EXTINF:-1 tvg-id="276936" tvg-name="|HI| ARIHANT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ARIHANT
-https://allinonereborn.fun/airtel.m3u8?id=276936
-#EXTINF:-1 tvg-id="276937" tvg-name="|HI| BABY TV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| BABY TV ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276937
-#EXTINF:-1 tvg-id="276938" tvg-name="|HI| BIG MAGIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| BIG MAGIC ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276938
-#EXTINF:-1 tvg-id="276940" tvg-name="|HI| CINEPLEX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CINEPLEX ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276940
-#EXTINF:-1 tvg-id="276942" tvg-name="|HI| DD NATIONAL ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD NATIONAL ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276942
-#EXTINF:-1 tvg-id="276943" tvg-name="|HI| DD RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD RAJASTHAN
-https://allinonereborn.fun/airtel.m3u8?id=276943
-#EXTINF:-1 tvg-id="276944" tvg-name="|HI| DD BHARATI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD BHARATI
-https://allinonereborn.fun/airtel.m3u8?id=276944
-#EXTINF:-1 tvg-id="276945" tvg-name="|HI| DD BIHAR" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD BIHAR
-https://allinonereborn.fun/airtel.m3u8?id=276945
-#EXTINF:-1 tvg-id="276946" tvg-name="|HI| DD INDIA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD INDIA
-https://allinonereborn.fun/airtel.m3u8?id=276946
-#EXTINF:-1 tvg-id="276947" tvg-name="|HI| DD NEWS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD NEWS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276947
-#EXTINF:-1 tvg-id="276948" tvg-name="|HI| DD SPORTS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD SPORTS
-https://allinonereborn.fun/airtel.m3u8?id=276948
-#EXTINF:-1 tvg-id="276950" tvg-name="|HI| DD URDU" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD URDU
-https://allinonereborn.fun/airtel.m3u8?id=276950
-#EXTINF:-1 tvg-id="276952" tvg-name="|HI| DD BHARTI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DD BHARTI
-https://allinonereborn.fun/airtel.m3u8?id=276952
-#EXTINF:-1 tvg-id="276953" tvg-name="|HI| DISCOVERY WORLD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DISCOVERY WORLD ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276953
-#EXTINF:-1 tvg-id="276954" tvg-name="|HI| E 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| E 24
-https://allinonereborn.fun/airtel.m3u8?id=276954
-#EXTINF:-1 tvg-id="276955" tvg-name="|HI| ENTER 10 MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ENTER 10 MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=276955
-#EXTINF:-1 tvg-id="276956" tvg-name="|HI| EPIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| EPIC ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276956
-#EXTINF:-1 tvg-id="276957" tvg-name="|HI| FOX LIFE ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| FOX LIFE ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276957
-#EXTINF:-1 tvg-id="276958" tvg-name="|HI| HISTORY TV18 ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| HISTORY TV18 ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276958
-#EXTINF:-1 tvg-id="276964" tvg-name="|HI| LIVING FOODZ ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| LIVING FOODZ ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276964
-#EXTINF:-1 tvg-id="276965" tvg-name="|HI| MINIPLEX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MINIPLEX ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276965
-#EXTINF:-1 tvg-id="276966" tvg-name="|HI| MOVIES ACTIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MOVIES ACTIVE
-https://allinonereborn.fun/airtel.m3u8?id=276966
-#EXTINF:-1 tvg-id="276967" tvg-name="|HI| MTV BEATS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MTV BEATS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276967
-#EXTINF:-1 tvg-id="276968" tvg-name="|HI| MTV PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MTV PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276968
-#EXTINF:-1 tvg-id="276969" tvg-name="|HI| MUSIC INDIA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MUSIC INDIA
-https://allinonereborn.fun/airtel.m3u8?id=276969
-#EXTINF:-1 tvg-id="276970" tvg-name="|HI| NAT GEO WILD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NAT GEO WILD ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276970
-#EXTINF:-1 tvg-id="276971" tvg-name="|HI| NATIONAL GEOGRAPHIC ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NATIONAL GEOGRAPHIC ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276971
-#EXTINF:-1 tvg-id="276972" tvg-name="|HI| NEWS 18 ASSAM" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS 18 ASSAM
-https://allinonereborn.fun/airtel.m3u8?id=276972
-#EXTINF:-1 tvg-id="276974" tvg-name="|HI| NEWS 18 INDIA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS 18 INDIA
-https://allinonereborn.fun/airtel.m3u8?id=276974
-#EXTINF:-1 tvg-id="276975" tvg-name="|HI| NEWS 18 RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS 18 RAJASTHAN
-https://allinonereborn.fun/airtel.m3u8?id=276975
-#EXTINF:-1 tvg-id="276976" tvg-name="|HI| NEWS NATION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS NATION
-https://allinonereborn.fun/airtel.m3u8?id=276976
-#EXTINF:-1 tvg-id="276978" tvg-name="|HI| REPUBLIC TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| REPUBLIC TV
-https://allinonereborn.fun/airtel.m3u8?id=276978
-#EXTINF:-1 tvg-id="276979" tvg-name="|HI| NICK PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NICK PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276979
-#EXTINF:-1 tvg-id="276980" tvg-name="|HI| PARAS TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| PARAS TV
-https://allinonereborn.fun/airtel.m3u8?id=276980
-#EXTINF:-1 tvg-id="276981" tvg-name="|HI| PEACE OF MIND ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| PEACE OF MIND ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276981
-#EXTINF:-1 tvg-id="276982" tvg-name="|HI| MAHA MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MAHA MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=276982
-#EXTINF:-1 tvg-id="276984" tvg-name="|HI| TATA SKY THEATRE FHD" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| TATA SKY THEATRE FHD
-https://allinonereborn.fun/airtel.m3u8?id=276984
-#EXTINF:-1 tvg-id="276985" tvg-name="|HI| UTV ACTION" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| UTV ACTION
-https://allinonereborn.fun/airtel.m3u8?id=276985
-#EXTINF:-1 tvg-id="276986" tvg-name="|HI| UTV ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| UTV ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=276986
-#EXTINF:-1 tvg-id="276987" tvg-name="|HI| VEDIC TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| VEDIC TV
-https://allinonereborn.fun/airtel.m3u8?id=276987
-#EXTINF:-1 tvg-id="276989" tvg-name="|HI| ZEE ANMOL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE ANMOL
-https://allinonereborn.fun/airtel.m3u8?id=276989
-#EXTINF:-1 tvg-id="276990" tvg-name="|HI| ZEE ANMOL CINEMA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE ANMOL CINEMA
-https://allinonereborn.fun/airtel.m3u8?id=276990
-#EXTINF:-1 tvg-id="276991" tvg-name="|HI| ZEE HINDUSTAN NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE HINDUSTAN NEWS
-https://allinonereborn.fun/airtel.m3u8?id=276991
-#EXTINF:-1 tvg-id="276992" tvg-name="|HI| ZEE NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE NEWS
-https://allinonereborn.fun/airtel.m3u8?id=276992
-#EXTINF:-1 tvg-id="276993" tvg-name="|HI| ZEE NEWS BIHAR" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE NEWS BIHAR
-https://allinonereborn.fun/airtel.m3u8?id=276993
-#EXTINF:-1 tvg-id="276994" tvg-name="|HI| ZEE NEWS MP/CHATTISGARH" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE NEWS MP/CHATTISGARH
-https://allinonereborn.fun/airtel.m3u8?id=276994
-#EXTINF:-1 tvg-id="276995" tvg-name="|HI| ZEE NEWS UP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE NEWS UP
-https://allinonereborn.fun/airtel.m3u8?id=276995
-#EXTINF:-1 tvg-id="276996" tvg-name="|HI| ZEE RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE RAJASTHAN
-https://allinonereborn.fun/airtel.m3u8?id=276996
-#EXTINF:-1 tvg-id="276997" tvg-name="|HI| POGO KIDS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| POGO KIDS
-https://allinonereborn.fun/airtel.m3u8?id=276997
-#EXTINF:-1 tvg-id="276998" tvg-name="|HI| CINEMA TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CINEMA TV
-https://allinonereborn.fun/airtel.m3u8?id=276998
-#EXTINF:-1 tvg-id="276999" tvg-name="|HI| GANGA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| GANGA
-https://allinonereborn.fun/airtel.m3u8?id=276999
-#EXTINF:-1 tvg-id="277000" tvg-name="|HI| DISH CINE ACTIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DISH CINE ACTIVE
-https://allinonereborn.fun/airtel.m3u8?id=277000
-#EXTINF:-1 tvg-id="277001" tvg-name="|HI| EVERGREEN CLASSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| EVERGREEN CLASSIC
-https://allinonereborn.fun/airtel.m3u8?id=277001
-#EXTINF:-1 tvg-id="277002" tvg-name="|HI| DISNEY ˢᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DISNEY ˢᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277002
-#EXTINF:-1 tvg-id="277003" tvg-name="|HI| CNBC TV18 NEWS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CNBC TV18 NEWS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277003
-#EXTINF:-1 tvg-id="277004" tvg-name="|HI| TIMES NOW ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| TIMES NOW ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277004
-#EXTINF:-1 tvg-id="277005" tvg-name="|HI| NICK PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NICK PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277005
-#EXTINF:-1 tvg-id="277006" tvg-name="|HI| MNX ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MNX ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277006
-#EXTINF:-1 tvg-id="277007" tvg-name="|HI| MOVIES NOW ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MOVIES NOW ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277007
-#EXTINF:-1 tvg-id="277008" tvg-name="|HI| MN PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MN PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277008
-#EXTINF:-1 tvg-id="277009" tvg-name="|HI| DISNEY INTERNATIONAL ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DISNEY INTERNATIONAL ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277009
-#EXTINF:-1 tvg-id="277010" tvg-name="|HI|TATA PLAY VEDIC MATHS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI|TATA PLAY VEDIC MATHS
-https://allinonereborn.fun/airtel.m3u8?id=277010
-#EXTINF:-1 tvg-id="277011" tvg-name="|HI| CN PLUS ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CN PLUS ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277011
-#EXTINF:-1 tvg-id="277012" tvg-name="|HI| BINDAS MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| BINDAS MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=277012
-#EXTINF:-1 tvg-id="277013" tvg-name="|HI| UTV MOVIES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| UTV MOVIES
-https://allinonereborn.fun/airtel.m3u8?id=277013
-#EXTINF:-1 tvg-id="277014" tvg-name="|HI| ISHWAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ISHWAR TV
-https://allinonereborn.fun/airtel.m3u8?id=277014
-#EXTINF:-1 tvg-id="277015" tvg-name="|HI| CARTOON NETWORK" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CARTOON NETWORK
-https://allinonereborn.fun/airtel.m3u8?id=277015
-#EXTINF:-1 tvg-id="277016" tvg-name="|HI| REPUBLIC BHARAT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| REPUBLIC BHARAT
-https://allinonereborn.fun/airtel.m3u8?id=277016
-#EXTINF:-1 tvg-id="277017" tvg-name="|HI| B4U MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| B4U MUSIC
-https://allinonereborn.fun/airtel.m3u8?id=277017
-#EXTINF:-1 tvg-id="277018" tvg-name="|HI| INDIA NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA NEWS
-https://allinonereborn.fun/airtel.m3u8?id=277018
-#EXTINF:-1 tvg-id="277019" tvg-name="|HI| INDIA TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA TV
-https://allinonereborn.fun/airtel.m3u8?id=277019
-#EXTINF:-1 tvg-id="277020" tvg-name="|HI| DANGAL" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DANGAL
-https://allinonereborn.fun/airtel.m3u8?id=277020
-#EXTINF:-1 tvg-id="277021" tvg-name="|HI| MASTII" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MASTII
-https://allinonereborn.fun/airtel.m3u8?id=277021
-#EXTINF:-1 tvg-id="277022" tvg-name="|HI| NDTV INDIA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NDTV INDIA
-https://allinonereborn.fun/airtel.m3u8?id=277022
-#EXTINF:-1 tvg-id="277023" tvg-name="|HI| INDIA NEWS MP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA NEWS MP
-https://allinonereborn.fun/airtel.m3u8?id=277023
-#EXTINF:-1 tvg-id="277024" tvg-name="|HI| INDIA NEWS UP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA NEWS UP
-https://allinonereborn.fun/airtel.m3u8?id=277024
-#EXTINF:-1 tvg-id="277025" tvg-name="|HI| INDIA NEWS HARYANA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA NEWS HARYANA
-https://allinonereborn.fun/airtel.m3u8?id=277025
-#EXTINF:-1 tvg-id="277027" tvg-name="|HI| INDIA NEWS RAJASTHAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA NEWS RAJASTHAN
-https://allinonereborn.fun/airtel.m3u8?id=277027
-#EXTINF:-1 tvg-id="277028" tvg-name="|HI| SUDARSHAN NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SUDARSHAN NEWS
-https://allinonereborn.fun/airtel.m3u8?id=277028
-#EXTINF:-1 tvg-id="277038" tvg-name="|HI| NDTV GOOD TIMES" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NDTV GOOD TIMES
-https://allinonereborn.fun/airtel.m3u8?id=277038
-#EXTINF:-1 tvg-id="277039" tvg-name="|HI| OM SHANTI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| OM SHANTI
-https://allinonereborn.fun/airtel.m3u8?id=277039
-#EXTINF:-1 tvg-id="277040" tvg-name="|HI| IBC 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| IBC 24
-https://allinonereborn.fun/airtel.m3u8?id=277040
-#EXTINF:-1 tvg-id="277041" tvg-name="|HI| NEWS 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS 24
-https://allinonereborn.fun/airtel.m3u8?id=277041
-#EXTINF:-1 tvg-id="277042" tvg-name="|HI| SHUBH TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SHUBH TV
-https://allinonereborn.fun/airtel.m3u8?id=277042
-#EXTINF:-1 tvg-id="277043" tvg-name="|HI| CHANNEL WIN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CHANNEL WIN
-https://allinonereborn.fun/airtel.m3u8?id=277043
-#EXTINF:-1 tvg-id="277044" tvg-name="|HI| RAMDHENU" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| RAMDHENU
-https://allinonereborn.fun/airtel.m3u8?id=277044
-#EXTINF:-1 tvg-id="277045" tvg-name="|HI| RENGONI" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| RENGONI
-https://allinonereborn.fun/airtel.m3u8?id=277045
-#EXTINF:-1 tvg-id="277046" tvg-name="|HI| FOOD FOOD ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| FOOD FOOD ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277046
-#EXTINF:-1 tvg-id="277047" tvg-name="|HI| DILLI AAJ TAKK" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DILLI AAJ TAKK
-https://allinonereborn.fun/airtel.m3u8?id=277047
-#EXTINF:-1 tvg-id="277048" tvg-name="|HI| PRAG NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| PRAG NEWS
-https://allinonereborn.fun/airtel.m3u8?id=277048
-#EXTINF:-1 tvg-id="277049" tvg-name="|HI| TARANG Music" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| TARANG Music
-https://allinonereborn.fun/airtel.m3u8?id=277049
-#EXTINF:-1 tvg-id="277050" tvg-name="|HI| NEWS 18 LIVE" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NEWS 18 LIVE
-https://allinonereborn.fun/airtel.m3u8?id=277050
-#EXTINF:-1 tvg-id="277051" tvg-name="|HI| NDTV PROFIT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NDTV PROFIT
-https://allinonereborn.fun/airtel.m3u8?id=277051
-#EXTINF:-1 tvg-id="277052" tvg-name="|HI| NDTV 24x7" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| NDTV 24x7
-https://allinonereborn.fun/airtel.m3u8?id=277052
-#EXTINF:-1 tvg-id="277053" tvg-name="|HI| INDIA TODAY" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| INDIA TODAY
-https://allinonereborn.fun/airtel.m3u8?id=277053
-#EXTINF:-1 tvg-id="277054" tvg-name="|HI| 9X MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| 9X MUSIC
-https://allinonereborn.fun/airtel.m3u8?id=277054
-#EXTINF:-1 tvg-id="277055" tvg-name="|HI| E NEWS 24" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| E NEWS 24
-https://allinonereborn.fun/airtel.m3u8?id=277055
-#EXTINF:-1 tvg-id="277056" tvg-name="|HI| ZEE BUSINESS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE BUSINESS
-https://allinonereborn.fun/airtel.m3u8?id=277056
-#EXTINF:-1 tvg-id="277057" tvg-name="|HI| SANSKAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SANSKAR TV
-https://allinonereborn.fun/airtel.m3u8?id=277057
-#EXTINF:-1 tvg-id="277058" tvg-name="|HI| SATSANG TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SATSANG TV
-https://allinonereborn.fun/airtel.m3u8?id=277058
-#EXTINF:-1 tvg-id="277059" tvg-name="|HI| DISCOVERY KIDS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DISCOVERY KIDS
-https://allinonereborn.fun/airtel.m3u8?id=277059
-#EXTINF:-1 tvg-id="277060" tvg-name="|HI| CHANNEL WIN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| CHANNEL WIN
-https://allinonereborn.fun/airtel.m3u8?id=277060
-#EXTINF:-1 tvg-id="277061" tvg-name="|HI| STAR GOLD 2" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| STAR GOLD 2
-https://allinonereborn.fun/airtel.m3u8?id=277061
-#EXTINF:-1 tvg-id="277062" tvg-name="|HI| AND EXPLORER ᴴᴰ" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| AND EXPLORER ᴴᴰ
-https://allinonereborn.fun/airtel.m3u8?id=277062
-#EXTINF:-1 tvg-id="277064" tvg-name="|HI| MIRROR NOW" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| MIRROR NOW
-https://allinonereborn.fun/airtel.m3u8?id=277064
-#EXTINF:-1 tvg-id="277066" tvg-name="|HI| ZEE YUVA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE YUVA
-https://allinonereborn.fun/airtel.m3u8?id=277066
-#EXTINF:-1 tvg-id="277067" tvg-name="|HI| PRARTHANA BHAWAN" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| PRARTHANA BHAWAN
-https://allinonereborn.fun/airtel.m3u8?id=277067
-#EXTINF:-1 tvg-id="277068" tvg-name="|HI| RAJASTHAN PATRIKA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| RAJASTHAN PATRIKA
-https://allinonereborn.fun/airtel.m3u8?id=277068
-#EXTINF:-1 tvg-id="277069" tvg-name="|HI| REPUBLIC NEWS" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| REPUBLIC NEWS
-https://allinonereborn.fun/airtel.m3u8?id=277069
-#EXTINF:-1 tvg-id="277070" tvg-name="|HI| IDN LOKMAT" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| IDN LOKMAT
-https://allinonereborn.fun/airtel.m3u8?id=277070
-#EXTINF:-1 tvg-id="277071" tvg-name="|HI| ZEE NEWS MP" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE NEWS MP
-https://allinonereborn.fun/airtel.m3u8?id=277071
-#EXTINF:-1 tvg-id="277072" tvg-name="|HI| DIVYA TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| DIVYA TV
-https://allinonereborn.fun/airtel.m3u8?id=277072
-#EXTINF:-1 tvg-id="277073" tvg-name="|HI| TARANG TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| TARANG TV
-https://allinonereborn.fun/airtel.m3u8?id=277073
-#EXTINF:-1 tvg-id="277074" tvg-name="|HI| ALANKAR TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ALANKAR TV
-https://allinonereborn.fun/airtel.m3u8?id=277074
-#EXTINF:-1 tvg-id="277075" tvg-name="|HI| TARANG MUSIC" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| TARANG MUSIC
-https://allinonereborn.fun/airtel.m3u8?id=277075
-#EXTINF:-1 tvg-id="277076" tvg-name="|HI| SARTHAK TV" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| SARTHAK TV
-https://allinonereborn.fun/airtel.m3u8?id=277076
-#EXTINF:-1 tvg-id="277077" tvg-name="|HI| ZEE KALINGA" tvg-logo="https://t4.ftcdn.net/jpg/08/41/71/95/360_F_841719518_qyGDNwZ9pVSNbdwGjcg0rNlo1Ujxjenr.jpg" group-title="|AS| ✪ INDIA",|HI| ZEE KALINGA
-https://allinonereborn.fun/airtel.m3u8?id=277077
-
 //===SANSAT ALLINONE WORLDWIDE===//
 
 ///=SANSAT MIX=///
 #EXTINF:-1 tvg-id="186974" tvg-name="IN| AAJ TAK HD" tvg-logo="https://lo1.in/ind/aaj.png" group-title="INDIA HINDI",IN| AAJ TAK HD
-https://allinonereborn.fun/sansat-web/live.php?id=186974
+https://allinonereborn.fun/ban.m3u8/live.php?id=186974
 #EXTINF:-1 tvg-id="378766" tvg-name="IN| 9XM HD" tvg-logo="https://lo1.in/ind/9xm.png" group-title="INDIA HINDI",IN| 9XM HD
-https://allinonereborn.fun/sansat-web/live.php?id=378766
+https://allinonereborn.fun/ban.m3u8/live.php?id=378766
 #EXTINF:-1 tvg-id="378765" tvg-name="IN| 9X TASHAN HD" tvg-logo="https://lo1.in/ind/9xtash.png" group-title="INDIA HINDI",IN| 9X TASHAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=378765
+https://allinonereborn.fun/ban.m3u8/live.php?id=378765
 #EXTINF:-1 tvg-id="378761" tvg-name="IN| CBEEBIES SD" tvg-logo="https://lo1.in/ind/cbeb.png" group-title="INDIA HINDI",IN| CBEEBIES SD
-https://allinonereborn.fun/sansat-web/live.php?id=378761
+https://allinonereborn.fun/ban.m3u8/live.php?id=378761
 #EXTINF:-1 tvg-id="378756" tvg-name="IN| INDIA TV HD" tvg-logo="https://lo1.in/ind/indt.png" group-title="INDIA HINDI",IN| INDIA TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=378756
+https://allinonereborn.fun/ban.m3u8/live.php?id=378756
 #EXTINF:-1 tvg-id="378736" tvg-name="IN| &TV HD" tvg-logo="https://lo1.in/ind/t1.png" group-title="INDIA HINDI",IN| &TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=378736
+https://allinonereborn.fun/ban.m3u8/live.php?id=378736
 #EXTINF:-1 tvg-id="400162497" tvg-name="IN| AASTHA HD" tvg-logo="https://lo1.in/ind/aastha.png" group-title="INDIA HINDI",IN| AASTHA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162497
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162497
 #EXTINF:-1 tvg-id="186976" tvg-name="IN| AASTHA BHAJAN HD" tvg-logo="https://lo1.in/ind/assth.png" group-title="INDIA HINDI",IN| AASTHA BHAJAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=186976
+https://allinonereborn.fun/ban.m3u8/live.php?id=186976
 #EXTINF:-1 tvg-id="186982" tvg-name="IN| ALANKAR HD" tvg-logo="https://lo1.in/ind/alank.png" group-title="INDIA HINDI",IN| ALANKAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=186982
+https://allinonereborn.fun/ban.m3u8/live.php?id=186982
 #EXTINF:-1 tvg-id="35787" tvg-name="IN| ALANKAR TV HD ODIA" tvg-logo="https://lo1.in/ind/ALANKAR TV HD.png" group-title="INDIA HINDI",IN| ALANKAR TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35787
+https://allinonereborn.fun/ban.m3u8/live.php?id=35787
 #EXTINF:-1 tvg-id="187002" tvg-name="IN| BHARAT SAMACHAR HD" tvg-logo="https://lo1.in/ind/bhart.png" group-title="INDIA HINDI",IN| BHARAT SAMACHAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=187002
+https://allinonereborn.fun/ban.m3u8/live.php?id=187002
 #EXTINF:-1 tvg-id="187009" tvg-name="IN| CHANNEL WIN SD" tvg-logo="https://lo1.in/ind/chwin.png" group-title="INDIA HINDI",IN| CHANNEL WIN SD
-https://allinonereborn.fun/sansat-web/live.php?id=187009
+https://allinonereborn.fun/ban.m3u8/live.php?id=187009
 #EXTINF:-1 tvg-id="187056" tvg-name="IN| DY 365 HD" tvg-logo="https://lo1.in/ind/dy365.png" group-title="INDIA HINDI",IN| DY 365 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187056
+https://allinonereborn.fun/ban.m3u8/live.php?id=187056
 #EXTINF:-1 tvg-id="187057" tvg-name="IN| E24 HD" tvg-logo="https://lo1.in/ind/e24.png" group-title="INDIA HINDI",IN| E24 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187057
+https://allinonereborn.fun/ban.m3u8/live.php?id=187057
 #EXTINF:-1 tvg-id="400162495" tvg-name="IN| ARIHANT TV HD" tvg-logo="https://lo1.in/ind/arih.png" group-title="INDIA HINDI",IN| ARIHANT TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162495
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162495
 #EXTINF:-1 tvg-id="187059" tvg-name="IN| EK ONKAR HD" tvg-logo="https://lo1.in/ind/ekon.png" group-title="INDIA HINDI",IN| EK ONKAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=187059
+https://allinonereborn.fun/ban.m3u8/live.php?id=187059
 #EXTINF:-1 tvg-id="187060" tvg-name="IN| ENTERR 10 TV HD" tvg-logo="https://lo1.in/ind/entr.png" group-title="INDIA HINDI",IN| ENTERR 10 TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187060
+https://allinonereborn.fun/ban.m3u8/live.php?id=187060
 #EXTINF:-1 tvg-id="187062" tvg-name="IN| EPIC HD" tvg-logo="https://lo1.in/ind/epic.png" group-title="INDIA HINDI",IN| EPIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=187062
+https://allinonereborn.fun/ban.m3u8/live.php?id=187062
 #EXTINF:-1 tvg-id="187082" tvg-name="IN| GURBANI HEALING" tvg-logo="https://lo1.in/ind/gurbhe1.png" group-title="INDIA HINDI",IN| GURBANI HEALING
-https://allinonereborn.fun/sansat-web/live.php?id=187082
+https://allinonereborn.fun/ban.m3u8/live.php?id=187082
 #EXTINF:-1 tvg-id="187083" tvg-name="IN| HARVEST TV USA SD" tvg-logo="https://lo1.in/ind/havusa.png" group-title="INDIA HINDI",IN| HARVEST TV USA SD
-https://allinonereborn.fun/sansat-web/live.php?id=187083
+https://allinonereborn.fun/ban.m3u8/live.php?id=187083
 #EXTINF:-1 tvg-id="187085" tvg-name="IN| HINDU DHARMAM HD" tvg-logo="https://lo1.in/ind/hinddh1.png" group-title="INDIA HINDI",IN| HINDU DHARMAM HD
-https://allinonereborn.fun/sansat-web/live.php?id=187085
+https://allinonereborn.fun/ban.m3u8/live.php?id=187085
 #EXTINF:-1 tvg-id="187088" tvg-name="IN| IBC 24 HD" tvg-logo="https://lo1.in/ind/ibc2.png" group-title="INDIA HINDI",IN| IBC 24 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187088
+https://allinonereborn.fun/ban.m3u8/live.php?id=187088
 #EXTINF:-1 tvg-id="187090" tvg-name="IN| INVESTIGATION DISCOVERY HD" tvg-logo="https://lo1.in/ind/invgdis.png" group-title="INDIA HINDI",IN| INVESTIGATION DISCOVERY HD
-https://allinonereborn.fun/sansat-web/live.php?id=187090
+https://allinonereborn.fun/ban.m3u8/live.php?id=187090
 #EXTINF:-1 tvg-id="187095" tvg-name="IN| INDRADHANU HD" tvg-logo="https://lo1.in/ind/indra.png" group-title="INDIA HINDI",IN| INDRADHANU HD
-https://allinonereborn.fun/sansat-web/live.php?id=187095
+https://allinonereborn.fun/ban.m3u8/live.php?id=187095
 #EXTINF:-1 tvg-id="187099" tvg-name="IN| ISHWAR TV SD" tvg-logo="https://lo1.in/ind/ishw.png" group-title="INDIA HINDI",IN| ISHWAR TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187099
+https://allinonereborn.fun/ban.m3u8/live.php?id=187099
 #EXTINF:-1 tvg-id="187105" tvg-name="IN| JANTAN TV HD" tvg-logo="https://lo1.in/ind/jant1.png" group-title="INDIA HINDI",IN| JANTAN TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187105
+https://allinonereborn.fun/ban.m3u8/live.php?id=187105
 #EXTINF:-1 tvg-id="187118" tvg-name="IN| KASTHURI SD" tvg-logo="https://lo1.in/ind/kasth.png" group-title="INDIA HINDI",IN| KASTHURI SD
-https://allinonereborn.fun/sansat-web/live.php?id=187118
+https://allinonereborn.fun/ban.m3u8/live.php?id=187118
 #EXTINF:-1 tvg-id="187119" tvg-name="IN| KHALSA CHANNEL HD" tvg-logo="https://lo1.in/ind/khalch.png" group-title="INDIA HINDI",IN| KHALSA CHANNEL HD
-https://allinonereborn.fun/sansat-web/live.php?id=187119
+https://allinonereborn.fun/ban.m3u8/live.php?id=187119
 #EXTINF:-1 tvg-id="187122" tvg-name="IN| KOLKATA TV SD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| KOLKATA TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187122
+https://allinonereborn.fun/ban.m3u8/live.php?id=187122
 #EXTINF:-1 tvg-id="187146" tvg-name="IN| MIRROR NOW HD" tvg-logo="https://lo1.in/ind/mironw.png" group-title="INDIA HINDI",IN| MIRROR NOW HD
-https://allinonereborn.fun/sansat-web/live.php?id=187146
+https://allinonereborn.fun/ban.m3u8/live.php?id=187146
 #EXTINF:-1 tvg-id="37820" tvg-name="IN| TAG TV FHD" tvg-logo="https://lo1.in/ca/tag.png" group-title="INDIA HINDI",IN| TAG TV FHD
-https://allinonereborn.fun/sansat-web/live.php?id=37820
+https://allinonereborn.fun/ban.m3u8/live.php?id=37820
 #EXTINF:-1 tvg-id="400281370" tvg-name="IN| TS TATA SKY THEATRE SD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| TS TATA SKY THEATRE SD
-https://allinonereborn.fun/sansat-web/live.php?id=400281370
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281370
 #EXTINF:-1 tvg-id="187151" tvg-name="IN| MN+ MOVIES FHD" tvg-logo="https://lo1.in/ind/mnmv1.png" group-title="INDIA HINDI",IN| MN+ MOVIES FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187151
+https://allinonereborn.fun/ban.m3u8/live.php?id=187151
 #EXTINF:-1 tvg-id="187162" tvg-name="IN| NEPAL 1 HD" tvg-logo="https://lo1.in/ind/npl1.png" group-title="INDIA HINDI",IN| NEPAL 1 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187162
+https://allinonereborn.fun/ban.m3u8/live.php?id=187162
 #EXTINF:-1 tvg-id="187190" tvg-name="IN| PATRIKA TV RAJ HD" tvg-logo="https://lo1.in/china/pk.png" group-title="INDIA HINDI",IN| PATRIKA TV RAJ HD
-https://allinonereborn.fun/sansat-web/live.php?id=187190
+https://allinonereborn.fun/ban.m3u8/live.php?id=187190
 #EXTINF:-1 tvg-id="187192" tvg-name="IN| PEACE OF MIND HD" tvg-logo="https://lo1.in/ind/peac.png" group-title="INDIA HINDI",IN| PEACE OF MIND HD
-https://allinonereborn.fun/sansat-web/live.php?id=187192
+https://allinonereborn.fun/ban.m3u8/live.php?id=187192
 #EXTINF:-1 tvg-id="187226" tvg-name="IN| RAMDHENU HD" tvg-logo="https://lo1.in/ind/ramd.png" group-title="INDIA HINDI",IN| RAMDHENU HD
-https://allinonereborn.fun/sansat-web/live.php?id=187226
+https://allinonereborn.fun/ban.m3u8/live.php?id=187226
 #EXTINF:-1 tvg-id="187227" tvg-name="IN| RANG HD" tvg-logo="https://lo1.in/ind/rag.png" group-title="INDIA HINDI",IN| RANG HD
-https://allinonereborn.fun/sansat-web/live.php?id=187227
+https://allinonereborn.fun/ban.m3u8/live.php?id=187227
 #EXTINF:-1 tvg-id="187229" tvg-name="IN| RENGONI TV SD" tvg-logo="https://lo1.in/ind/reng.png" group-title="INDIA HINDI",IN| RENGONI TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187229
+https://allinonereborn.fun/ban.m3u8/live.php?id=187229
 #EXTINF:-1 tvg-id="187230" tvg-name="IN| REPUBLIC BHARAT TV SD" tvg-logo="https://lo1.in/ind/replic.png" group-title="INDIA HINDI",IN| REPUBLIC BHARAT TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187230
+https://allinonereborn.fun/ban.m3u8/live.php?id=187230
 #EXTINF:-1 tvg-id="187243" tvg-name="IN| SARDARI TV HD" tvg-logo="https://lo1.in/ind/sardr.png" group-title="INDIA HINDI",IN| SARDARI TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187243
+https://allinonereborn.fun/ban.m3u8/live.php?id=187243
 #EXTINF:-1 tvg-id="187244" tvg-name="IN| SHEMAROO TV SD" tvg-logo="https://lo1.in/ind/shem.png" group-title="INDIA HINDI",IN| SHEMAROO TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187244
+https://allinonereborn.fun/ban.m3u8/live.php?id=187244
 #EXTINF:-1 tvg-id="187245" tvg-name="IN| SHOWBOX MUSIC" tvg-logo="https://lo1.in/ind/shbx.png" group-title="INDIA HINDI",IN| SHOWBOX MUSIC
-https://allinonereborn.fun/sansat-web/live.php?id=187245
+https://allinonereborn.fun/ban.m3u8/live.php?id=187245
 #EXTINF:-1 tvg-id="187246" tvg-name="IN| SHUBH TV HD" tvg-logo="https://lo1.in/ind/shub.png" group-title="INDIA HINDI",IN| SHUBH TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187246
+https://allinonereborn.fun/ban.m3u8/live.php?id=187246
 #EXTINF:-1 tvg-id="187274" tvg-name="IN| SUBRANG TV HD" tvg-logo="https://lo1.in/ind/subra.png" group-title="INDIA HINDI",IN| SUBRANG TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187274
+https://allinonereborn.fun/ban.m3u8/live.php?id=187274
 #EXTINF:-1 tvg-id="187284" tvg-name="IN| SWARAJ EXPRESS SMBC HD" tvg-logo="https://lo1.in/ind/swarex.png" group-title="INDIA HINDI",IN| SWARAJ EXPRESS SMBC HD
-https://allinonereborn.fun/sansat-web/live.php?id=187284
+https://allinonereborn.fun/ban.m3u8/live.php?id=187284
 #EXTINF:-1 tvg-id="187315" tvg-name="IN| THE Q ENTERTAINMENT HD" tvg-logo="https://lo1.in/ind/tqind.png" group-title="INDIA HINDI",IN| THE Q ENTERTAINMENT HD
-https://allinonereborn.fun/sansat-web/live.php?id=187315
+https://allinonereborn.fun/ban.m3u8/live.php?id=187315
 #EXTINF:-1 tvg-id="187318" tvg-name="IN| TLC WORLD FHD" tvg-logo="https://lo1.in/ind/tlcwrd.png" group-title="INDIA HINDI",IN| TLC WORLD FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187318
+https://allinonereborn.fun/ban.m3u8/live.php?id=187318
 #EXTINF:-1 tvg-id="187339" tvg-name="IN| VEDIC HD" tvg-logo="https://lo1.in/ind/vedic.png" group-title="INDIA HINDI",IN| VEDIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=187339
+https://allinonereborn.fun/ban.m3u8/live.php?id=187339
 #EXTINF:-1 tvg-id="187375" tvg-name="IN| ZING INDIA HD" tvg-logo="https://lo1.in/ind/zing.png" group-title="INDIA HINDI",IN| ZING INDIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=187375
+https://allinonereborn.fun/ban.m3u8/live.php?id=187375
 #EXTINF:-1 tvg-id="387642" tvg-name="IN| DESI PLUS" tvg-logo="https://lo1.in/ind/depl.png" group-title="INDIA HINDI",IN| DESI PLUS
-https://allinonereborn.fun/sansat-web/live.php?id=387642
+https://allinonereborn.fun/ban.m3u8/live.php?id=387642
 #EXTINF:-1 tvg-id="387637" tvg-name="IN| LOK SABHA TV SD" tvg-logo="https://lo1.in/ind/loksa.png" group-title="INDIA HINDI",IN| LOK SABHA TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387637
+https://allinonereborn.fun/ban.m3u8/live.php?id=387637
 #EXTINF:-1 tvg-id="387627" tvg-name="IN| ASSAM TALKS SD" tvg-logo="https://lo1.in/ind/asmtlk.png" group-title="INDIA HINDI",IN| ASSAM TALKS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387627
+https://allinonereborn.fun/ban.m3u8/live.php?id=387627
 #EXTINF:-1 tvg-id="387788" tvg-name="IN| DIVYA HD" tvg-logo="https://lo1.in/ind/divya1.png" group-title="INDIA HINDI",IN| DIVYA HD
-https://allinonereborn.fun/sansat-web/live.php?id=387788
+https://allinonereborn.fun/ban.m3u8/live.php?id=387788
 #EXTINF:-1 tvg-id="387776" tvg-name="IN| BRITASIA TV SD" tvg-logo="https://lo1.in/ind/brit.png" group-title="INDIA HINDI",IN| BRITASIA TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387776
+https://allinonereborn.fun/ban.m3u8/live.php?id=387776
 #EXTINF:-1 tvg-id="387774" tvg-name="IN| EYE 95 AMERICA (US)" tvg-logo="https://lo1.in/ind/eye9am.png" group-title="INDIA HINDI",IN| EYE 95 AMERICA (US)
-https://allinonereborn.fun/sansat-web/live.php?id=387774
+https://allinonereborn.fun/ban.m3u8/live.php?id=387774
 #EXTINF:-1 tvg-id="387773" tvg-name="IN| CHANNEL T1 SD" tvg-logo="https://lo1.in/ind/cht1.png" group-title="INDIA HINDI",IN| CHANNEL T1 SD
-https://allinonereborn.fun/sansat-web/live.php?id=387773
+https://allinonereborn.fun/ban.m3u8/live.php?id=387773
 #EXTINF:-1 tvg-id="387772" tvg-name="IN| CHANNEL-S HD" tvg-logo="https://lo1.in/ind/chs0.png" group-title="INDIA HINDI",IN| CHANNEL-S HD
-https://allinonereborn.fun/sansat-web/live.php?id=387772
+https://allinonereborn.fun/ban.m3u8/live.php?id=387772
 #EXTINF:-1 tvg-id="387765" tvg-name="IN| JHANJAR HD" tvg-logo="https://lo1.in/ind/jhanj.png" group-title="INDIA HINDI",IN| JHANJAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=387765
+https://allinonereborn.fun/ban.m3u8/live.php?id=387765
 #EXTINF:-1 tvg-id="387763" tvg-name="IN| MONARCH TV SD" tvg-logo="https://lo1.in/ind/mon.png" group-title="INDIA HINDI",IN| MONARCH TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387763
+https://allinonereborn.fun/ban.m3u8/live.php?id=387763
 #EXTINF:-1 tvg-id="387762" tvg-name="IN| TMZ SD" tvg-logo="https://lo1.in/ind/tmz.png" group-title="INDIA HINDI",IN| TMZ SD
-https://allinonereborn.fun/sansat-web/live.php?id=387762
+https://allinonereborn.fun/ban.m3u8/live.php?id=387762
 #EXTINF:-1 tvg-id="387756" tvg-name="IN| FOOD 52 HD" tvg-logo="https://lo1.in/ind/fod5.png" group-title="INDIA HINDI",IN| FOOD 52 HD
-https://allinonereborn.fun/sansat-web/live.php?id=387756
+https://allinonereborn.fun/ban.m3u8/live.php?id=387756
 #EXTINF:-1 tvg-id="387753" tvg-name="IN| 5AAB TV HD" tvg-logo="https://lo1.in/ind/5aab.png" group-title="INDIA HINDI",IN| 5AAB TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=387753
+https://allinonereborn.fun/ban.m3u8/live.php?id=387753
 #EXTINF:-1 tvg-id="387752" tvg-name="IN| 7STAR TV SD" tvg-logo="https://lo1.in/ind/5str.png" group-title="INDIA HINDI",IN| 7STAR TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387752
+https://allinonereborn.fun/ban.m3u8/live.php?id=387752
 #EXTINF:-1 tvg-id="387726" tvg-name="IN| NEWS 18 BENGALI" tvg-logo="https://lo1.in/ind/ns18ben.png" group-title="INDIA HINDI",IN| NEWS 18 BENGALI
-https://allinonereborn.fun/sansat-web/live.php?id=387726
+https://allinonereborn.fun/ban.m3u8/live.php?id=387726
 #EXTINF:-1 tvg-id="387742" tvg-name="IN| ANJAN HD" tvg-logo="https://lo1.in/ind/anjan.png" group-title="INDIA HINDI",IN| ANJAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=387742
+https://allinonereborn.fun/ban.m3u8/live.php?id=387742
 #EXTINF:-1 tvg-id="387741" tvg-name="IN| AYUSH TV SD" tvg-logo="https://lo1.in/ind/ayush.png" group-title="INDIA HINDI",IN| AYUSH TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387741
+https://allinonereborn.fun/ban.m3u8/live.php?id=387741
 #EXTINF:-1 tvg-id="387737" tvg-name="IN| CHANNEL Y HD" tvg-logo="https://lo1.in/ind/chny.png" group-title="INDIA HINDI",IN| CHANNEL Y HD
-https://allinonereborn.fun/sansat-web/live.php?id=387737
+https://allinonereborn.fun/ban.m3u8/live.php?id=387737
 #EXTINF:-1 tvg-id="387736" tvg-name="IN| ET NOW HD" tvg-logo="https://lo1.in/ind/etn.png" group-title="INDIA HINDI",IN| ET NOW HD
-https://allinonereborn.fun/sansat-web/live.php?id=387736
+https://allinonereborn.fun/ban.m3u8/live.php?id=387736
 #EXTINF:-1 tvg-id="387730" tvg-name="IN| JONACK TV SD" tvg-logo="https://lo1.in/ind/jonc.png" group-title="INDIA HINDI",IN| JONACK TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387730
+https://allinonereborn.fun/ban.m3u8/live.php?id=387730
 #EXTINF:-1 tvg-id="387729" tvg-name="IN| KHABRAIN ABHI TAK SD" tvg-logo="https://lo1.in/ind/khabr.png" group-title="INDIA HINDI",IN| KHABRAIN ABHI TAK SD
-https://allinonereborn.fun/sansat-web/live.php?id=387729
+https://allinonereborn.fun/ban.m3u8/live.php?id=387729
 #EXTINF:-1 tvg-id="387728" tvg-name="IN| MAHA MOVIE HD" tvg-logo="https://lo1.in/ind/mahamv.png" group-title="INDIA HINDI",IN| MAHA MOVIE HD
-https://allinonereborn.fun/sansat-web/live.php?id=387728
+https://allinonereborn.fun/ban.m3u8/live.php?id=387728
 #EXTINF:-1 tvg-id="387727" tvg-name="IN| MH1 PRIME SD" tvg-logo="https://lo1.in/ind/mh1pr.png" group-title="INDIA HINDI",IN| MH1 PRIME SD
-https://allinonereborn.fun/sansat-web/live.php?id=387727
+https://allinonereborn.fun/ban.m3u8/live.php?id=387727
 #EXTINF:-1 tvg-id="387719" tvg-name="IN| SADHNA PLUS SD" tvg-logo="https://lo1.in/ind/sadhpl.png" group-title="INDIA HINDI",IN| SADHNA PLUS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387719
+https://allinonereborn.fun/ban.m3u8/live.php?id=387719
 #EXTINF:-1 tvg-id="387718" tvg-name="IN| SANSKAR HD" tvg-logo="https://lo1.in/ind/sansk.png" group-title="INDIA HINDI",IN| SANSKAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=387718
+https://allinonereborn.fun/ban.m3u8/live.php?id=387718
 #EXTINF:-1 tvg-id="387715" tvg-name="IN| SATSANG SD" tvg-logo="https://lo1.in/ind/sats.png" group-title="INDIA HINDI",IN| SATSANG SD
-https://allinonereborn.fun/sansat-web/live.php?id=387715
+https://allinonereborn.fun/ban.m3u8/live.php?id=387715
 #EXTINF:-1 tvg-id="387710" tvg-name="IN| VELICHAM SD" tvg-logo="https://lo1.in/ind/vel.png" group-title="INDIA HINDI",IN| VELICHAM SD
-https://allinonereborn.fun/sansat-web/live.php?id=387710
+https://allinonereborn.fun/ban.m3u8/live.php?id=387710
 #EXTINF:-1 tvg-id="36306" tvg-name="IN| DILLI AAJ TAKK" tvg-logo="https://lo1.in/ind/DILLI AAJ TAKK.png" group-title="INDIA HINDI",IN| DILLI AAJ TAKK
-https://allinonereborn.fun/sansat-web/live.php?id=36306
+https://allinonereborn.fun/ban.m3u8/live.php?id=36306
 #EXTINF:-1 tvg-id="35794" tvg-name="IN| KALINGA TV HD ODIA" tvg-logo="https://lo1.in/ind/KALINGA TV HD ODIA.png" group-title="INDIA HINDI",IN| KALINGA TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35794
+https://allinonereborn.fun/ban.m3u8/live.php?id=35794
 #EXTINF:-1 tvg-id="35785" tvg-name="IN| ODISHA TV HD ODIA" tvg-logo="https://lo1.in/ind/ODISHA TV HD.png" group-title="INDIA HINDI",IN| ODISHA TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35785
+https://allinonereborn.fun/ban.m3u8/live.php?id=35785
 #EXTINF:-1 tvg-id="35786" tvg-name="IN| TARANG TV HD ODIA" tvg-logo="https://lo1.in/ind/TARANG TV HD.png" group-title="INDIA HINDI",IN| TARANG TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35786
+https://allinonereborn.fun/ban.m3u8/live.php?id=35786
 #EXTINF:-1 tvg-id="35791" tvg-name="IN| SIDDARTH TV HD ODIA" tvg-logo="https://lo1.in/ind/SIDDARTH TV HD.png" group-title="INDIA HINDI",IN| SIDDARTH TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35791
+https://allinonereborn.fun/ban.m3u8/live.php?id=35791
 #EXTINF:-1 tvg-id="35792" tvg-name="IN| SIDDARTH GOLD HD ODIA" tvg-logo="https://lo1.in/ind/SIDDARTH GOLD.png" group-title="INDIA HINDI",IN| SIDDARTH GOLD HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35792
+https://allinonereborn.fun/ban.m3u8/live.php?id=35792
 #EXTINF:-1 tvg-id="35795" tvg-name="IN| STAR KIRAN HD ODIA" tvg-logo="https://lo1.in/ind/STAR KIRAN HD.png" group-title="INDIA HINDI",IN| STAR KIRAN HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35795
+https://allinonereborn.fun/ban.m3u8/live.php?id=35795
 #EXTINF:-1 tvg-id="36307" tvg-name="IN| OM SHANTI" tvg-logo="https://lo1.in/ind/OM SHANTI.png" group-title="INDIA HINDI",IN| OM SHANTI
-https://allinonereborn.fun/sansat-web/live.php?id=36307
+https://allinonereborn.fun/ban.m3u8/live.php?id=36307
 #EXTINF:-1 tvg-id="36309" tvg-name="IN| DANGAL" tvg-logo="https://lo1.in/ind/DANGAL.png" group-title="INDIA HINDI",IN| DANGAL
-https://allinonereborn.fun/sansat-web/live.php?id=36309
+https://allinonereborn.fun/ban.m3u8/live.php?id=36309
 #EXTINF:-1 tvg-id="401652736" tvg-name="IN| TV ASIA" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| TV ASIA
-https://allinonereborn.fun/sansat-web/live.php?id=401652736
+https://allinonereborn.fun/ban.m3u8/live.php?id=401652736
 #EXTINF:-1 tvg-id="36310" tvg-name="IN| CN PLUS HD" tvg-logo="https://lo1.in/ind/CN PLUS HD.png" group-title="INDIA HINDI",IN| CN PLUS HD
-https://allinonereborn.fun/sansat-web/live.php?id=36310
+https://allinonereborn.fun/ban.m3u8/live.php?id=36310
 #EXTINF:-1 tvg-id="36312" tvg-name="IN| DISNEY INTERNATIONAL HD" tvg-logo="https://lo1.in/ind/DISNEY INTERNATION.png" group-title="INDIA HINDI",IN| DISNEY INTERNATIONAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=36312
+https://allinonereborn.fun/ban.m3u8/live.php?id=36312
 #EXTINF:-1 tvg-id="36318" tvg-name="IN| PARAS TV" tvg-logo="https://lo1.in/ind/PARAS TV.png" group-title="INDIA HINDI",IN| PARAS TV
-https://allinonereborn.fun/sansat-web/live.php?id=36318
+https://allinonereborn.fun/ban.m3u8/live.php?id=36318
 #EXTINF:-1 tvg-id="36319" tvg-name="IN| NICK PLUS HD" tvg-logo="https://lo1.in/ind/NICK PLUS HD.png" group-title="INDIA HINDI",IN| NICK PLUS HD
-https://allinonereborn.fun/sansat-web/live.php?id=36319
+https://allinonereborn.fun/ban.m3u8/live.php?id=36319
 #EXTINF:-1 tvg-id="36329" tvg-name="IN| MTV PLUS HD" tvg-logo="https://lo1.in/ind/MTV PLUS HD.png" group-title="INDIA HINDI",IN| MTV PLUS HD
-https://allinonereborn.fun/sansat-web/live.php?id=36329
+https://allinonereborn.fun/ban.m3u8/live.php?id=36329
 #EXTINF:-1 tvg-id="36330" tvg-name="IN| MINIPLEX HD" tvg-logo="https://lo1.in/ind/MINIPLEX HD.png" group-title="INDIA HINDI",IN| MINIPLEX HD
-https://allinonereborn.fun/sansat-web/live.php?id=36330
+https://allinonereborn.fun/ban.m3u8/live.php?id=36330
 #EXTINF:-1 tvg-id="36336" tvg-name="IN| AAJ TAK TEZ" tvg-logo="https://lo1.in/ind/AAJ TAK TEZ.png" group-title="INDIA HINDI",IN| AAJ TAK TEZ
-https://allinonereborn.fun/sansat-web/live.php?id=36336
+https://allinonereborn.fun/ban.m3u8/live.php?id=36336
 #EXTINF:-1 tvg-id="38317" tvg-name="IN| ATN HD HD" tvg-logo="https://lo1.in/ind/atn.png" group-title="INDIA HINDI",IN| ATN HD HD
-https://allinonereborn.fun/sansat-web/live.php?id=38317
+https://allinonereborn.fun/ban.m3u8/live.php?id=38317
 #EXTINF:-1 tvg-id="38314" tvg-name="IN| SONY ASIA HD" tvg-logo="https://lo1.in/ind/sony.png" group-title="INDIA HINDI",IN| SONY ASIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=38314
+https://allinonereborn.fun/ban.m3u8/live.php?id=38314
 #EXTINF:-1 tvg-id="36337" tvg-name="IN| SONY YAY" tvg-logo="https://lo1.in/ind/SONY YAY.png" group-title="INDIA HINDI",IN| SONY YAY
-https://allinonereborn.fun/sansat-web/live.php?id=36337
+https://allinonereborn.fun/ban.m3u8/live.php?id=36337
 #EXTINF:-1 tvg-id="36338" tvg-name="IN| SONY BBC EARTH HINDI HD" tvg-logo="https://lo1.in/ind/SONY BBC EARTH HINDI HD.png" group-title="INDIA HINDI",IN| SONY BBC EARTH HINDI HD
-https://allinonereborn.fun/sansat-web/live.php?id=36338
+https://allinonereborn.fun/ban.m3u8/live.php?id=36338
 #EXTINF:-1 tvg-id="36339" tvg-name="IN| VH1 HD ENG" tvg-logo="https://lo1.in/ind/vh10.png" group-title="INDIA HINDI",IN| VH1 HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36339
+https://allinonereborn.fun/ban.m3u8/live.php?id=36339
 #EXTINF:-1 tvg-id="36340" tvg-name="IN| THE Q YOU HD ENG" tvg-logo="https://lo1.in/ind/THE Q YOU HD.png" group-title="INDIA HINDI",IN| THE Q YOU HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36340
+https://allinonereborn.fun/ban.m3u8/live.php?id=36340
 #EXTINF:-1 tvg-id="36342" tvg-name="IN| BLOOMBERG INDIA ENG" tvg-logo="https://lo1.in/ind/BLOOMBERG INDIA ENG.png" group-title="INDIA HINDI",IN| BLOOMBERG INDIA ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36342
+https://allinonereborn.fun/ban.m3u8/live.php?id=36342
 #EXTINF:-1 tvg-id="36343" tvg-name="IN| DISNEY INTERNATIONAL HD ENG" tvg-logo="https://lo1.in/ind/DISNEY INTERNATIONAL.png" group-title="INDIA HINDI",IN| DISNEY INTERNATIONAL HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36343
+https://allinonereborn.fun/ban.m3u8/live.php?id=36343
 #EXTINF:-1 tvg-id="36344" tvg-name="IN| CNBC TV18 NEWS HD ENG" tvg-logo="https://lo1.in/ind/CNBC TV18 NEWS.png" group-title="INDIA HINDI",IN| CNBC TV18 NEWS HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36344
+https://allinonereborn.fun/ban.m3u8/live.php?id=36344
 #EXTINF:-1 tvg-id="36345" tvg-name="IN| FOX LIFE HD ENG" tvg-logo="https://lo1.in/ind/FOX LIFE HD ENG.png" group-title="INDIA HINDI",IN| FOX LIFE HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36345
+https://allinonereborn.fun/ban.m3u8/live.php?id=36345
 #EXTINF:-1 tvg-id="36346" tvg-name="IN| SONY BBC EARTH ENG HD" tvg-logo="https://lo1.in/ind/SONY BBC EARTH HINDI HD.png" group-title="INDIA HINDI",IN| SONY BBC EARTH ENG HD
-https://allinonereborn.fun/sansat-web/live.php?id=36346
+https://allinonereborn.fun/ban.m3u8/live.php?id=36346
 #EXTINF:-1 tvg-id="36374" tvg-name="IN| CVR NEWS TELEGU" tvg-logo="https://lo1.in/ind/CVR NEWS TELEGU.png" group-title="INDIA HINDI",IN| CVR NEWS TELEGU
-https://allinonereborn.fun/sansat-web/live.php?id=36374
+https://allinonereborn.fun/ban.m3u8/live.php?id=36374
 #EXTINF:-1 tvg-id="401502142" tvg-name="IN| AKAAL CHANNEL" tvg-logo="https://lo1.in/uk/aka.png" group-title="INDIA HINDI",IN| AKAAL CHANNEL
-https://allinonereborn.fun/sansat-web/live.php?id=401502142
+https://allinonereborn.fun/ban.m3u8/live.php?id=401502142
 
 //===SPORTS SANSAT===//
 #EXTINF:-1 tvg-id="400803727" tvg-name="IN| VT SPORTS 18 FHD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| VT SPORTS 18 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400803727
+https://allinonereborn.fun/ban.m3u8/live.php?id=400803727
 #EXTINF:-1 tvg-id="187268" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://lo1.in/ind/starsp1.png" group-title="INDIA HINDI",IN| STAR SPORTS 1 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187268
+https://allinonereborn.fun/ban.m3u8/live.php?id=187268
 #EXTINF:-1 tvg-id="378740" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://lo1.in/ind/starsp2.png" group-title="INDIA HINDI",IN| STAR SPORTS 2 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378740
+https://allinonereborn.fun/ban.m3u8/live.php?id=378740
 #EXTINF:-1 tvg-id="400159568" tvg-name="IN| STAR SPORTS 3 HD" tvg-logo="https://lo1.in/ind/strsp3.png" group-title="INDIA HINDI",IN| STAR SPORTS 3 HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159568
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159568
 #EXTINF:-1 tvg-id="378739" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://lo1.in/ind/strsps1.png" group-title="INDIA HINDI",IN| STAR SPORTS SELECT 1 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378739
+https://allinonereborn.fun/ban.m3u8/live.php?id=378739
 #EXTINF:-1 tvg-id="376465" tvg-name="IN| STAR SPORTS SELECT 2  FHD" tvg-logo="https://lo1.in/ind/strsps2.png" group-title="INDIA HINDI",IN| STAR SPORTS SELECT 2  FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376465
+https://allinonereborn.fun/ban.m3u8/live.php?id=376465
 #EXTINF:-1 tvg-id="400159571" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://lo1.in/ind/strsp1hnd.png" group-title="INDIA HINDI",IN| STAR SPORTS 1 HINDI FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159571
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159571
 #EXTINF:-1 tvg-id="400443872" tvg-name="IN| SPORTS 18 FHD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| SPORTS 18 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400443872
+https://allinonereborn.fun/ban.m3u8/live.php?id=400443872
 #EXTINF:-1 tvg-id="401529922" tvg-name="IN| SPORTS 18 2 FHD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| SPORTS 18 2 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=401529922
+https://allinonereborn.fun/ban.m3u8/live.php?id=401529922
 #EXTINF:-1 tvg-id="401529921" tvg-name="IN| SPORTS 18 3 FHD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| SPORTS 18 3 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=401529921
+https://allinonereborn.fun/ban.m3u8/live.php?id=401529921
 #EXTINF:-1 tvg-id="378758" tvg-name="IN| DD SPORTS HD" tvg-logo="https://lo1.in/ind/ddsp.png" group-title="INDIA HINDI",IN| DD SPORTS HD
-https://allinonereborn.fun/sansat-web/live.php?id=378758
+https://allinonereborn.fun/ban.m3u8/live.php?id=378758
 #EXTINF:-1 tvg-id="376442" tvg-name="IN| TEN SPORTS FHD" tvg-logo="https://lo1.in/ind/tensp1.png" group-title="INDIA HINDI",IN| TEN SPORTS FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376442
+https://allinonereborn.fun/ban.m3u8/live.php?id=376442
 #EXTINF:-1 tvg-id="187261" tvg-name="IN| SONY TEN 1 FHD" tvg-logo="https://lo1.in/ind/snytn1.png" group-title="INDIA HINDI",IN| SONY TEN 1 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187261
+https://allinonereborn.fun/ban.m3u8/live.php?id=187261
 #EXTINF:-1 tvg-id="187262" tvg-name="IN| SONY TEN 2 FHD" tvg-logo="https://lo1.in/ind/snytn2.png" group-title="INDIA HINDI",IN| SONY TEN 2 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187262
+https://allinonereborn.fun/ban.m3u8/live.php?id=187262
 #EXTINF:-1 tvg-id="378745" tvg-name="IN| SONY TEN 3 FHD" tvg-logo="https://lo1.in/ind/snytn3.png" group-title="INDIA HINDI",IN| SONY TEN 3 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378745
+https://allinonereborn.fun/ban.m3u8/live.php?id=378745
 #EXTINF:-1 tvg-id="400375287" tvg-name="IN| SONY TEN 4 HD" tvg-logo="https://lo1.in/ind/snyten4.png" group-title="INDIA HINDI",IN| SONY TEN 4 HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375287
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375287
 #EXTINF:-1 tvg-id="400803735" tvg-name="IN| JIO EVENTS FHD" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| JIO EVENTS FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400803735
+https://allinonereborn.fun/ban.m3u8/live.php?id=400803735
 #EXTINF:-1 tvg-id="36300" tvg-name="IN| WILLOW CRICKET HD" tvg-logo="https://lo1.in/ind/WILLOW CRICKET HD.png" group-title="INDIA HINDI",IN| WILLOW CRICKET HD
-https://allinonereborn.fun/sansat-web/live.php?id=36300
+https://allinonereborn.fun/ban.m3u8/live.php?id=36300
 #EXTINF:-1 tvg-id="401547598" tvg-name="IN| T SPORTS" tvg-logo="" group-title="INDIA HINDI",IN| T SPORTS
-https://allinonereborn.fun/sansat-web/live.php?id=401547598
+https://allinonereborn.fun/ban.m3u8/live.php?id=401547598
 #EXTINF:-1 tvg-id="36305" tvg-name="IN| Hub Sports 1" tvg-logo="https://lo1.in/ind/Hub Sports 1.png" group-title="INDIA HINDI",IN| Hub Sports 1
-https://allinonereborn.fun/sansat-web/live.php?id=36305
+https://allinonereborn.fun/ban.m3u8/live.php?id=36305
 #EXTINF:-1 tvg-id="36304" tvg-name="IN| Hub Sports 2" tvg-logo="https://lo1.in/ind/Hub Sports 2.png" group-title="INDIA HINDI",IN| Hub Sports 2
-https://allinonereborn.fun/sansat-web/live.php?id=36304
+https://allinonereborn.fun/ban.m3u8/live.php?id=36304
 #EXTINF:-1 tvg-id="36303" tvg-name="IN| Hub Sports 3" tvg-logo="https://lo1.in/ind/Hub Sports 3.png" group-title="INDIA HINDI",IN| Hub Sports 3
-https://allinonereborn.fun/sansat-web/live.php?id=36303
+https://allinonereborn.fun/ban.m3u8/live.php?id=36303
 #EXTINF:-1 tvg-id="36302" tvg-name="IN| Hub Sports 4" tvg-logo="https://lo1.in/ind/Hub Sports 4.png" group-title="INDIA HINDI",IN| Hub Sports 4
-https://allinonereborn.fun/sansat-web/live.php?id=36302
+https://allinonereborn.fun/ban.m3u8/live.php?id=36302
 #EXTINF:-1 tvg-id="36301" tvg-name="IN| Hub Sports 5" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| Hub Sports 5
-https://allinonereborn.fun/sansat-web/live.php?id=36301
+https://allinonereborn.fun/ban.m3u8/live.php?id=36301
 
 //===SONY SANSAT===//
 #EXTINF:-1 tvg-id="376266" tvg-name="IN| SONY FHD" tvg-logo="https://lo1.in/ind/sny.png" group-title="INDIA HINDI",IN| SONY FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376266
+
+https://allinonereborn.fun/ban.m3u8/live.php?id=376266
 #EXTINF:-1 tvg-id="400159477" tvg-name="IN| SONY SAB HD" tvg-logo="https://lo1.in/ind/snysb.png" group-title="INDIA HINDI",IN| SONY SAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159477
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159477
 #EXTINF:-1 tvg-id="400232358" tvg-name="IN| SONY SAB SD (UK)" tvg-logo="https://lo1.in/ind/snysb.png" group-title="INDIA HINDI",IN| SONY SAB SD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232358
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232358
 #EXTINF:-1 tvg-id="400232359" tvg-name="IN| SONY TV HD (UK)" tvg-logo="https://lo1.in/uk/sony.png" group-title="INDIA HINDI",IN| SONY TV HD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232359
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232359
 #EXTINF:-1 tvg-id="400220466" tvg-name="IN| SONY ENTERTAINMENT FHD" tvg-logo="https://lo1.in/ind/snyentr.png" group-title="INDIA HINDI",IN| SONY ENTERTAINMENT FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400220466
+https://allinonereborn.fun/ban.m3u8/live.php?id=400220466
 #EXTINF:-1 tvg-id="400232356" tvg-name="IN| SONY ACTION SD (UK)" tvg-logo="https://lo1.in/uk/snyac.png" group-title="INDIA HINDI",IN| SONY ACTION SD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232356
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232356
 #EXTINF:-1 tvg-id="400232349" tvg-name="IN| SONY CHANNEL SD (UK)" tvg-logo="https://lo1.in/uk/sonymo.png" group-title="INDIA HINDI",IN| SONY CHANNEL SD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232349
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232349
 #EXTINF:-1 tvg-id="187256" tvg-name="IN| SONY MOVIES ACTION +1 SD" tvg-logo="https://lo1.in/ind/sonymo.png" group-title="INDIA HINDI",IN| SONY MOVIES ACTION +1 SD
-https://allinonereborn.fun/sansat-web/live.php?id=187256
+https://allinonereborn.fun/ban.m3u8/live.php?id=187256
 #EXTINF:-1 tvg-id="376264" tvg-name="IN| SONY MAX FHD" tvg-logo="https://lo1.in/ind/snymx.png" group-title="INDIA HINDI",IN| SONY MAX FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376264
+https://allinonereborn.fun/ban.m3u8/live.php?id=376264
 #EXTINF:-1 tvg-id="400232355" tvg-name="IN| SONY MAX HD (UK)" tvg-logo="https://lo1.in/uk/snymx.png" group-title="INDIA HINDI",IN| SONY MAX HD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232355
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232355
 #EXTINF:-1 tvg-id="376265" tvg-name="IN| SONY MAX 2 HD" tvg-logo="https://lo1.in/ind/snymx.png" group-title="INDIA HINDI",IN| SONY MAX 2 HD
-https://allinonereborn.fun/sansat-web/live.php?id=376265
+https://allinonereborn.fun/ban.m3u8/live.php?id=376265
 #EXTINF:-1 tvg-id="400232354" tvg-name="IN| SONY MAX 2 SD (UK)" tvg-logo="https://lo1.in/uk/snymx.png" group-title="INDIA HINDI",IN| SONY MAX 2 SD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232354
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232354
 #EXTINF:-1 tvg-id="400232353" tvg-name="IN| SONY MOVIES (UK)" tvg-logo="https://lo1.in/uk/sonymo.png" group-title="INDIA HINDI",IN| SONY MOVIES (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232353
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232353
 #EXTINF:-1 tvg-id="400232352" tvg-name="IN| SONY MOVIES + 1 FHD (UK)" tvg-logo="https://lo1.in/uk/snyac.png" group-title="INDIA HINDI",IN| SONY MOVIES + 1 FHD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232352
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232352
 #EXTINF:-1 tvg-id="400232351" tvg-name="IN| SONY MOVIES ACTION HD (UK)" tvg-logo="https://lo1.in/uk/snyac.png" group-title="INDIA HINDI",IN| SONY MOVIES ACTION HD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232351
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232351
 #EXTINF:-1 tvg-id="400232350" tvg-name="IN| SONY MOVIES ACTION +1 HD (UK)" tvg-logo="https://lo1.in/uk/snyac.png" group-title="INDIA HINDI",IN| SONY MOVIES ACTION +1 HD (UK)
-https://allinonereborn.fun/sansat-web/live.php?id=400232350
+https://allinonereborn.fun/ban.m3u8/live.php?id=400232350
 #EXTINF:-1 tvg-id="187260" tvg-name="IN| SONY PAL HD" tvg-logo="https://lo1.in/ind/snypa.png" group-title="INDIA HINDI",IN| SONY PAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=187260
+https://allinonereborn.fun/ban.m3u8/live.php?id=187260
 #EXTINF:-1 tvg-id="376263" tvg-name="IN| SONY PIX FHD" tvg-logo="https://lo1.in/ind/snypix.png" group-title="INDIA HINDI",IN| SONY PIX FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376263
+https://allinonereborn.fun/ban.m3u8/live.php?id=376263
 #EXTINF:-1 tvg-id="378746" tvg-name="IN| SONY TEN 5 FHD" tvg-logo="https://lo1.in/ind/sny6.png" group-title="INDIA HINDI",IN| SONY TEN 5 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378746
+https://allinonereborn.fun/ban.m3u8/live.php?id=378746
 #EXTINF:-1 tvg-id="378744" tvg-name="IN| SONY WAH SD" tvg-logo="https://lo1.in/ind/snywh.png" group-title="INDIA HINDI",IN| SONY WAH SD
-https://allinonereborn.fun/sansat-web/live.php?id=378744
+https://allinonereborn.fun/ban.m3u8/live.php?id=378744
 #EXTINF:-1 tvg-id="401605048" tvg-name="IN| SONY PAL (USA)" tvg-logo="https://lo1.in/uk/sony.png" group-title="INDIA HINDI",IN| SONY PAL (USA)
-https://allinonereborn.fun/sansat-web/live.php?id=401605048
+https://allinonereborn.fun/ban.m3u8/live.php?id=401605048
 #EXTINF:-1 tvg-id="401605047" tvg-name="IN| SONY YAY (USA)" tvg-logo="https://lo1.in/uk/sony.png" group-title="INDIA HINDI",IN| SONY YAY (USA)
-https://allinonereborn.fun/sansat-web/live.php?id=401605047
+https://allinonereborn.fun/ban.m3u8/live.php?id=401605047
 #EXTINF:-1 tvg-id="401605046" tvg-name="IN| SONY MAX (USA)" tvg-logo="https://lo1.in/uk/sony.png" group-title="INDIA HINDI",IN| SONY MAX (USA)
-https://allinonereborn.fun/sansat-web/live.php?id=401605046
+https://allinonereborn.fun/ban.m3u8/live.php?id=401605046
 #EXTINF:-1 tvg-id="401605045" tvg-name="IN| SONY MAX 2 (USA)" tvg-logo="https://lo1.in/uk/sony.png" group-title="INDIA HINDI",IN| SONY MAX 2 (USA)
-https://allinonereborn.fun/sansat-web/live.php?id=401605045
+https://allinonereborn.fun/ban.m3u8/live.php?id=401605045
 
 //===DOCUMENTARY===//
 #EXTINF:-1 tvg-id="186969" tvg-name="IN| & XPLORE FHD" tvg-logo="https://lo1.in/ind/exp.png" group-title="INDIA HINDI",IN| & XPLORE FHD
-https://allinonereborn.fun/sansat-web/live.php?id=186969
+https://allinonereborn.fun/ban.m3u8/live.php?id=186969
 #EXTINF:-1 tvg-id="186960" tvg-name="IN| ANIMAL PLANET HD" tvg-logo="https://lo1.in/ind/anmpl.png" group-title="INDIA HINDI",IN| ANIMAL PLANET HD
-https://allinonereborn.fun/sansat-web/live.php?id=186960
+https://allinonereborn.fun/ban.m3u8/live.php?id=186960
 #EXTINF:-1 tvg-id="186986" tvg-name="IN| ANIMAL PLANET ENG FHD" tvg-logo="https://lo1.in/ind/anmpl.png" group-title="INDIA HINDI",IN| ANIMAL PLANET ENG FHD
-https://allinonereborn.fun/sansat-web/live.php?id=186986
+https://allinonereborn.fun/ban.m3u8/live.php?id=186986
 #EXTINF:-1 tvg-id="378757" tvg-name="IN| DISCOVERY TURBO HD" tvg-logo="https://lo1.in/ind/distur.png" group-title="INDIA HINDI",IN| DISCOVERY TURBO HD
-https://allinonereborn.fun/sansat-web/live.php?id=378757
+https://allinonereborn.fun/ban.m3u8/live.php?id=378757
 #EXTINF:-1 tvg-id="186963" tvg-name="IN| DISCOVERY  WORLD HD" tvg-logo="https://lo1.in/ind/dis.png" group-title="INDIA HINDI",IN| DISCOVERY  WORLD HD
-https://allinonereborn.fun/sansat-web/live.php?id=186963
+https://allinonereborn.fun/ban.m3u8/live.php?id=186963
 #EXTINF:-1 tvg-id="186965" tvg-name="IN| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/ind/dissci.png" group-title="INDIA HINDI",IN| DISCOVERY SCIENCE HD
-https://allinonereborn.fun/sansat-web/live.php?id=186965
+https://allinonereborn.fun/ban.m3u8/live.php?id=186965
 #EXTINF:-1 tvg-id="400159495" tvg-name="IN| DISCOVERY ENGLISH FHD" tvg-logo="https://lo1.in/ind/dsyeng.png" group-title="INDIA HINDI",IN| DISCOVERY ENGLISH FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159495
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159495
 #EXTINF:-1 tvg-id="400159493" tvg-name="IN| DISCOVERY WORLD HD" tvg-logo="https://lo1.in/ind/diswd.png" group-title="INDIA HINDI",IN| DISCOVERY WORLD HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159493
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159493
 #EXTINF:-1 tvg-id="187068" tvg-name="IN| FASHION TV FHD" tvg-logo="https://lo1.in/ind/fash.png" group-title="INDIA HINDI",IN| FASHION TV FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187068
+https://allinonereborn.fun/ban.m3u8/live.php?id=187068
 #EXTINF:-1 tvg-id="400375294" tvg-name="IN| HISTORY TV18 HINDI FHD" tvg-logo="https://lo1.in/ind/histeng.png" group-title="INDIA HINDI",IN| HISTORY TV18 HINDI FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400375294
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375294
 #EXTINF:-1 tvg-id="400375563" tvg-name="IN| HISTORY TV18 ENG FHD" tvg-logo="https://lo1.in/ind/histeng.png" group-title="INDIA HINDI",IN| HISTORY TV18 ENG FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400375563
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375563
 #EXTINF:-1 tvg-id="400280893" tvg-name="IN| FOOD FOOD INDIA HD" tvg-logo="https://lo1.in/ind/fodind.png" group-title="INDIA HINDI",IN| FOOD FOOD INDIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400280893
+https://allinonereborn.fun/ban.m3u8/live.php?id=400280893
 #EXTINF:-1 tvg-id="186967" tvg-name="IN| NAT GEO HD" tvg-logo="https://lo1.in/ind/ntge.png" group-title="INDIA HINDI",IN| NAT GEO HD
-https://allinonereborn.fun/sansat-web/live.php?id=186967
+https://allinonereborn.fun/ban.m3u8/live.php?id=186967
 #EXTINF:-1 tvg-id="400159485" tvg-name="IN| NAT GEO WILD FHD" tvg-logo="https://lo1.in/ind/ntgew.png" group-title="INDIA HINDI",IN| NAT GEO WILD FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159485
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159485
 #EXTINF:-1 tvg-id="400159719" tvg-name="IN| NAT GEO FHD ENG" tvg-logo="https://lo1.in/ind/ntge.png" group-title="INDIA HINDI",IN| NAT GEO FHD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=400159719
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159719
 #EXTINF:-1 tvg-id="400159486" tvg-name="IN| NAT GEO WILD ENG FHD" tvg-logo="https://lo1.in/ind/ntgew.png" group-title="INDIA HINDI",IN| NAT GEO WILD ENG FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159486
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159486
 #EXTINF:-1 tvg-id="187077" tvg-name="IN| GOOD TIMES HD" tvg-logo="https://lo1.in/ind/ndgdtm.png" group-title="INDIA HINDI",IN| GOOD TIMES HD
-https://allinonereborn.fun/sansat-web/live.php?id=187077
+https://allinonereborn.fun/ban.m3u8/live.php?id=187077
 #EXTINF:-1 tvg-id="187186" tvg-name="IN| NORTH EAST LIVE HD" tvg-logo="https://lo1.in/ind/norealv.png" group-title="INDIA HINDI",IN| NORTH EAST LIVE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187186
+https://allinonereborn.fun/ban.m3u8/live.php?id=187186
 
 //===KIDS===//
 #EXTINF:-1 tvg-id="400159447" tvg-name="IN| BABY TV HD" tvg-logo="https://lo1.in/ind/bby.png" group-title="INDIA HINDI",IN| BABY TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159447
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159447
 #EXTINF:-1 tvg-id="17822" tvg-name="IN| CARTOON NETWORK ENG FHD" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="INDIA HINDI",IN| CARTOON NETWORK ENG FHD
-https://allinonereborn.fun/sansat-web/live.php?id=17822
+https://allinonereborn.fun/ban.m3u8/live.php?id=17822
 #EXTINF:-1 tvg-id="400159500" tvg-name="IN| CARTOON NETWORK HD" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="INDIA HINDI",IN| CARTOON NETWORK HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159500
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159500
 #EXTINF:-1 tvg-id="400159721" tvg-name="IN| CARTOON NETWORK FHD+" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="INDIA HINDI",IN| CARTOON NETWORK FHD+
-https://allinonereborn.fun/sansat-web/live.php?id=400159721
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159721
 #EXTINF:-1 tvg-id="75417" tvg-name="IN| CARTOON NETWORK" tvg-logo="https://lo1.in/ind/crtnet.png" group-title="INDIA HINDI",IN| CARTOON NETWORK
-https://allinonereborn.fun/sansat-web/live.php?id=75417
+https://allinonereborn.fun/ban.m3u8/live.php?id=75417
 #EXTINF:-1 tvg-id="187049" tvg-name="IN| DISCOVERY KIDS HD" tvg-logo="https://lo1.in/ind/diskd.png" group-title="INDIA HINDI",IN| DISCOVERY KIDS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187049
+https://allinonereborn.fun/ban.m3u8/live.php?id=187049
 #EXTINF:-1 tvg-id="187052" tvg-name="IN| DISNEY HD" tvg-logo="https://lo1.in/ind/dsy0.png" group-title="INDIA HINDI",IN| DISNEY HD
-https://allinonereborn.fun/sansat-web/live.php?id=187052
+https://allinonereborn.fun/ban.m3u8/live.php?id=187052
 #EXTINF:-1 tvg-id="187053" tvg-name="IN| DISNEY JUNIOR HD" tvg-logo="https://lo1.in/ind/dsyj.png" group-title="INDIA HINDI",IN| DISNEY JUNIOR HD
-https://allinonereborn.fun/sansat-web/live.php?id=187053
+https://allinonereborn.fun/ban.m3u8/live.php?id=187053
 #EXTINF:-1 tvg-id="400159483" tvg-name="IN| NICK FHD+" tvg-logo="https://lo1.in/ind/nick.png" group-title="INDIA HINDI",IN| NICK FHD+
-https://allinonereborn.fun/sansat-web/live.php?id=400159483
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159483
 #EXTINF:-1 tvg-id="400159717" tvg-name="IN| NICK+ FHD HINDI" tvg-logo="https://lo1.in/ind/nick.png" group-title="INDIA HINDI",IN| NICK+ FHD HINDI
-https://allinonereborn.fun/sansat-web/live.php?id=400159717
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159717
 #EXTINF:-1 tvg-id="187184" tvg-name="IN| NICK JUNIOR FHD" tvg-logo="https://lo1.in/ind/nickj.png" group-title="INDIA HINDI",IN| NICK JUNIOR FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187184
+https://allinonereborn.fun/ban.m3u8/live.php?id=187184
 #EXTINF:-1 tvg-id="400159718" tvg-name="IN| NICK JUNIOR HD ENG" tvg-logo="https://lo1.in/ind/nickj.png" group-title="INDIA HINDI",IN| NICK JUNIOR HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=400159718
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159718
 #EXTINF:-1 tvg-id="400159484" tvg-name="IN| NICK+ FHD ENGLISH FHD" tvg-logo="https://lo1.in/ind/nickeng.png" group-title="INDIA HINDI",IN| NICK+ FHD ENGLISH FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159484
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159484
 #EXTINF:-1 tvg-id="400159482" tvg-name="IN| NICK SONIC HD" tvg-logo="https://lo1.in/ind/nicksnc.png" group-title="INDIA HINDI",IN| NICK SONIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159482
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159482
 
 //===MUSIC===//
 #EXTINF:-1 tvg-id="186959" tvg-name="IN| 7S MUSIC SD" tvg-logo="https://lo1.in/ind/7sms.png" group-title="INDIA HINDI",IN| 7S MUSIC SD
-https://allinonereborn.fun/sansat-web/live.php?id=186959
+https://allinonereborn.fun/ban.m3u8/live.php?id=186959
 #EXTINF:-1 tvg-id="400159451" tvg-name="IN| 9X JALWA HD" tvg-logo="https://lo1.in/ind/9xjlw.png" group-title="INDIA HINDI",IN| 9X JALWA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159451
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159451
 #EXTINF:-1 tvg-id="400159450" tvg-name="IN| 9X MUSIC HD" tvg-logo="https://lo1.in/ind/9xms.png" group-title="INDIA HINDI",IN| 9X MUSIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159450
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159450
 #EXTINF:-1 tvg-id="186962" tvg-name="IN| B4U MUSIC HD" tvg-logo="https://lo1.in/ind/b4ms.png" group-title="INDIA HINDI",IN| B4U MUSIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=186962
+https://allinonereborn.fun/ban.m3u8/live.php?id=186962
 #EXTINF:-1 tvg-id="187147" tvg-name="IN| MK MUSIC SD" tvg-logo="https://lo1.in/ind/nkms.png" group-title="INDIA HINDI",IN| MK MUSIC SD
-https://allinonereborn.fun/sansat-web/live.php?id=187147
+https://allinonereborn.fun/ban.m3u8/live.php?id=187147
 #EXTINF:-1 tvg-id="400159487" tvg-name="IN| MTV HD" tvg-logo="https://lo1.in/ind/mtv.png" group-title="INDIA HINDI",IN| MTV HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159487
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159487
 #EXTINF:-1 tvg-id="187154" tvg-name="IN| MTV FHD" tvg-logo="https://lo1.in/ind/mtvhd.png" group-title="INDIA HINDI",IN| MTV FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187154
+https://allinonereborn.fun/ban.m3u8/live.php?id=187154
 #EXTINF:-1 tvg-id="187157" tvg-name="IN| MUSIC INDIA SD" tvg-logo="https://lo1.in/ind/msind.png" group-title="INDIA HINDI",IN| MUSIC INDIA SD
-https://allinonereborn.fun/sansat-web/live.php?id=187157
+https://allinonereborn.fun/ban.m3u8/live.php?id=187157
 #EXTINF:-1 tvg-id="400159448" tvg-name="IN| MASTIII HD" tvg-logo="https://lo1.in/ind/masti.png" group-title="INDIA HINDI",IN| MASTIII HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159448
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159448
 #EXTINF:-1 tvg-id="387731" tvg-name="IN| JHANJAR MUSIC SD" tvg-logo="https://lo1.in/ind/jhanjms.png" group-title="INDIA HINDI",IN| JHANJAR MUSIC SD
-https://allinonereborn.fun/sansat-web/live.php?id=387731
+https://allinonereborn.fun/ban.m3u8/live.php?id=387731
 #EXTINF:-1 tvg-id="187208" tvg-name="IN| PUBLIC MUSIC HD" tvg-logo="https://lo1.in/ind/pubms.png" group-title="INDIA HINDI",IN| PUBLIC MUSIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=187208
+https://allinonereborn.fun/ban.m3u8/live.php?id=187208
 #EXTINF:-1 tvg-id="400281747" tvg-name="IN| ZOOM US HD" tvg-logo="https://lo1.in/ind/zom.png" group-title="INDIA HINDI",IN| ZOOM US HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281747
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281747
 #EXTINF:-1 tvg-id="187376" tvg-name="IN| ZOOM INDIA HD" tvg-logo="https://lo1.in/ind/zom.png" group-title="INDIA HINDI",IN| ZOOM INDIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=187376
+https://allinonereborn.fun/ban.m3u8/live.php?id=187376
 #EXTINF:-1 tvg-id="400281778" tvg-name="IN| ZOOM UK HD" tvg-logo="https://lo1.in/ind/zom.png" group-title="INDIA HINDI",IN| ZOOM UK HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281778
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281778
 #EXTINF:-1 tvg-id="35788" tvg-name="IN| TARANG MUSIC HD ODIA" tvg-logo="https://lo1.in/ind/TARANG MUSIC HD ODIA.png" group-title="INDIA HINDI",IN| TARANG MUSIC HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35788
+https://allinonereborn.fun/ban.m3u8/live.php?id=35788
 
 //===MOVIES===//
 #EXTINF:-1 tvg-id="378741" tvg-name="IN| STAR PLUS FHD" tvg-logo="https://lo1.in/ind/splus1.png" group-title="INDIA HINDI",IN| STAR PLUS FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378741
+https://allinonereborn.fun/ban.m3u8/live.php?id=378741
 #EXTINF:-1 tvg-id="376261" tvg-name="IN| STAR GOLD SELECT FHD" tvg-logo="https://lo1.in/ind/strglds.png" group-title="INDIA HINDI",IN| STAR GOLD SELECT FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376261
+https://allinonereborn.fun/ban.m3u8/live.php?id=376261
 #EXTINF:-1 tvg-id="376262" tvg-name="IN| STAR GOLD FHD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA HINDI",IN| STAR GOLD FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376262
+https://allinonereborn.fun/ban.m3u8/live.php?id=376262
 #EXTINF:-1 tvg-id="187265" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://lo1.in/ind/strgld2.png" group-title="INDIA HINDI",IN| STAR GOLD 2 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187265
+https://allinonereborn.fun/ban.m3u8/live.php?id=187265
 #EXTINF:-1 tvg-id="387767" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="INDIA HINDI",IN| STAR MOVIES SELECT FHD
-https://allinonereborn.fun/sansat-web/live.php?id=387767
+https://allinonereborn.fun/ban.m3u8/live.php?id=387767
 #EXTINF:-1 tvg-id="187267" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://lo1.in/ind/strmvs.png" group-title="INDIA HINDI",IN| STAR MOVIES HD
-https://allinonereborn.fun/sansat-web/live.php?id=187267
+https://allinonereborn.fun/ban.m3u8/live.php?id=187267
 #EXTINF:-1 tvg-id="187271" tvg-name="IN| STAR UTSAV MOVIES HD" tvg-logo="https://lo1.in/ind/strumv.png" group-title="INDIA HINDI",IN| STAR UTSAV MOVIES HD
-https://allinonereborn.fun/sansat-web/live.php?id=187271
+https://allinonereborn.fun/ban.m3u8/live.php?id=187271
 #EXTINF:-1 tvg-id="376260" tvg-name="IN| STAR UTSAV SD" tvg-logo="https://lo1.in/ind/strut.png" group-title="INDIA HINDI",IN| STAR UTSAV SD
-https://allinonereborn.fun/sansat-web/live.php?id=376260
+https://allinonereborn.fun/ban.m3u8/live.php?id=376260
 #EXTINF:-1 tvg-id="187027" tvg-name="IN| COLORS FHD" tvg-logo="https://lo1.in/ind/clst.png" group-title="INDIA HINDI",IN| COLORS FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187027
+https://allinonereborn.fun/ban.m3u8/live.php?id=187027
 #EXTINF:-1 tvg-id="378760" tvg-name="IN| COLORS INFINITY FHD" tvg-logo="https://lo1.in/ind/colrind.png" group-title="INDIA HINDI",IN| COLORS INFINITY FHD
-https://allinonereborn.fun/sansat-web/live.php?id=378760
+https://allinonereborn.fun/ban.m3u8/live.php?id=378760
 #EXTINF:-1 tvg-id="187024" tvg-name="IN| COLORS SUPER FHD" tvg-logo="https://lo1.in/ind/clsu.png" group-title="INDIA HINDI",IN| COLORS SUPER FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187024
+https://allinonereborn.fun/ban.m3u8/live.php?id=187024
 #EXTINF:-1 tvg-id="376277" tvg-name="IN| COLORS CINEPLEX BOLLYWOOD HD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA HINDI",IN| COLORS CINEPLEX BOLLYWOOD HD
-https://allinonereborn.fun/sansat-web/live.php?id=376277
+https://allinonereborn.fun/ban.m3u8/live.php?id=376277
 #EXTINF:-1 tvg-id="400159498" tvg-name="IN| COLORS CINEPLEX SD" tvg-logo="https://lo1.in/ind/colcin.png" group-title="INDIA HINDI",IN| COLORS CINEPLEX SD
-https://allinonereborn.fun/sansat-web/live.php?id=400159498
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159498
 #EXTINF:-1 tvg-id="400159496" tvg-name="IN| COLORS ODIYA SD" tvg-logo="https://lo1.in/ind/clrsod.png" group-title="INDIA HINDI",IN| COLORS ODIYA SD
-https://allinonereborn.fun/sansat-web/live.php?id=400159496
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159496
 #EXTINF:-1 tvg-id="187231" tvg-name="IN| COLORS RISHTEY FHD" tvg-logo="https://lo1.in/ind/rishclr.png" group-title="INDIA HINDI",IN| COLORS RISHTEY FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187231
+https://allinonereborn.fun/ban.m3u8/live.php?id=187231
 #EXTINF:-1 tvg-id="400280885" tvg-name="IN| COLORS RISHTEY UK SD" tvg-logo="https://lo1.in/uk/clrst.png" group-title="INDIA HINDI",IN| COLORS RISHTEY UK SD
-https://allinonereborn.fun/sansat-web/live.php?id=400280885
+https://allinonereborn.fun/ban.m3u8/live.php?id=400280885
 #EXTINF:-1 tvg-id="400375136" tvg-name="IN| COLORS FHD ODIA" tvg-logo="https://lo1.in/ind/co.png" group-title="INDIA HINDI",IN| COLORS FHD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=400375136
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375136
 #EXTINF:-1 tvg-id="710930" tvg-name="IN| COLORS ORIYA HD" tvg-logo="https://lo1.in/ind/co.png" group-title="INDIA HINDI",IN| COLORS ORIYA HD
-https://allinonereborn.fun/sansat-web/live.php?id=710930
+https://allinonereborn.fun/ban.m3u8/live.php?id=710930
 #EXTINF:-1 tvg-id="710929" tvg-name="IN| RISHTEY CINEPLEX HD" tvg-logo="https://lo1.in/uk/clrsnc0.png" group-title="INDIA HINDI",IN| RISHTEY CINEPLEX HD
-https://allinonereborn.fun/sansat-web/live.php?id=710929
+https://allinonereborn.fun/ban.m3u8/live.php?id=710929
 #EXTINF:-1 tvg-id="400375134" tvg-name="IN| PRATHANA TV SD" tvg-logo="https://lo1.in/ind/prat.png" group-title="INDIA HINDI",IN| PRATHANA TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375134
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375134
 #EXTINF:-1 tvg-id="400159476" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://lo1.in/ind/strbh.png" group-title="INDIA HINDI",IN| STAR BHARAT FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159476
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159476
 #EXTINF:-1 tvg-id="400159456" tvg-name="IN| AWAKENING DEVOTIONAL HD" tvg-logo="https://lo1.in/ind/awakde.png" group-title="INDIA HINDI",IN| AWAKENING DEVOTIONAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159456
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159456
 #EXTINF:-1 tvg-id="400281172" tvg-name="IN| B4U AFLAM ARAB HD" tvg-logo="https://lo1.in/MBC/b4uaflam1.png" group-title="INDIA HINDI",IN| B4U AFLAM ARAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281172
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281172
 #EXTINF:-1 tvg-id="400159463" tvg-name="IN| B4U KADAK HD" tvg-logo="https://lo1.in/ind/b4uk.png" group-title="INDIA HINDI",IN| B4U KADAK HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159463
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159463
 #EXTINF:-1 tvg-id="400281171" tvg-name="IN| B4U MOVIES UK SD" tvg-logo="https://lo1.in/ind/b4umvs.png" group-title="INDIA HINDI",IN| B4U MOVIES UK SD
-https://allinonereborn.fun/sansat-web/live.php?id=400281171
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281171
 #EXTINF:-1 tvg-id="376278" tvg-name="IN| B4U MOVIES SD" tvg-logo="https://lo1.in/ind/b4umv.png" group-title="INDIA HINDI",IN| B4U MOVIES SD
-https://allinonereborn.fun/sansat-web/live.php?id=376278
+https://allinonereborn.fun/ban.m3u8/live.php?id=376278
 #EXTINF:-1 tvg-id="400281173" tvg-name="IN| B4U PLUS ARAB HD" tvg-logo="https://lo1.in/MBC/b4uplus1.png" group-title="INDIA HINDI",IN| B4U PLUS ARAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281173
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281173
 #EXTINF:-1 tvg-id="186998" tvg-name="IN|  SONY BBC EARTH HINDI FHD" tvg-logo="https://lo1.in/ind/bbcer.png" group-title="INDIA HINDI",IN|  SONY BBC EARTH HINDI FHD
-https://allinonereborn.fun/sansat-web/live.php?id=186998
+https://allinonereborn.fun/ban.m3u8/live.php?id=186998
 #EXTINF:-1 tvg-id="186999" tvg-name="IN| BFLIX MOVIES HD" tvg-logo="https://lo1.in/ind/bflmx.png" group-title="INDIA HINDI",IN| BFLIX MOVIES HD
-https://allinonereborn.fun/sansat-web/live.php?id=186999
+https://allinonereborn.fun/ban.m3u8/live.php?id=186999
 #EXTINF:-1 tvg-id="376314" tvg-name="IN| GANGA HD" tvg-logo="https://lo1.in/ind/biggan.png" group-title="INDIA HINDI",IN| GANGA HD
-https://allinonereborn.fun/sansat-web/live.php?id=376314
+https://allinonereborn.fun/ban.m3u8/live.php?id=376314
 #EXTINF:-1 tvg-id="187011" tvg-name="IN| CINE VOICE HD" tvg-logo="https://lo1.in/ind/cinv.png" group-title="INDIA HINDI",IN| CINE VOICE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187011
+https://allinonereborn.fun/ban.m3u8/live.php?id=187011
 #EXTINF:-1 tvg-id="400281177" tvg-name="IN| DABANGG HD" tvg-logo="https://lo1.in/ind/daban.png" group-title="INDIA HINDI",IN| DABANGG HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281177
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281177
 #EXTINF:-1 tvg-id="401527146" tvg-name="IN| ITV GOLD" tvg-logo="https://lo1.in/ind/itvban.png" group-title="INDIA HINDI",IN| ITV GOLD
-https://allinonereborn.fun/sansat-web/live.php?id=401527146
+https://allinonereborn.fun/ban.m3u8/live.php?id=401527146
 #EXTINF:-1 tvg-id="38200" tvg-name="IN| MBC BOLLYWOOD ARAB HD" tvg-logo="https://lo1.in/ind/mbcbolly.png" group-title="INDIA HINDI",IN| MBC BOLLYWOOD ARAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=38200
+https://allinonereborn.fun/ban.m3u8/live.php?id=38200
 #EXTINF:-1 tvg-id="187029" tvg-name="IN| DD BHARATI HD" tvg-logo="https://lo1.in/ind/ddbah.png" group-title="INDIA HINDI",IN| DD BHARATI HD
-https://allinonereborn.fun/sansat-web/live.php?id=187029
+https://allinonereborn.fun/ban.m3u8/live.php?id=187029
 #EXTINF:-1 tvg-id="187353" tvg-name="IN| DD BIHAR JHARKHAND HD" tvg-logo="https://lo1.in/ind/bih.png" group-title="INDIA HINDI",IN| DD BIHAR JHARKHAND HD
-https://allinonereborn.fun/sansat-web/live.php?id=187353
+https://allinonereborn.fun/ban.m3u8/live.php?id=187353
 #EXTINF:-1 tvg-id="187030" tvg-name="IN| DD BIHAR HD" tvg-logo="https://lo1.in/ind/ddbih.png" group-title="INDIA HINDI",IN| DD BIHAR HD
-https://allinonereborn.fun/sansat-web/live.php?id=187030
+https://allinonereborn.fun/ban.m3u8/live.php?id=187030
 #EXTINF:-1 tvg-id="187032" tvg-name="IN| DD KASHIR HD" tvg-logo="https://lo1.in/ind/ddkas1.png" group-title="INDIA HINDI",IN| DD KASHIR HD
-https://allinonereborn.fun/sansat-web/live.php?id=187032
+https://allinonereborn.fun/ban.m3u8/live.php?id=187032
 #EXTINF:-1 tvg-id="187033" tvg-name="IN| DD MADHYA PRADESH HD" tvg-logo="https://lo1.in/ind/ddmad.png" group-title="INDIA HINDI",IN| DD MADHYA PRADESH HD
-https://allinonereborn.fun/sansat-web/live.php?id=187033
+https://allinonereborn.fun/ban.m3u8/live.php?id=187033
 #EXTINF:-1 tvg-id="187034" tvg-name="IN| DD NATIONAL HD" tvg-logo="https://lo1.in/ind/ddnat.png" group-title="INDIA HINDI",IN| DD NATIONAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=187034
+https://allinonereborn.fun/ban.m3u8/live.php?id=187034
 #EXTINF:-1 tvg-id="187035" tvg-name="IN| DD NORTH EAST HD" tvg-logo="https://lo1.in/ind/ddnor.png" group-title="INDIA HINDI",IN| DD NORTH EAST HD
-https://allinonereborn.fun/sansat-web/live.php?id=187035
+https://allinonereborn.fun/ban.m3u8/live.php?id=187035
 #EXTINF:-1 tvg-id="187036" tvg-name="IN| DD ODIYA HD" tvg-logo="https://lo1.in/ind/ddod.png" group-title="INDIA HINDI",IN| DD ODIYA HD
-https://allinonereborn.fun/sansat-web/live.php?id=187036
+https://allinonereborn.fun/ban.m3u8/live.php?id=187036
 #EXTINF:-1 tvg-id="187039" tvg-name="IN| DD RAJASTHAN HD" tvg-logo="https://lo1.in/ind/ddraj.png" group-title="INDIA HINDI",IN| DD RAJASTHAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=187039
+https://allinonereborn.fun/ban.m3u8/live.php?id=187039
 #EXTINF:-1 tvg-id="187042" tvg-name="IN| DD UTTAR PRADESH HD" tvg-logo="https://lo1.in/ind/ddut.png" group-title="INDIA HINDI",IN| DD UTTAR PRADESH HD
-https://allinonereborn.fun/sansat-web/live.php?id=187042
+https://allinonereborn.fun/ban.m3u8/live.php?id=187042
 #EXTINF:-1 tvg-id="187043" tvg-name="IN| DD YADAGIRI HD" tvg-logo="https://lo1.in/ind/ddyad0.png" group-title="INDIA HINDI",IN| DD YADAGIRI HD
-https://allinonereborn.fun/sansat-web/live.php?id=187043
+https://allinonereborn.fun/ban.m3u8/live.php?id=187043
 #EXTINF:-1 tvg-id="400159421" tvg-name="IN| DD CHANDANA HD" tvg-logo="https://lo1.in/ind/ddcha.png" group-title="INDIA HINDI",IN| DD CHANDANA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159421
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159421
 #EXTINF:-1 tvg-id="36331" tvg-name="IN| DD BHARTI" tvg-logo="https://lo1.in/ind/DD BHARTI.png" group-title="INDIA HINDI",IN| DD BHARTI
-https://allinonereborn.fun/sansat-web/live.php?id=36331
+https://allinonereborn.fun/ban.m3u8/live.php?id=36331
 #EXTINF:-1 tvg-id="36332" tvg-name="IN| DD MP" tvg-logo="https://lo1.in/ind/DD MP.png" group-title="INDIA HINDI",IN| DD MP
-https://allinonereborn.fun/sansat-web/live.php?id=36332
+https://allinonereborn.fun/ban.m3u8/live.php?id=36332
 #EXTINF:-1 tvg-id="36333" tvg-name="IN| DD UP" tvg-logo="https://lo1.in/ind/DD MP.png" group-title="INDIA HINDI",IN| DD UP
-https://allinonereborn.fun/sansat-web/live.php?id=36333
+https://allinonereborn.fun/ban.m3u8/live.php?id=36333
 #EXTINF:-1 tvg-id="400375291" tvg-name="IN| ABZY MOVIES SD" tvg-logo="https://lo1.in/ind/abzmv.png" group-title="INDIA HINDI",IN| ABZY MOVIES SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375291
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375291
 #EXTINF:-1 tvg-id="400375290" tvg-name="IN| CINE ACTIVE SD" tvg-logo="https://lo1.in/ind/cineac.png" group-title="INDIA HINDI",IN| CINE ACTIVE SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375290
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375290
 #EXTINF:-1 tvg-id="400375289" tvg-name="IN| ENTERR10 MOVIES SD" tvg-logo="https://lo1.in/ind/enter10mv.png" group-title="INDIA HINDI",IN| ENTERR10 MOVIES SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375289
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375289
 #EXTINF:-1 tvg-id="400375285" tvg-name="IN| SHORT TV ACTIVE SD" tvg-logo="https://lo1.in/ind/shorac.png" group-title="INDIA HINDI",IN| SHORT TV ACTIVE SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375285
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375285
 #EXTINF:-1 tvg-id="400375283" tvg-name="IN| COOKING ACTIVE SD" tvg-logo="https://lo1.in/ind/cokinac.png" group-title="INDIA HINDI",IN| COOKING ACTIVE SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375283
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375283
 #EXTINF:-1 tvg-id="187047" tvg-name="IN| DILLAGI TV SD" tvg-logo="https://lo1.in/ind/dhin.png" group-title="INDIA HINDI",IN| DILLAGI TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187047
+https://allinonereborn.fun/ban.m3u8/live.php?id=187047
 #EXTINF:-1 tvg-id="401527144" tvg-name="IN| MANORANJAN GRAND" tvg-logo="https://lo1.in/ind/manoj.png" group-title="INDIA HINDI",IN| MANORANJAN GRAND
-https://allinonereborn.fun/sansat-web/live.php?id=401527144
+https://allinonereborn.fun/ban.m3u8/live.php?id=401527144
 #EXTINF:-1 tvg-id="401527145" tvg-name="IN| SHUBH CINEMA TV" tvg-logo="https://lo1.in/ind/shub.png" group-title="INDIA HINDI",IN| SHUBH CINEMA TV
-https://allinonereborn.fun/sansat-web/live.php?id=401527145
+https://allinonereborn.fun/ban.m3u8/live.php?id=401527145
 #EXTINF:-1 tvg-id="187063" tvg-name="IN| ETV ABHIRUCHI SD" tvg-logo="https://lo1.in/ind/etvabh.png" group-title="INDIA HINDI",IN| ETV ABHIRUCHI SD
-https://allinonereborn.fun/sansat-web/live.php?id=187063
+https://allinonereborn.fun/ban.m3u8/live.php?id=187063
 #EXTINF:-1 tvg-id="187064" tvg-name="IN| ETV ANDHRA PRADESH HD" tvg-logo="https://lo1.in/ind/etva.png" group-title="INDIA HINDI",IN| ETV ANDHRA PRADESH HD
-https://allinonereborn.fun/sansat-web/live.php?id=187064
+https://allinonereborn.fun/ban.m3u8/live.php?id=187064
 #EXTINF:-1 tvg-id="187065" tvg-name="IN| ETV PLUS HD" tvg-logo="https://lo1.in/ind/etvpl.png" group-title="INDIA HINDI",IN| ETV PLUS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187065
+https://allinonereborn.fun/ban.m3u8/live.php?id=187065
 #EXTINF:-1 tvg-id="187066" tvg-name="IN| ETV TELENGANA HD" tvg-logo="https://lo1.in/ind/etvte.png" group-title="INDIA HINDI",IN| ETV TELENGANA HD
-https://allinonereborn.fun/sansat-web/live.php?id=187066
+https://allinonereborn.fun/ban.m3u8/live.php?id=187066
 #EXTINF:-1 tvg-id="400159466" tvg-name="IN| ETV LIFE HD" tvg-logo="https://lo1.in/ind/etvlf1.png" group-title="INDIA HINDI",IN| ETV LIFE HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159466
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159466
 #EXTINF:-1 tvg-id="400159429" tvg-name="IN| HAREKRSNA HD" tvg-logo="https://lo1.in/ind/harek.png" group-title="INDIA HINDI",IN| HAREKRSNA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159429
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159429
 #EXTINF:-1 tvg-id="400159457" tvg-name="IN| KRISHNA VANI DEVOTIONAL HD" tvg-logo="https://lo1.in/ind/krishvdev.png" group-title="INDIA HINDI",IN| KRISHNA VANI DEVOTIONAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159457
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159457
 #EXTINF:-1 tvg-id="187136" tvg-name="IN| MANGALAM TV SD" tvg-logo="https://lo1.in/ind/manga.png" group-title="INDIA HINDI",IN| MANGALAM TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=187136
+https://allinonereborn.fun/ban.m3u8/live.php?id=187136
 #EXTINF:-1 tvg-id="376271" tvg-name="IN| MOVIES NOW SD" tvg-logo="https://lo1.in/ind/mvns.png" group-title="INDIA HINDI",IN| MOVIES NOW SD
-https://allinonereborn.fun/sansat-web/live.php?id=376271
+https://allinonereborn.fun/ban.m3u8/live.php?id=376271
 #EXTINF:-1 tvg-id="376272" tvg-name="IN| MOVIES ACTIVE FHD" tvg-logo="https://lo1.in/ind/mvac.png" group-title="INDIA HINDI",IN| MOVIES ACTIVE FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376272
+https://allinonereborn.fun/ban.m3u8/live.php?id=376272
 #EXTINF:-1 tvg-id="400159490" tvg-name="IN| MNX FHD" tvg-logo="https://lo1.in/ind/mnx.png" group-title="INDIA HINDI",IN| MNX FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159490
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159490
 #EXTINF:-1 tvg-id="378750" tvg-name="IN| SADHNA TV DEVOTIONAL HD" tvg-logo="https://lo1.in/ind/sadht.png" group-title="INDIA HINDI",IN| SADHNA TV DEVOTIONAL HD
-https://allinonereborn.fun/sansat-web/live.php?id=378750
+https://allinonereborn.fun/ban.m3u8/live.php?id=378750
 #EXTINF:-1 tvg-id="400159478" tvg-name="IN| SONIC HD" tvg-logo="https://lo1.in/ind/sonc.png" group-title="INDIA HINDI",IN| SONIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159478
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159478
 #EXTINF:-1 tvg-id="400159481" tvg-name="IN| POGO KIDS HD" tvg-logo="https://lo1.in/ind/pog1.png" group-title="INDIA HINDI",IN| POGO KIDS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159481
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159481
 #EXTINF:-1 tvg-id="400159716" tvg-name="IN| POGO HD ENG" tvg-logo="https://lo1.in/ind/pog1.png" group-title="INDIA HINDI",IN| POGO HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=400159716
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159716
 #EXTINF:-1 tvg-id="400159480" tvg-name="IN| ROMEDY NOW HD" tvg-logo="https://lo1.in/ind/rmdnw.png" group-title="INDIA HINDI",IN| ROMEDY NOW HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159480
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159480
 #EXTINF:-1 tvg-id="187335" tvg-name="IN| UTV MOVIES HD" tvg-logo="https://lo1.in/ind/utvmv.png" group-title="INDIA HINDI",IN| UTV MOVIES HD
-https://allinonereborn.fun/sansat-web/live.php?id=187335
+https://allinonereborn.fun/ban.m3u8/live.php?id=187335
 #EXTINF:-1 tvg-id="400159473" tvg-name="IN| UTV ACTION HD" tvg-logo="https://lo1.in/ind/atac.png" group-title="INDIA HINDI",IN| UTV ACTION HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159473
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159473
 #EXTINF:-1 tvg-id="400159472" tvg-name="IN| UTV FHD" tvg-logo="https://lo1.in/ind/utv.png" group-title="INDIA HINDI",IN| UTV FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159472
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159472
 #EXTINF:-1 tvg-id="376275" tvg-name="IN| &PICTURES HD" tvg-logo="https://lo1.in/ind/pict.png" group-title="INDIA HINDI",IN| &PICTURES HD
-https://allinonereborn.fun/sansat-web/live.php?id=376275
+https://allinonereborn.fun/ban.m3u8/live.php?id=376275
 #EXTINF:-1 tvg-id="387755" tvg-name="IN| &PRIVÉ FHD" tvg-logo="https://lo1.in/ind/priv.png" group-title="INDIA HINDI",IN| &PRIVÉ FHD
-https://allinonereborn.fun/sansat-web/live.php?id=387755
+https://allinonereborn.fun/ban.m3u8/live.php?id=387755
 #EXTINF:-1 tvg-id="376276" tvg-name="IN| & FLIX FHD" tvg-logo="https://lo1.in/ind/flix.png" group-title="INDIA HINDI",IN| & FLIX FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376276
+https://allinonereborn.fun/ban.m3u8/live.php?id=376276
 #EXTINF:-1 tvg-id="187348" tvg-name="IN| WOW CINEMA ONE HD" tvg-logo="https://lo1.in/ind/wowcn.png" group-title="INDIA HINDI",IN| WOW CINEMA ONE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187348
+https://allinonereborn.fun/ban.m3u8/live.php?id=187348
 #EXTINF:-1 tvg-id="400375217" tvg-name="IN| TATA SKY SENIORS HD" tvg-logo="https://lo1.in/ind/tatskysen.png" group-title="INDIA HINDI",IN| TATA SKY SENIORS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375217
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375217
 #EXTINF:-1 tvg-id="400375214" tvg-name="IN| TATA SKY ENGLISH IN HINDI SD" tvg-logo="https://lo1.in/ind/tatskyeng.png" group-title="INDIA HINDI",IN| TATA SKY ENGLISH IN HINDI SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375214
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375214
 #EXTINF:-1 tvg-id="400375209" tvg-name="IN| TATA SKY VEDIC MATHS " tvg-logo="https://lo1.in/ind/tatskydic.png" group-title="INDIA HINDI",IN| TATA SKY VEDIC MATHS 
-https://allinonereborn.fun/sansat-web/live.php?id=400375209
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375209
 #EXTINF:-1 tvg-id="400375208" tvg-name="IN| CLUBBING TV FHD" tvg-logo="https://lo1.in/ind/club.png" group-title="INDIA HINDI",IN| CLUBBING TV FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400375208
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375208
 #EXTINF:-1 tvg-id="400375206" tvg-name="IN| KBO HD" tvg-logo="https://lo1.in/ind/kbo.png" group-title="INDIA HINDI",IN| KBO HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375206
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375206
 #EXTINF:-1 tvg-id="36317" tvg-name="IN| SOHAM TV" tvg-logo="https://lo1.in/ind/SOHAM TV.png" group-title="INDIA HINDI",IN| SOHAM TV
-https://allinonereborn.fun/sansat-web/live.php?id=36317
+https://allinonereborn.fun/ban.m3u8/live.php?id=36317
 #EXTINF:-1 tvg-id="36335" tvg-name="IN| BINDAS MOVIES" tvg-logo="https://lo1.in/ind/BINDAS MOVIES.png" group-title="INDIA HINDI",IN| BINDAS MOVIES
-https://allinonereborn.fun/sansat-web/live.php?id=36335
+https://allinonereborn.fun/ban.m3u8/live.php?id=36335
 #EXTINF:-1 tvg-id="387745" tvg-name="IN| ACV UTSAV PLUS SD" tvg-logo="https://lo1.in/ind/acvupl.png" group-title="INDIA HINDI",IN| ACV UTSAV PLUS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387745
+https://allinonereborn.fun/ban.m3u8/live.php?id=387745
 #EXTINF:-1 tvg-id="387746" tvg-name="IN| ACV UTSAV SD" tvg-logo="https://lo1.in/ind/acvut.png" group-title="INDIA HINDI",IN| ACV UTSAV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387746
+https://allinonereborn.fun/ban.m3u8/live.php?id=387746
 #EXTINF:-1 tvg-id="387748" tvg-name="IN| ACV JUKEBOX SD" tvg-logo="https://lo1.in/ind/acvjk.png" group-title="INDIA HINDI",IN| ACV JUKEBOX SD
-https://allinonereborn.fun/sansat-web/live.php?id=387748
+https://allinonereborn.fun/ban.m3u8/live.php?id=387748
 #EXTINF:-1 tvg-id="387749" tvg-name="IN| ACV SD" tvg-logo="https://lo1.in/ind/acv.png" group-title="INDIA HINDI",IN| ACV SD
-https://allinonereborn.fun/sansat-web/live.php?id=387749
+https://allinonereborn.fun/ban.m3u8/live.php?id=387749
 #EXTINF:-1 tvg-id="36334" tvg-name="IN| COMEDY ACTIVE" tvg-logo="https://lo1.in/us/COMEDY ACTIVE.png" group-title="INDIA HINDI",IN| COMEDY ACTIVE
-https://allinonereborn.fun/sansat-web/live.php?id=36334
+https://allinonereborn.fun/ban.m3u8/live.php?id=36334
 #EXTINF:-1 tvg-id="36341" tvg-name="IN| COMEDY CENTRAL HD ENG" tvg-logo="https://lo1.in/ind/COMEDY CENTRAL HD ENG.png" group-title="INDIA HINDI",IN| COMEDY CENTRAL HD ENG
-https://allinonereborn.fun/sansat-web/live.php?id=36341
+https://allinonereborn.fun/ban.m3u8/live.php?id=36341
 
 //===IN NEWS===//
 #EXTINF:-1 tvg-id="378764" tvg-name="IN| ABP NEWS HD" tvg-logo="https://lo1.in/ind/abpns.png" group-title="INDIA HINDI",IN| ABP NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=378764
+https://allinonereborn.fun/ban.m3u8/live.php?id=378764
 #EXTINF:-1 tvg-id="378753" tvg-name="IN| NEWS 24 HD" tvg-logo="https://lo1.in/ind/ns24.png" group-title="INDIA HINDI",IN| NEWS 24 HD
-https://allinonereborn.fun/sansat-web/live.php?id=378753
+https://allinonereborn.fun/ban.m3u8/live.php?id=378753
 #EXTINF:-1 tvg-id="400159499" tvg-name="IN| CNBC PRIME TV18 FHD" tvg-logo="https://lo1.in/ind/cnbcp.png" group-title="INDIA HINDI",IN| CNBC PRIME TV18 FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159499
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159499
 #EXTINF:-1 tvg-id="187016" tvg-name="IN| CNBC TV18 HD" tvg-logo="https://lo1.in/ind/cnbc.png" group-title="INDIA HINDI",IN| CNBC TV18 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187016
+https://allinonereborn.fun/ban.m3u8/live.php?id=187016
 #EXTINF:-1 tvg-id="400162498" tvg-name="IN| NEWS X HD" tvg-logo="https://lo1.in/ind/nsx.png" group-title="INDIA HINDI",IN| NEWS X HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162498
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162498
 #EXTINF:-1 tvg-id="187316" tvg-name="IN| TIMES NOW HD" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="INDIA HINDI",IN| TIMES NOW HD
-https://allinonereborn.fun/sansat-web/live.php?id=187316
+https://allinonereborn.fun/ban.m3u8/live.php?id=187316
 #EXTINF:-1 tvg-id="401494981" tvg-name="IN| TIMES NOW WORLD FHD" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="INDIA HINDI",IN| TIMES NOW WORLD FHD
-https://allinonereborn.fun/sansat-web/live.php?id=401494981
+https://allinonereborn.fun/ban.m3u8/live.php?id=401494981
 #EXTINF:-1 tvg-id="401494980" tvg-name="IN| TIMES NOW NAVBHARAT HD" tvg-logo="https://lo1.in/ind/tmnw.png" group-title="INDIA HINDI",IN| TIMES NOW NAVBHARAT HD
-https://allinonereborn.fun/sansat-web/live.php?id=401494980
+https://allinonereborn.fun/ban.m3u8/live.php?id=401494980
 #EXTINF:-1 tvg-id="187008" tvg-name="IN| CHANNEL NEWS ASIA FHD" tvg-logo="https://lo1.in/ind/chnsas.png" group-title="INDIA HINDI",IN| CHANNEL NEWS ASIA FHD
-https://allinonereborn.fun/sansat-web/live.php?id=187008
+https://allinonereborn.fun/ban.m3u8/live.php?id=187008
 #EXTINF:-1 tvg-id="400162496" tvg-name="IN| JANTANTRA NEWS HD" tvg-logo="https://lo1.in/ind/janns.png" group-title="INDIA HINDI",IN| JANTANTRA NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162496
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162496
 #EXTINF:-1 tvg-id="400162494" tvg-name="IN| DD INDIA HD" tvg-logo="https://lo1.in/ind/dbindns.png" group-title="INDIA HINDI",IN| DD INDIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162494
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162494
 #EXTINF:-1 tvg-id="400162493" tvg-name="IN| DD KISAN HD" tvg-logo="https://lo1.in/ind/dbkisns.png" group-title="INDIA HINDI",IN| DD KISAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162493
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162493
 #EXTINF:-1 tvg-id="400162489" tvg-name="IN| LOKSABHA NEWS HD" tvg-logo="https://lo1.in/ind/loksa.png" group-title="INDIA HINDI",IN| LOKSABHA NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162489
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162489
 #EXTINF:-1 tvg-id="400162488" tvg-name="IN| DD RAJYA SABHA NEWS HD" tvg-logo="https://lo1.in/ind/dbrajns.png" group-title="INDIA HINDI",IN| DD RAJYA SABHA NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400162488
+https://allinonereborn.fun/ban.m3u8/live.php?id=400162488
 #EXTINF:-1 tvg-id="378762" tvg-name="IN| BBC WORLD NEWS HD" tvg-logo="https://lo1.in/ind/bbcwns.png" group-title="INDIA HINDI",IN| BBC WORLD NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=378762
+https://allinonereborn.fun/ban.m3u8/live.php?id=378762
 #EXTINF:-1 tvg-id="187347" tvg-name="IN| WION NEWS HD" tvg-logo="https://lo1.in/ind/winns.png" group-title="INDIA HINDI",IN| WION NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187347
+https://allinonereborn.fun/ban.m3u8/live.php?id=187347
 #EXTINF:-1 tvg-id="187055" tvg-name="IN| DW NEWS HD" tvg-logo="https://lo1.in/ind/dwnew.png" group-title="INDIA HINDI",IN| DW NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187055
+https://allinonereborn.fun/ban.m3u8/live.php?id=187055
 #EXTINF:-1 tvg-id="387735" tvg-name="IN| FASTWAY NEWS HD" tvg-logo="https://lo1.in/ind/fasns.png" group-title="INDIA HINDI",IN| FASTWAY NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=387735
+https://allinonereborn.fun/ban.m3u8/live.php?id=387735
 #EXTINF:-1 tvg-id="187017" tvg-name="IN| CNN HD" tvg-logo="https://lo1.in/ind/cnn.png" group-title="INDIA HINDI",IN| CNN HD
-https://allinonereborn.fun/sansat-web/live.php?id=187017
+https://allinonereborn.fun/ban.m3u8/live.php?id=187017
 #EXTINF:-1 tvg-id="400375295" tvg-name="IN| CNN INTL HD" tvg-logo="https://lo1.in/ind/cnnint.png" group-title="INDIA HINDI",IN| CNN INTL HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375295
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375295
 #EXTINF:-1 tvg-id="187018" tvg-name="IN| CNN NEWS 18 HD" tvg-logo="https://lo1.in/ind/cnnns18.png" group-title="INDIA HINDI",IN| CNN NEWS 18 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187018
+https://allinonereborn.fun/ban.m3u8/live.php?id=187018
 #EXTINF:-1 tvg-id="387640" tvg-name="IN| INDIA TODAY HD" tvg-logo="https://lo1.in/ind/indtd.png" group-title="INDIA HINDI",IN| INDIA TODAY HD
-https://allinonereborn.fun/sansat-web/live.php?id=387640
+https://allinonereborn.fun/ban.m3u8/live.php?id=387640
 #EXTINF:-1 tvg-id="187046" tvg-name="IN| DIGHVIJAY 24X7 NEWS SD" tvg-logo="https://lo1.in/ind/digh7ns.png" group-title="INDIA HINDI",IN| DIGHVIJAY 24X7 NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=187046
+https://allinonereborn.fun/ban.m3u8/live.php?id=187046
 #EXTINF:-1 tvg-id="187081" tvg-name="IN| GULISTAN NEWS HD" tvg-logo="https://lo1.in/ind/gulns.png" group-title="INDIA HINDI",IN| GULISTAN NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187081
+https://allinonereborn.fun/ban.m3u8/live.php?id=187081
 #EXTINF:-1 tvg-id="187093" tvg-name="IN| INDIA NEWS PUNJAB HD" tvg-logo="https://lo1.in/ind/indins.png" group-title="INDIA HINDI",IN| INDIA NEWS PUNJAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=187093
+https://allinonereborn.fun/ban.m3u8/live.php?id=187093
 #EXTINF:-1 tvg-id="187116" tvg-name="IN| KANAK NEWS HD" tvg-logo="https://lo1.in/ind/kanns.png" group-title="INDIA HINDI",IN| KANAK NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187116
+https://allinonereborn.fun/ban.m3u8/live.php?id=187116
 #EXTINF:-1 tvg-id="401540910" tvg-name="IN| VENDHAR NEWS" tvg-logo="https://lo1.in/ind/flg.png" group-title="INDIA HINDI",IN| VENDHAR NEWS
-https://allinonereborn.fun/sansat-web/live.php?id=401540910
+https://allinonereborn.fun/ban.m3u8/live.php?id=401540910
 #EXTINF:-1 tvg-id="187143" tvg-name="IN| MH ONE HD" tvg-logo="https://lo1.in/ind/mh1.png" group-title="INDIA HINDI",IN| MH ONE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187143
+https://allinonereborn.fun/ban.m3u8/live.php?id=187143
 #EXTINF:-1 tvg-id="187144" tvg-name="IN| MH ONE SHRADDHA HD" tvg-logo="https://lo1.in/ind/mh1shr.png" group-title="INDIA HINDI",IN| MH ONE SHRADDHA HD
-https://allinonereborn.fun/sansat-web/live.php?id=187144
+https://allinonereborn.fun/ban.m3u8/live.php?id=187144
 #EXTINF:-1 tvg-id="387630" tvg-name="IN| TWENTY FOUR NEWS SD" tvg-logo="https://lo1.in/ind/24ns.png" group-title="INDIA HINDI",IN| TWENTY FOUR NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387630
+https://allinonereborn.fun/ban.m3u8/live.php?id=387630
 #EXTINF:-1 tvg-id="387771" tvg-name="IN| SKY NEWS SD" tvg-logo="https://lo1.in/ind/skyns.png" group-title="INDIA HINDI",IN| SKY NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387771
+https://allinonereborn.fun/ban.m3u8/live.php?id=387771
 #EXTINF:-1 tvg-id="387744" tvg-name="IN| AKD CALCUTTA NEWS SD" tvg-logo="https://lo1.in/ind/akdcalns.png" group-title="INDIA HINDI",IN| AKD CALCUTTA NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=387744
+https://allinonereborn.fun/ban.m3u8/live.php?id=387744
 #EXTINF:-1 tvg-id="378754" tvg-name="IN| NDTV INDIA HD" tvg-logo="https://lo1.in/ind/ndind.png" group-title="INDIA HINDI",IN| NDTV INDIA HD
-https://allinonereborn.fun/sansat-web/live.php?id=378754
+https://allinonereborn.fun/ban.m3u8/live.php?id=378754
 #EXTINF:-1 tvg-id="187160" tvg-name="IN| NDTV NEWS 24 HD" tvg-logo="https://lo1.in/ind/ndns2.png" group-title="INDIA HINDI",IN| NDTV NEWS 24 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187160
+https://allinonereborn.fun/ban.m3u8/live.php?id=187160
 #EXTINF:-1 tvg-id="187161" tvg-name="IN| NDTV PROFIT HD" tvg-logo="https://lo1.in/ind/ndpr.png" group-title="INDIA HINDI",IN| NDTV PROFIT HD
-https://allinonereborn.fun/sansat-web/live.php?id=187161
+https://allinonereborn.fun/ban.m3u8/live.php?id=187161
 #EXTINF:-1 tvg-id="400375132" tvg-name="IN| INDIA NEWS SD" tvg-logo="https://lo1.in/ind/indins.png" group-title="INDIA HINDI",IN| INDIA NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375132
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375132
 #EXTINF:-1 tvg-id="400375131" tvg-name="IN| INDIA NEWS MP CH HD" tvg-logo="https://lo1.in/ind/indins.png" group-title="INDIA HINDI",IN| INDIA NEWS MP CH HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375131
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375131
 #EXTINF:-1 tvg-id="400375130" tvg-name="IN| INDIA NEWS RAJASTHAN SD" tvg-logo="https://lo1.in/ind/indnssr.png" group-title="INDIA HINDI",IN| INDIA NEWS RAJASTHAN SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375130
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375130
 #EXTINF:-1 tvg-id="400375129" tvg-name="IN| INDIA NEWS UP SD" tvg-logo="https://lo1.in/ind/indins.png" group-title="INDIA HINDI",IN| INDIA NEWS UP SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375129
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375129
 #EXTINF:-1 tvg-id="400375128" tvg-name="IN| INDIA NEWS HARYANA HD" tvg-logo="https://lo1.in/ind/indnss.png" group-title="INDIA HINDI",IN| INDIA NEWS HARYANA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375128
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375128
 #EXTINF:-1 tvg-id="400375127" tvg-name="IN| ZEE NEWS MP/CHATTISGARH HD" tvg-logo="https://lo1.in/ind/zeensmp.png" group-title="INDIA HINDI",IN| ZEE NEWS MP/CHATTISGARH HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375127
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375127
 #EXTINF:-1 tvg-id="400375126" tvg-name="IN| AUSTRALIA TODAY HD" tvg-logo="https://lo1.in/ind/austdy.png" group-title="INDIA HINDI",IN| AUSTRALIA TODAY HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375126
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375126
 #EXTINF:-1 tvg-id="400375125" tvg-name="IN| SANSAD TV HD" tvg-logo="https://lo1.in/ind/sans.png" group-title="INDIA HINDI",IN| SANSAD TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375125
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375125
 #EXTINF:-1 tvg-id="400375124" tvg-name="IN| AL JAZEERA HD" tvg-logo="https://lo1.in/ind/jzr.png" group-title="INDIA HINDI",IN| AL JAZEERA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375124
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375124
 #EXTINF:-1 tvg-id="400375123" tvg-name="IN| DD URDU SD" tvg-logo="https://lo1.in/ind/ddurd.png" group-title="INDIA HINDI",IN| DD URDU SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375123
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375123
 #EXTINF:-1 tvg-id="400375122" tvg-name="IN| NEWS 11 BHARAT SD" tvg-logo="https://lo1.in/ind/ns11bh.png" group-title="INDIA HINDI",IN| NEWS 11 BHARAT SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375122
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375122
 #EXTINF:-1 tvg-id="400375121" tvg-name="IN| NEWS INDIA 24x7 HD" tvg-logo="https://lo1.in/ind/nsind27.png" group-title="INDIA HINDI",IN| NEWS INDIA 24x7 HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375121
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375121
 #EXTINF:-1 tvg-id="400375120" tvg-name="IN| APN NEWS SD" tvg-logo="https://lo1.in/ind/apnns.png" group-title="INDIA HINDI",IN| APN NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375120
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375120
 #EXTINF:-1 tvg-id="400375119" tvg-name="IN| KASHISH NEWS SD" tvg-logo="https://lo1.in/ind/kashns.png" group-title="INDIA HINDI",IN| KASHISH NEWS SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375119
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375119
 #EXTINF:-1 tvg-id="35789" tvg-name="IN| PRAMEYA NEWS 7 HD ODIA" tvg-logo="https://lo1.in/ind/PRAMEYA NEWS 7.png" group-title="INDIA HINDI",IN| PRAMEYA NEWS 7 HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35789
+https://allinonereborn.fun/ban.m3u8/live.php?id=35789
 #EXTINF:-1 tvg-id="35790" tvg-name="IN| ARGUS NEWS HD ODIA" tvg-logo="https://lo1.in/ind/ARGUS NEWS HD.png" group-title="INDIA HINDI",IN| ARGUS NEWS HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35790
+https://allinonereborn.fun/ban.m3u8/live.php?id=35790
 #EXTINF:-1 tvg-id="400375118" tvg-name="IN| SAMAY RAJASTHAN SD" tvg-logo="https://lo1.in/ind/samay.png" group-title="INDIA HINDI",IN| SAMAY RAJASTHAN SD
-https://allinonereborn.fun/sansat-web/live.php?id=400375118
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375118
 #EXTINF:-1 tvg-id="400375117" tvg-name="IN| PRIME NEWS HD" tvg-logo="https://lo1.in/ind/prns.png" group-title="INDIA HINDI",IN| PRIME NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375117
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375117
 #EXTINF:-1 tvg-id="400375116" tvg-name="IN| REPUBLIC TV HD" tvg-logo="https://lo1.in/ind/repb.png" group-title="INDIA HINDI",IN| REPUBLIC TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375116
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375116
 #EXTINF:-1 tvg-id="400375114" tvg-name="IN| EURO NEWS HD" tvg-logo="https://lo1.in/ind/eurns.png" group-title="INDIA HINDI",IN| EURO NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375114
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375114
 #EXTINF:-1 tvg-id="400375115" tvg-name="IN| NEWS 18 URDU HD" tvg-logo="https://lo1.in/ind/ns18ur.png" group-title="INDIA HINDI",IN| NEWS 18 URDU HD
-https://allinonereborn.fun/sansat-web/live.php?id=400375115
+https://allinonereborn.fun/ban.m3u8/live.php?id=400375115
 #EXTINF:-1 tvg-id="387725" tvg-name="IN| NEWS 18 CHHATTISGARH SD" tvg-logo="https://lo1.in/ind/ns18cha.png" group-title="INDIA HINDI",IN| NEWS 18 CHHATTISGARH SD
-https://allinonereborn.fun/sansat-web/live.php?id=387725
+https://allinonereborn.fun/ban.m3u8/live.php?id=387725
 #EXTINF:-1 tvg-id="387722" tvg-name="IN| NEWS 18 ODIA SD" tvg-logo="https://lo1.in/ind/ns18od.png" group-title="INDIA HINDI",IN| NEWS 18 ODIA SD
-https://allinonereborn.fun/sansat-web/live.php?id=387722
+https://allinonereborn.fun/ban.m3u8/live.php?id=387722
 #EXTINF:-1 tvg-id="187163" tvg-name="IN| NEWS 18 HD" tvg-logo="https://lo1.in/ind/ns18.png" group-title="INDIA HINDI",IN| NEWS 18 HD
-https://allinonereborn.fun/sansat-web/live.php?id=187163
+https://allinonereborn.fun/ban.m3u8/live.php?id=187163
 #EXTINF:-1 tvg-id="187167" tvg-name="IN| NEWS 18 UP TV HD" tvg-logo="https://lo1.in/ind/ns18up.png" group-title="INDIA HINDI",IN| NEWS 18 UP TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187167
+https://allinonereborn.fun/ban.m3u8/live.php?id=187167
 #EXTINF:-1 tvg-id="187168" tvg-name="IN| NEWS LIVE HD" tvg-logo="https://lo1.in/ind/nslv.png" group-title="INDIA HINDI",IN| NEWS LIVE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187168
+https://allinonereborn.fun/ban.m3u8/live.php?id=187168
 #EXTINF:-1 tvg-id="187169" tvg-name="IN| NEWS NATION HD" tvg-logo="https://lo1.in/ind/nsnat.png" group-title="INDIA HINDI",IN| NEWS NATION HD
-https://allinonereborn.fun/sansat-web/live.php?id=187169
+https://allinonereborn.fun/ban.m3u8/live.php?id=187169
 #EXTINF:-1 tvg-id="187170" tvg-name="IN| NEWS STATE MP CG SD" tvg-logo="https://lo1.in/ind/nsstm.png" group-title="INDIA HINDI",IN| NEWS STATE MP CG SD
-https://allinonereborn.fun/sansat-web/live.php?id=187170
+https://allinonereborn.fun/ban.m3u8/live.php?id=187170
 #EXTINF:-1 tvg-id="187171" tvg-name="IN| NEWS STATE UP UK SD" tvg-logo="https://lo1.in/ind/nsstup.png" group-title="INDIA HINDI",IN| NEWS STATE UP UK SD
-https://allinonereborn.fun/sansat-web/live.php?id=187171
+https://allinonereborn.fun/ban.m3u8/live.php?id=187171
 #EXTINF:-1 tvg-id="187172" tvg-name="IN| NEWS 18 ASSAM SD" tvg-logo="https://lo1.in/ind/ns18as.png" group-title="INDIA HINDI",IN| NEWS 18 ASSAM SD
-https://allinonereborn.fun/sansat-web/live.php?id=187172
+https://allinonereborn.fun/ban.m3u8/live.php?id=187172
 #EXTINF:-1 tvg-id="187173" tvg-name="IN| NEWS 18 JHARKHAND SD" tvg-logo="https://lo1.in/ind/ns18jh.png" group-title="INDIA HINDI",IN| NEWS 18 JHARKHAND SD
-https://allinonereborn.fun/sansat-web/live.php?id=187173
+https://allinonereborn.fun/ban.m3u8/live.php?id=187173
 #EXTINF:-1 tvg-id="187179" tvg-name="IN| NEWS 18 RAJASTHAN SD" tvg-logo="https://lo1.in/ind/ns18raj.png" group-title="INDIA HINDI",IN| NEWS 18 RAJASTHAN SD
-https://allinonereborn.fun/sansat-web/live.php?id=187179
+https://allinonereborn.fun/ban.m3u8/live.php?id=187179
 #EXTINF:-1 tvg-id="187182" tvg-name="IN| NEWS 18 UTTAR PRADESH UTTARAKHAND SD" tvg-logo="https://lo1.in/ind/ns18utrp.png" group-title="INDIA HINDI",IN| NEWS 18 UTTAR PRADESH UTTARAKHAND SD
-https://allinonereborn.fun/sansat-web/live.php?id=187182
+https://allinonereborn.fun/ban.m3u8/live.php?id=187182
 #EXTINF:-1 tvg-id="387634" tvg-name="IN| NEWS 18 LOKMAT HD" tvg-logo="https://lo1.in/ind/ns18lok.png" group-title="INDIA HINDI",IN| NEWS 18 LOKMAT HD
-https://allinonereborn.fun/sansat-web/live.php?id=387634
+https://allinonereborn.fun/ban.m3u8/live.php?id=387634
 #EXTINF:-1 tvg-id="75408" tvg-name="IN| DD NEWS" tvg-logo="https://lo1.in/ind/ddns.png" group-title="INDIA HINDI",IN| DD NEWS
-https://allinonereborn.fun/sansat-web/live.php?id=75408
+https://allinonereborn.fun/ban.m3u8/live.php?id=75408
 #EXTINF:-1 tvg-id="187198" tvg-name="IN| PRAG NEWS HD" tvg-logo="https://lo1.in/ind/pragns.png" group-title="INDIA HINDI",IN| PRAG NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187198
+https://allinonereborn.fun/ban.m3u8/live.php?id=187198
 #EXTINF:-1 tvg-id="187275" tvg-name="IN| SUDARSHAN NEWS HD" tvg-logo="https://lo1.in/ind/sunans.png" group-title="INDIA HINDI",IN| SUDARSHAN NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187275
+https://allinonereborn.fun/ban.m3u8/live.php?id=187275
 #EXTINF:-1 tvg-id="187285" tvg-name="IN| T NEWS HD" tvg-logo="https://lo1.in/ind/tns.png" group-title="INDIA HINDI",IN| T NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=187285
+https://allinonereborn.fun/ban.m3u8/live.php?id=187285
 #EXTINF:-1 tvg-id="187314" tvg-name="IN| TEZ NEWS TV HD" tvg-logo="https://lo1.in/ind/tns.png" group-title="INDIA HINDI",IN| TEZ NEWS TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187314
+https://allinonereborn.fun/ban.m3u8/live.php?id=187314
 #EXTINF:-1 tvg-id="187324" tvg-name="IN| TV5 MONDE HD" tvg-logo="https://lo1.in/ind/tv5mon.png" group-title="INDIA HINDI",IN| TV5 MONDE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187324
+https://allinonereborn.fun/ban.m3u8/live.php?id=187324
 
 //===ZEE SANSAT===//
 #EXTINF:-1 tvg-id="376257" tvg-name="IN| ZEE CINEMA FHD" tvg-logo="https://lo1.in/ind/zecn1.png" group-title="INDIA HINDI",IN| ZEE CINEMA FHD
-https://allinonereborn.fun/sansat-web/live.php?id=376257
+https://allinonereborn.fun/ban.m3u8/live.php?id=376257
 #EXTINF:-1 tvg-id="187372" tvg-name="IN| ZEE TV HD" tvg-logo="https://lo1.in/ind/zeet.png" group-title="INDIA HINDI",IN| ZEE TV HD
-https://allinonereborn.fun/sansat-web/live.php?id=187372
+https://allinonereborn.fun/ban.m3u8/live.php?id=187372
 #EXTINF:-1 tvg-id="400159419" tvg-name="IN| ZEE TV SD" tvg-logo="https://lo1.in/ind/zeet.png" group-title="INDIA HINDI",IN| ZEE TV SD
-https://allinonereborn.fun/sansat-web/live.php?id=400159419
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159419
 #EXTINF:-1 tvg-id="401527147" tvg-name="IN| ZEE TV CANADA" tvg-logo="https://lo1.in/ind/zeet.png" group-title="INDIA HINDI",IN| ZEE TV CANADA
-https://allinonereborn.fun/sansat-web/live.php?id=401527147
+https://allinonereborn.fun/ban.m3u8/live.php?id=401527147
 #EXTINF:-1 tvg-id="401617256" tvg-name="IN| ZEE TV USA" tvg-logo="https://lo1.in/ind/zeet.png" group-title="INDIA HINDI",IN| ZEE TV USA
-https://allinonereborn.fun/sansat-web/live.php?id=401617256
+https://allinonereborn.fun/ban.m3u8/live.php?id=401617256
 #EXTINF:-1 tvg-id="376259" tvg-name="IN| ZEE ACTION HD" tvg-logo="https://lo1.in/ind/zeeac.png" group-title="INDIA HINDI",IN| ZEE ACTION HD
-https://allinonereborn.fun/sansat-web/live.php?id=376259
+https://allinonereborn.fun/ban.m3u8/live.php?id=376259
 #EXTINF:-1 tvg-id="378734" tvg-name="IN| ZEE ANMOL HD" tvg-logo="https://lo1.in/ind/zeeanm1.png" group-title="INDIA HINDI",IN| ZEE ANMOL HD
-https://allinonereborn.fun/sansat-web/live.php?id=378734
+https://allinonereborn.fun/ban.m3u8/live.php?id=378734
 #EXTINF:-1 tvg-id="400159443" tvg-name="IN| ZEE ANMOL CINEMA HD" tvg-logo="https://lo1.in/ind/zeeancn.png" group-title="INDIA HINDI",IN| ZEE ANMOL CINEMA HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159443
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159443
 #EXTINF:-1 tvg-id="400281175" tvg-name="IN| ZEE ALWAN ARAB HD" tvg-logo="https://lo1.in/MBC/zeeaflam1.png" group-title="INDIA HINDI",IN| ZEE ALWAN ARAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281175
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281175
 #EXTINF:-1 tvg-id="400281174" tvg-name="IN| ZEE AFLAM ARAB HD" tvg-logo="https://lo1.in/MBC/b4uaflam1.png" group-title="INDIA HINDI",IN| ZEE AFLAM ARAB HD
-https://allinonereborn.fun/sansat-web/live.php?id=400281174
+https://allinonereborn.fun/ban.m3u8/live.php?id=400281174
 #EXTINF:-1 tvg-id="378733" tvg-name="IN| ZEE BOLLYWOOD SD" tvg-logo="https://lo1.in/ind/zeebol.png" group-title="INDIA HINDI",IN| ZEE BOLLYWOOD SD
-https://allinonereborn.fun/sansat-web/live.php?id=378733
+https://allinonereborn.fun/ban.m3u8/live.php?id=378733
 #EXTINF:-1 tvg-id="21241" tvg-name="IN| ZEE BOLLYWOOD CANADA HD" tvg-logo="https://lo1.in/ind/zeebol.png" group-title="INDIA HINDI",IN| ZEE BOLLYWOOD CANADA HD
-https://allinonereborn.fun/sansat-web/live.php?id=21241
+https://allinonereborn.fun/ban.m3u8/live.php?id=21241
 #EXTINF:-1 tvg-id="378732" tvg-name="IN| ZEE BUSINESS HD" tvg-logo="https://lo1.in/ind/zeebs.png" group-title="INDIA HINDI",IN| ZEE BUSINESS HD
-https://allinonereborn.fun/sansat-web/live.php?id=378732
+https://allinonereborn.fun/ban.m3u8/live.php?id=378732
 #EXTINF:-1 tvg-id="400159449" tvg-name="IN| ZEE BIG MAGIC HD" tvg-logo="https://lo1.in/ind/zeebigmgc.png" group-title="INDIA HINDI",IN| ZEE BIG MAGIC HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159449
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159449
 #EXTINF:-1 tvg-id="187354" tvg-name="IN| ZEE BIOSKOP SD" tvg-logo="https://lo1.in/ind/zeebio.png" group-title="INDIA HINDI",IN| ZEE BIOSKOP SD
-https://allinonereborn.fun/sansat-web/live.php?id=187354
+https://allinonereborn.fun/ban.m3u8/live.php?id=187354
 #EXTINF:-1 tvg-id="187355" tvg-name="IN| ZEE BISKOPE HD" tvg-logo="https://lo1.in/ind/zeebis.png" group-title="INDIA HINDI",IN| ZEE BISKOPE HD
-https://allinonereborn.fun/sansat-web/live.php?id=187355
+https://allinonereborn.fun/ban.m3u8/live.php?id=187355
 #EXTINF:-1 tvg-id="400159470" tvg-name="IN| ZEE CAFE FHD" tvg-logo="https://lo1.in/ind/zeecf1.png" group-title="INDIA HINDI",IN| ZEE CAFE FHD
-https://allinonereborn.fun/sansat-web/live.php?id=400159470
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159470
 #EXTINF:-1 tvg-id="378730" tvg-name="IN| ZEE CLASSIC SD" tvg-logo="https://lo1.in/ind/zeecl.png" group-title="INDIA HINDI",IN| ZEE CLASSIC SD
-https://allinonereborn.fun/sansat-web/live.php?id=378730
+https://allinonereborn.fun/ban.m3u8/live.php?id=378730
 #EXTINF:-1 tvg-id="400280894" tvg-name="IN| ZEE CINEMA UK HD" tvg-logo="https://lo1.in/ind/zecnak.png" group-title="INDIA HINDI",IN| ZEE CINEMA UK HD
-https://allinonereborn.fun/sansat-web/live.php?id=400280894
+https://allinonereborn.fun/ban.m3u8/live.php?id=400280894
 #EXTINF:-1 tvg-id="400159418" tvg-name="IN| ZEE CINEMA SD" tvg-logo="https://lo1.in/ind/zecn.png" group-title="INDIA HINDI",IN| ZEE CINEMA SD
-https://allinonereborn.fun/sansat-web/live.php?id=400159418
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159418
 #EXTINF:-1 tvg-id="378729" tvg-name="IN| ZEE HINDUSTAN HD" tvg-logo="https://lo1.in/ind/zeehin.png" group-title="INDIA HINDI",IN| ZEE HINDUSTAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=378729
+https://allinonereborn.fun/ban.m3u8/live.php?id=378729
 #EXTINF:-1 tvg-id="400159468" tvg-name="IN| ZEE NEWS HD" tvg-logo="https://lo1.in/ind/zeens.png" group-title="INDIA HINDI",IN| ZEE NEWS HD
-https://allinonereborn.fun/sansat-web/live.php?id=400159468
+https://allinonereborn.fun/ban.m3u8/live.php?id=400159468
 #EXTINF:-1 tvg-id="187370" tvg-name="IN| ZEE TV APAC SD" tvg-logo="https://lo1.in/ind/zeeapac.png" group-title="INDIA HINDI",IN| ZEE TV APAC SD
-https://allinonereborn.fun/sansat-web/live.php?id=187370
+https://allinonereborn.fun/ban.m3u8/live.php?id=187370
 #EXTINF:-1 tvg-id="187363" tvg-name="IN| ZEE RAJASTHAN HD" tvg-logo="https://lo1.in/ind/zeeraj.png" group-title="INDIA HINDI",IN| ZEE RAJASTHAN HD
-https://allinonereborn.fun/sansat-web/live.php?id=187363
+https://allinonereborn.fun/ban.m3u8/live.php?id=187363
 #EXTINF:-1 tvg-id="187365" tvg-name="IN| ZEE SALAAM HD" tvg-logo="https://lo1.in/ind/zeesal.png" group-title="INDIA HINDI",IN| ZEE SALAAM HD
-https://allinonereborn.fun/sansat-web/live.php?id=187365
+https://allinonereborn.fun/ban.m3u8/live.php?id=187365
 #EXTINF:-1 tvg-id="187366" tvg-name="IN| ZEE SARTHAK HD" tvg-logo="https://lo1.in/ind/zeesar.png" group-title="INDIA HINDI",IN| ZEE SARTHAK HD
-https://allinonereborn.fun/sansat-web/live.php?id=187366
+https://allinonereborn.fun/ban.m3u8/live.php?id=187366
 #EXTINF:-1 tvg-id="187373" tvg-name="IN| ZEE UTTAR PRADESH UTTARAKHAND SD" tvg-logo="https://lo1.in/ind/zeeutt.png" group-title="INDIA HINDI",IN| ZEE UTTAR PRADESH UTTARAKHAND SD
-https://allinonereborn.fun/sansat-web/live.php?id=187373
+https://allinonereborn.fun/ban.m3u8/live.php?id=187373
 #EXTINF:-1 tvg-id="36314" tvg-name="IN| ZEE NEWS UP" tvg-logo="https://lo1.in/ind/ZEE NEWS UP.png" group-title="INDIA HINDI",IN| ZEE NEWS UP
-https://allinonereborn.fun/sansat-web/live.php?id=36314
+https://allinonereborn.fun/ban.m3u8/live.php?id=36314
 #EXTINF:-1 tvg-id="36315" tvg-name="IN| ZEE NEWS BIHAR" tvg-logo="https://lo1.in/ind/ZEE NEWS BIHAR.png" group-title="INDIA HINDI",IN| ZEE NEWS BIHAR
-https://allinonereborn.fun/sansat-web/live.php?id=36315
+https://allinonereborn.fun/ban.m3u8/live.php?id=36315
 #EXTINF:-1 tvg-id="35793" tvg-name="IN| ZEE SARTHAK TV HD ODIA" tvg-logo="https://lo1.in/ind/ZEE SARTHAK TV.png" group-title="INDIA HINDI",IN| ZEE SARTHAK TV HD ODIA
-https://allinonereborn.fun/sansat-web/live.php?id=35793
+https://allinonereborn.fun/ban.m3u8/live.php?id=35793
 
 //===SONY LIV NETWORK===//
 
@@ -1362,6 +1060,14 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 //===opplex190 IND4K===//
+
+//===SUN NXT NETWORK===//
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+
+//=========ZEE5 NETWORK=========//
 #EXTM3U
 #EXTINF:-1 group-title="INDIA" tvg-logo="https://img.logo-cdn.cc/zeeaction.png" tvg-id="109165" tvg-name="HINDI ▎ZEE ACTION ◉ rec" ,HINDI ▎ZEE ACTION ◉ rec
 https://allinonereborn.fun/sansat.m3u8/live.php?id=109165
@@ -1813,14 +1519,6 @@ https://allinonereborn.fun/sansat.m3u8/live.php?id=1441496
 https://allinonereborn.fun/sansat.m3u8/live.php?id=1441501
 #EXTINF:-1 group-title="INDIA" tvg-id="1441570" tvg-name="HINDI ▎NAZARA TV" ,HINDI ▎NAZARA TV
 https://allinonereborn.fun/sansat.m3u8/live.php?id=1441570
-
-//===SUN NXT NETWORK===//
-
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
-#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
-
-//=========ZEE5 NETWORK=========//
 
 //========24HOURSNONSTOP========//
 
