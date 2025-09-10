@@ -82,6 +82,12 @@ https://aa1ce778ea0544e4aa7429bc8a16eb1c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTM3U
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://trambakeshwar.com/images/logo.png", Trimbakeshwar Devasthan
 https://s75.ipcamlive.com/streams_timeshift/7a0aksubnqonip7a4/stream.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://png.pngtree.com/png-vector/20230513/ourmid/pngtree-mahakal-calligraphy-vector-png-image_7096206.png", Mahakaal Darshan Live
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1757538364/ei/3JPBaIjKGN6S4t4PgtaJwAs/ip/2406:b400:75:13b7:bde0:d7ce:d9cc:4885/id/_RoV-sueMWs.21/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-5jucgv5qc5oq-w5ps.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLNssCwc9823iiF0C78Cc2-UqWCUE_M6MSbYvi6Nh6rIkaZ07_BFKoNSXHM7fOArtj4jHPTyt-da/spc/l3OVKWFUpsOx6LVBUWAw/vprv/1/playlist_type/DVR/initcwndbps/1768750/met/1757516765,/mh/4e/mm/44/mn/sn-5jucgv5qc5oq-w5ps/ms/lva/mv/m/mvi/1/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1757516463/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAM5wPrKtiF1LvtLyiRtrTj9h9SzbLPLhfD8EuwnEC4MHAiA05pzTokaDXZf32oyoIE8s6oPuqFb6t7e0sCmiCOTcFQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgXtaEBbZ8txFYsVbGOgTETavVObNbmMRJLGHrU_iKtkUCIBkwdnZLGuKXMxUT5hCzsBGcLySOg1damvQqyyKdaVCU/playlist/index.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | ISHWAR DARSHAN" tvg-logo="https://i.pinimg.com/736x/fb/59/d0/fb59d069d956ba1e061d10cdbca44a6d.jpg", Kaashi Vishwnath Live
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1757539082/ei/qpbBaL2wH8us9fwP5_i46Q4/ip/2406:b400:75:13b7:bde0:d7ce:d9cc:4885/id/63LLdfW_ELM.17/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-5jucgv5qc5oq-w5ps.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSVNsyDzDV949MZPi3l70rwpSobgHMFDxN61fUS8nC8ZHAGIRWU5rFrUm558nKC6AGbcmMt07utL/spc/hcYD5QQWSiIBnTc-WPr9/vprv/1/playlist_type/DVR/initcwndbps/1733750/met/1757517483,/mh/9Y/mm/44/mn/sn-5jucgv5qc5oq-w5ps/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1757516969/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMeW7LTzWnpaGE7Pl2Hfyy1oU7h7go9fzuUNnJhZ3AH0AiAnOCXN6pztJ6mqh_LurYKoMdvWBYfrClGCAYRv_cF6Qw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgH-hr7Ykkvb-580equ-sRaVF4tQn5XOCYvfrvhb9Z0wYCIQDd1qvl9wl5TmweHnze7cgJtrDlhxInU5ZAv1H-8I9k3w%3D%3D/playlist/index.m3u8
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
@@ -5309,4 +5315,5 @@ https://allinonereborn.fun/opplex190.m3u8?id=363001
 //===from rana tataccz===//
 
 //===FROM PLAYLIV===//
+
 
