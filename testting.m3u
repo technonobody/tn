@@ -3302,11 +3302,9 @@ https://stream.kliv.fun/allplus399/jtv/manifest.mpd?id=1294
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1296
 https://stream.kliv.fun/allplus399/jtv/manifest.mpd?id=1296
 
-#EXTINF:-1 tvg-id="12321" tvg-name="by @ygxworld" tvg-logo="https://t.me/ygxworld" group-title="JOINT ECONOMY Movies",by @ygxworld
+#EXTINF:-1 tvg-id="12321" tvg-name="by @ygxworld" tvg-logo="" group-title="JOINT ECONOMY Movies",by @ByFighter
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=12321
-https://stream.kliv.fun/allplus399/jtv/manifest.mpd?id=12321
+https://stream.kliv.fun/allplus399/jtv/manifest.mp
 
 #EXTINF:-1 tvg-id="1299" tvg-name="Manjari TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="JOINT ECONOMY Entertainment",Manjari TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5324,6 +5322,7 @@ https://allinonereborn.fun/opplex190.m3u8?id=363001
 //===from rana tataccz===//
 
 //===FROM PLAYLIV===//
+
 
 
 
