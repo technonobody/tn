@@ -37,7 +37,7 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 //===LISTFSAMNG===//
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",The Movie Club
-https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/52ec839a-ed0d-473c-9ebc-760edd4a3043/3.m3u8
+https://amg01448-samsungin-movieclub-amagi-ssai-samsungin-bxp18.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-movieclub-amagi-ssai-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",SOUTH STATION
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800010SH_20250122T004825SQUARE.png" group-title="A1 | HD SELECTED" tvg-chno="",Hollywood Desi
@@ -4978,6 +4978,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=2355
 //===from rana tataccz===//
 
 //===FROM PLAYLIV===//
+
 
 
 
