@@ -88,7 +88,7 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 #EXTM3U
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 tvg-id="ZEE NETWORK 🎉18rajasthan.in" tvg-name="ZEE NETWORK 🎉18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
+#EXTINF:-1 tvg-id="18rajasthan.in" tvg-name="18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
 https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8
 #EXTINF:-1 tvg-id="firstindianews.in" tvg-name="First India News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/First_India_News_.png" group-title="A1 | RAJASTHAN KHABAR", First India News Rajasthan
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
@@ -272,7 +272,7 @@ https://public.kliv.fun/zs800/index.php?id=0-9-zeepunjabharyanahima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/zs800/index.php?id=0-9-zeebusiness
 
-#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/zs800/index.php?id=0-9-zee24kalak
 
