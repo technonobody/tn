@@ -88,7 +88,7 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 #EXTM3U
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
-#EXTINF:-1 tvg-id="news18rajasthan.in" tvg-name="News18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
+#EXTINF:-1 tvg-id="ZEE NETWORK 🎉18rajasthan.in" tvg-name="ZEE NETWORK 🎉18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
 https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8
 #EXTINF:-1 tvg-id="firstindianews.in" tvg-name="First India News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/First_India_News_.png" group-title="A1 | RAJASTHAN KHABAR", First India News Rajasthan
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
@@ -158,7 +158,7 @@ https://public.kliv.fun/zs800/Sony/stream.php?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://public.kliv.fun/zs800/Sony/stream.php?id=2
 
-#EXTINF:-1 tvg-id="3" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONY NETWORK 🎉" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Marathi
+#EXTINF:-1 tvg-id="3" tvg-name="Sony Marathi" tvg-language="ZEE NETWORK 🎉" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONY NETWORK 🎉" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://public.kliv.fun/zs800/Sony/stream.php?id=3
 
@@ -170,7 +170,7 @@ https://public.kliv.fun/zs800/Sony/stream.php?id=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://public.kliv.fun/zs800/Sony/stream.php?id=5
 
-#EXTINF:-1 tvg-id="6" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONY NETWORK 🎉" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Aath
+#EXTINF:-1 tvg-id="6" tvg-name="Sony Aath" tvg-language="ZEE NETWORK 🎉" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONY NETWORK 🎉" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Aath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://public.kliv.fun/zs800/Sony/stream.php?id=6
 
@@ -244,241 +244,277 @@ https://public.kliv.fun/zs800/Sony/stream.php?id=23
 
 //===ZEE NETWORK===//
 
+#EXTINF:-1 tvg-id="0-9-aajtak" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-aajtak
+
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeenews
+https://public.kliv.fun/zs800/index.php?id=0-9-zeenews
 
 #EXTINF:-1 tvg-id="0-9-indiatoday" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",India Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-indiatoday
+https://public.kliv.fun/zs800/index.php?id=0-9-indiatoday
 
 #EXTINF:-1 tvg-id="0-9-255" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png",Good News Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-255
+https://public.kliv.fun/zs800/index.php?id=0-9-255
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&amp;Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5543514
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5543514
 
 #EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png",Zee Punjab Haryana Himachal Pradesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeepunjabharyanahima
+https://public.kliv.fun/zs800/index.php?id=0-9-zeepunjabharyanahima
 
 #EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeebusiness
+https://public.kliv.fun/zs800/index.php?id=0-9-zeebusiness
 
-#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png",Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zee24kalak
+https://public.kliv.fun/zs800/index.php?id=0-9-zee24kalak
 
 #EXTINF:-1 tvg-id="0-9-zee24taas" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",Zee 24 Taas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zee24taas
+https://public.kliv.fun/zs800/index.php?id=0-9-zee24taas
 
 #EXTINF:-1 tvg-id="0-9-wion" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-wion
+https://public.kliv.fun/zs800/index.php?id=0-9-wion
 
 #EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png",Zee Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeehindustan
+https://public.kliv.fun/zs800/index.php?id=0-9-zeehindustan
 
 #EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png",Zee Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeebiharjharkhand
+https://public.kliv.fun/zs800/index.php?id=0-9-zeebiharjharkhand
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",Zee 24 Ghanta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-24ghantatv
+https://public.kliv.fun/zs800/index.php?id=0-9-24ghantatv
 
 #EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png",Zee Delhi NCR Haryana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeekalinganews
+https://public.kliv.fun/zs800/index.php?id=0-9-zeekalinganews
 
 #EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png",Zee Rajasthan News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeerajasthannews
+https://public.kliv.fun/zs800/index.php?id=0-9-zeerajasthannews
 
 #EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png",Zee Madhya Pradesh Chhattisgarh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeemadhyapradeshchat
+https://public.kliv.fun/zs800/index.php?id=0-9-zeemadhyapradeshchat
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png",Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-bigmagic_1786965389
+https://public.kliv.fun/zs800/index.php?id=0-9-bigmagic_1786965389
 
 #EXTINF:-1 tvg-id="0-9-zing" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zing
+https://public.kliv.fun/zs800/index.php?id=0-9-zing
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeetvhd
+https://public.kliv.fun/zs800/index.php?id=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&amp;TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-tvhd_0
+https://public.kliv.fun/zs800/index.php?id=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeemarathi
+https://public.kliv.fun/zs800/index.php?id=0-9-zeemarathi
 
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeeyuva
+https://public.kliv.fun/zs800/index.php?id=0-9-zeeyuva
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeecafehd
+https://public.kliv.fun/zs800/index.php?id=0-9-zeecafehd
 
-#EXTINF:-1 tvg-id="0-9-bigganga" group-title="ZEE NETWORK 🎉" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="ZEE NETWORK 🎉" tvg-logo="https://akamaividz2.zs800.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-bigganga
+https://public.kliv.fun/zs800/index.php?id=0-9-bigganga
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeetamil
+https://public.kliv.fun/zs800/index.php?id=0-9-zeetamil
 
 #EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png",Zee Telugu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeetelugu
+https://public.kliv.fun/zs800/index.php?id=0-9-zeetelugu
 
 #EXTINF:-1 tvg-id="0-9-zeekannada" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",Zee Kannada HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeekannada
+https://public.kliv.fun/zs800/index.php?id=0-9-zeekannada
 
 #EXTINF:-1 tvg-id="0-9-129" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",Zee Keralam HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-129
+https://public.kliv.fun/zs800/index.php?id=0-9-129
 
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeebangla
+https://public.kliv.fun/zs800/index.php?id=0-9-zeebangla
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeeanmol
+https://public.kliv.fun/zs800/index.php?id=0-9-zeeanmol
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeecinemahd
+https://public.kliv.fun/zs800/index.php?id=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeecinemalu
+https://public.kliv.fun/zs800/index.php?id=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&amp;Pictures HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-tvpictureshd
+https://public.kliv.fun/zs800/index.php?id=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png",Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeetalkies
+https://public.kliv.fun/zs800/index.php?id=0-9-zeetalkies
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeebanglacinema
+https://public.kliv.fun/zs800/index.php?id=0-9-zeebanglacinema
 
 #EXTINF:-1 tvg-id="0-9-215" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png",Zee Punjabi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-215
+https://public.kliv.fun/zs800/index.php?id=0-9-215
 
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeeanmolcinema
+https://public.kliv.fun/zs800/index.php?id=0-9-zeeanmolcinema
 
 #EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeeclassic
+https://public.kliv.fun/zs800/index.php?id=0-9-zeeclassic
 
 #EXTINF:-1 tvg-id="0-9-pictures" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",&amp;Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-pictures
+https://public.kliv.fun/zs800/index.php?id=0-9-pictures
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeecinema
+https://public.kliv.fun/zs800/index.php?id=0-9-zeecinema
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeeaction
+https://public.kliv.fun/zs800/index.php?id=0-9-zeeaction
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&amp;flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-channel_2105335046
+https://public.kliv.fun/zs800/index.php?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-channel_1144658965
+https://public.kliv.fun/zs800/index.php?id=0-9-channel_1144658965
 
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeetv
+https://public.kliv.fun/zs800/index.php?id=0-9-zeetv
 
 #EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-zeesalaam
+https://public.kliv.fun/zs800/index.php?id=0-9-zeesalaam
 
 #EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png",Zee Sarthak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-sarthaktv
+https://public.kliv.fun/zs800/index.php?id=0-9-sarthaktv
 
 #EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png",Zee News Uttar Pradesh Uttrakhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-channel_265145625
+https://public.kliv.fun/zs800/index.php?id=0-9-channel_265145625
 
 #EXTINF:-1 tvg-id="0-9-176" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-176
+https://public.kliv.fun/zs800/index.php?id=0-9-176
 
 #EXTINF:-1 tvg-id="0-9-209" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&amp;xplorHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-209
+https://public.kliv.fun/zs800/index.php?id=0-9-209
 
 #EXTINF:-1 tvg-id="0-9-216" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png",Zee Biskope
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-216
+https://public.kliv.fun/zs800/index.php?id=0-9-216
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-224
+https://public.kliv.fun/zs800/index.php?id=0-9-224
 
 #EXTINF:-1 tvg-id="0-9-348" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-348
+https://public.kliv.fun/zs800/index.php?id=0-9-348
 
 #EXTINF:-1 tvg-id="0-9-241" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png",Zee Picchar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-241
+https://public.kliv.fun/zs800/index.php?id=0-9-241
 
 #EXTINF:-1 tvg-id="0-9-394" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png",Zee Chitramandir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-394
+https://public.kliv.fun/zs800/index.php?id=0-9-394
 
 #EXTINF:-1 tvg-id="0-9-9z5383466" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383466
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383466
 
 #EXTINF:-1 tvg-id="0-9-9z5383484" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383484
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383484
 
 #EXTINF:-1 tvg-id="0-9-9z5383485" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383485
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383485
 
 #EXTINF:-1 tvg-id="0-9-9z5383486" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383486
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383486
 
 #EXTINF:-1 tvg-id="0-9-9z5383487" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383487
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383487
 
 #EXTINF:-1 tvg-id="0-9-9z5383488" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://stream.kliv.fun/allplus190/zs800/index.php?id=0-9-9z5383488
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383488
+
+#EXTINF:-1 tvg-id="0-9-9z5398768" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398768
+
+#EXTINF:-1 tvg-id="0-9-9z5398770" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398770
+
+#EXTINF:-1 tvg-id="0-9-9z5398771" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",Aastha Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398771
+
+#EXTINF:-1 tvg-id="0-9-9z5398791" group-title="Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Gujarati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398791
+
+#EXTINF:-1 tvg-id="0-9-9z5398792" group-title="ZEE NETWORK 🎉" tvg-logo="https://akamaividz.zs800.com/resources/0-9-9z5398792/list/270x152/1170x658c79674cf57ac4de48addad4284053d8e.png",Dharm Sandesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398792
+
+#EXTINF:-1 tvg-id="0-9-9z5398793" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398793
+
+#EXTINF:-1 tvg-id="0-9-9z5383489" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5383489
+
+#EXTINF:-1 tvg-id="0-9-9z5398761" group-title="ZEE NETWORK 🎉" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs800/index.php?id=0-9-9z5398761
 
 //========JSTAR PLAYLIV========//
 
@@ -861,13 +897,13 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=204
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=212
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=212
 
-#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JOINT ECONOMY News",News 18 India
+#EXTINF:-1 tvg-id="231" tvg-name="ZEE NETWORK 🎉 18 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_7.png" group-title="JOINT ECONOMY News",News 18 India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=231
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=231
 
-#EXTINF:-1 tvg-id="232" tvg-name="News18 Lokmat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JOINT ECONOMY News",News18 Lokmat
+#EXTINF:-1 tvg-id="232" tvg-name="ZEE NETWORK 🎉18 Lokmat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JOINT ECONOMY News",News18 Lokmat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=232
@@ -1161,7 +1197,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=493
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=494
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=494
 
-#EXTINF:-1 tvg-id="495" tvg-name="News X" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X.png" group-title="JOINT ECONOMY News",News X
+#EXTINF:-1 tvg-id="495" tvg-name="ZEE NETWORK 🎉 X" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X.png" group-title="JOINT ECONOMY News",News X
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=495
@@ -1179,13 +1215,13 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=496
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=498
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=498
 
-#EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png" group-title="JOINT ECONOMY News",News Nation
+#EXTINF:-1 tvg-id="499" tvg-name="ZEE NETWORK 🎉 Nation" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png" group-title="JOINT ECONOMY News",News Nation
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=499
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=499
 
-#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" group-title="JOINT ECONOMY News",News 24
+#EXTINF:-1 tvg-id="501" tvg-name="ZEE NETWORK 🎉 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_24.png" group-title="JOINT ECONOMY News",News 24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=501
@@ -1299,19 +1335,19 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=527
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=528
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=528
 
-#EXTINF:-1 tvg-id="529" tvg-name="News18 MP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="JOINT ECONOMY News",News18 MP
+#EXTINF:-1 tvg-id="529" tvg-name="ZEE NETWORK 🎉18 MP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="JOINT ECONOMY News",News18 MP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=529
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=529
 
-#EXTINF:-1 tvg-id="530" tvg-name="News18 UP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="JOINT ECONOMY News",News18 UP
+#EXTINF:-1 tvg-id="530" tvg-name="ZEE NETWORK 🎉18 UP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="JOINT ECONOMY News",News18 UP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=530
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=530
 
-#EXTINF:-1 tvg-id="531" tvg-name="News18 RAJASTHAN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="JOINT ECONOMY News",News18 RAJASTHAN
+#EXTINF:-1 tvg-id="531" tvg-name="ZEE NETWORK 🎉18 RAJASTHAN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="JOINT ECONOMY News",News18 RAJASTHAN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=531
@@ -1683,7 +1719,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=611
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=612
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=612
 
-#EXTINF:-1 tvg-id="613" tvg-name="Newslive" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Newslive.png" group-title="JOINT ECONOMY News",Newslive
+#EXTINF:-1 tvg-id="613" tvg-name="ZEE NETWORK 🎉live" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Newslive.png" group-title="JOINT ECONOMY News",Newslive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=613
@@ -1695,7 +1731,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=613
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=614
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=614
 
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="JOINT ECONOMY News",News 18 Tamilnadu
+#EXTINF:-1 tvg-id="615" tvg-name="ZEE NETWORK 🎉 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="JOINT ECONOMY News",News 18 Tamilnadu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=615
@@ -1725,7 +1761,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=618
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=619
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=619
 
-#EXTINF:-1 tvg-id="620" tvg-name="News18 Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="JOINT ECONOMY News",News18 Gujarati
+#EXTINF:-1 tvg-id="620" tvg-name="ZEE NETWORK 🎉18 Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="JOINT ECONOMY News",News18 Gujarati
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=620
@@ -1749,7 +1785,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=624
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=626
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=626
 
-#EXTINF:-1 tvg-id="627" tvg-name="News 18 Assam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="JOINT ECONOMY News",News 18 Assam
+#EXTINF:-1 tvg-id="627" tvg-name="ZEE NETWORK 🎉 18 Assam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="JOINT ECONOMY News",News 18 Assam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=627
@@ -1863,13 +1899,13 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=650
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=651
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=651
 
-#EXTINF:-1 tvg-id="653" tvg-name="News18 Kannada News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="JOINT ECONOMY News",News18 Kannada News
+#EXTINF:-1 tvg-id="653" tvg-name="ZEE NETWORK 🎉18 Kannada News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="JOINT ECONOMY News",News18 Kannada News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=653
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=653
 
-#EXTINF:-1 tvg-id="655" tvg-name="News18 Punjab Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="JOINT ECONOMY News",News18 Punjab Haryana
+#EXTINF:-1 tvg-id="655" tvg-name="ZEE NETWORK 🎉18 Punjab Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="JOINT ECONOMY News",News18 Punjab Haryana
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=655
@@ -1923,7 +1959,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=671
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=672
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=672
 
-#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="JOINT ECONOMY News",News7 Tamil
+#EXTINF:-1 tvg-id="673" tvg-name="ZEE NETWORK 🎉7 Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="JOINT ECONOMY News",News7 Tamil
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=673
@@ -1971,7 +2007,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=683
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=684
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=684
 
-#EXTINF:-1 tvg-id="687" tvg-name="News Time TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="JOINT ECONOMY News",News Time TV
+#EXTINF:-1 tvg-id="687" tvg-name="ZEE NETWORK 🎉 Time TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="JOINT ECONOMY News",News Time TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=687
@@ -1995,13 +2031,13 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=691
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=692
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=692
 
-#EXTINF:-1 tvg-id="693" tvg-name="News18 BIHAR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="JOINT ECONOMY News",News18 BIHAR
+#EXTINF:-1 tvg-id="693" tvg-name="ZEE NETWORK 🎉18 BIHAR" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="JOINT ECONOMY News",News18 BIHAR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=693
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=693
 
-#EXTINF:-1 tvg-id="694" tvg-name="News18 JKLH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="JOINT ECONOMY News",News18 JKLH
+#EXTINF:-1 tvg-id="694" tvg-name="ZEE NETWORK 🎉18 JKLH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="JOINT ECONOMY News",News18 JKLH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=694
@@ -2013,7 +2049,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=694
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=695
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=695
 
-#EXTINF:-1 tvg-id="696" tvg-name="News18 Oriya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="JOINT ECONOMY News",News18 Oriya
+#EXTINF:-1 tvg-id="696" tvg-name="ZEE NETWORK 🎉18 Oriya" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="JOINT ECONOMY News",News18 Oriya
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=696
@@ -2097,7 +2133,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=715
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=716
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=716
 
-#EXTINF:-1 tvg-id="717" tvg-name="News18 Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="JOINT ECONOMY News",News18 Bangla News
+#EXTINF:-1 tvg-id="717" tvg-name="ZEE NETWORK 🎉18 Bangla News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="JOINT ECONOMY News",News18 Bangla News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=717
@@ -2427,7 +2463,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=790
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=791
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=791
 
-#EXTINF:-1 tvg-id="792" tvg-name="News State UK UP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="JOINT ECONOMY News",News State UK UP
+#EXTINF:-1 tvg-id="792" tvg-name="ZEE NETWORK 🎉 State UK UP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="JOINT ECONOMY News",News State UK UP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=792
@@ -2607,7 +2643,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=846
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=847
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=847
 
-#EXTINF:-1 tvg-id="850" tvg-name="News India 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="JOINT ECONOMY News",News India 24x7
+#EXTINF:-1 tvg-id="850" tvg-name="ZEE NETWORK 🎉 India 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="JOINT ECONOMY News",News India 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=850
@@ -2673,7 +2709,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=876
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=880
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=880
 
-#EXTINF:-1 tvg-id="882" tvg-name="News11" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11.png" group-title="JOINT ECONOMY News",News11
+#EXTINF:-1 tvg-id="882" tvg-name="ZEE NETWORK 🎉11" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11.png" group-title="JOINT ECONOMY News",News11
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=882
@@ -2835,7 +2871,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=933
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=934
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=934
 
-#EXTINF:-1 tvg-id="936" tvg-name="News 1 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_1_India.png" group-title="JOINT ECONOMY News",News 1 India
+#EXTINF:-1 tvg-id="936" tvg-name="ZEE NETWORK 🎉 1 India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_1_India.png" group-title="JOINT ECONOMY News",News 1 India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=936
@@ -2919,7 +2955,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=958
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=963
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=963
 
-#EXTINF:-1 tvg-id="965" tvg-name="News 18 Kerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="JOINT ECONOMY News",News 18 Kerala
+#EXTINF:-1 tvg-id="965" tvg-name="ZEE NETWORK 🎉 18 Kerala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="JOINT ECONOMY News",News 18 Kerala
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=965
@@ -3907,7 +3943,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1477
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1481
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1481
 
-#EXTINF:-1 tvg-id="1515" tvg-name="News J" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="JOINT ECONOMY News",News J
+#EXTINF:-1 tvg-id="1515" tvg-name="ZEE NETWORK 🎉 J" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="JOINT ECONOMY News",News J
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1515
@@ -3997,7 +4033,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1553
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1554
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1554
 
-#EXTINF:-1 tvg-id="1555" tvg-name="News First" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_First.png" group-title="JOINT ECONOMY News",News First
+#EXTINF:-1 tvg-id="1555" tvg-name="ZEE NETWORK 🎉 First" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_First.png" group-title="JOINT ECONOMY News",News First
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1555
@@ -4333,7 +4369,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1799
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1804
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1804
 
-#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="JOINT ECONOMY News",NEWS 24 MPCG
+#EXTINF:-1 tvg-id="1817" tvg-name="ZEE NETWORK 🎉 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" group-title="JOINT ECONOMY News",NEWS 24 MPCG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1817
@@ -4363,7 +4399,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1850
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1851
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1851
 
-#EXTINF:-1 tvg-id="1853" tvg-name="News11 Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11_Bharat.png" group-title="JOINT ECONOMY News",News11 Bharat
+#EXTINF:-1 tvg-id="1853" tvg-name="ZEE NETWORK 🎉11 Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News11_Bharat.png" group-title="JOINT ECONOMY News",News11 Bharat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1853
@@ -4447,7 +4483,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1894
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1895
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1895
 
-#EXTINF:-1 tvg-id="1896" tvg-name="News Flash" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Flash.png" group-title="JOINT ECONOMY News",News Flash
+#EXTINF:-1 tvg-id="1896" tvg-name="ZEE NETWORK 🎉 Flash" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Flash.png" group-title="JOINT ECONOMY News",News Flash
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1896
@@ -4519,7 +4555,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1926
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1933
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1933
 
-#EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="JOINT ECONOMY News",News Tamil 24x7
+#EXTINF:-1 tvg-id="1954" tvg-name="ZEE NETWORK 🎉 Tamil 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="JOINT ECONOMY News",News Tamil 24x7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1954
@@ -4639,7 +4675,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=2005
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=2007
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=2007
 
-#EXTINF:-1 tvg-id="2008" tvg-name="News 21" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png" group-title="JOINT ECONOMY News",News 21
+#EXTINF:-1 tvg-id="2008" tvg-name="ZEE NETWORK 🎉 21" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png" group-title="JOINT ECONOMY News",News 21
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=2008
@@ -4927,7 +4963,7 @@ https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=2322
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=2323
 https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=2323
 
-#EXTINF:-1 tvg-id="2325" tvg-name="Punjabi Melodies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="JOINT ECONOMY Music",Punjabi Melodies
+#EXTINF:-1 tvg-id="2325" tvg-name="ZEE NETWORK 🎉 Melodies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Melodies.png" group-title="JOINT ECONOMY Music",Punjabi Melodies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=2325
