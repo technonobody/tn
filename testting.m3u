@@ -8596,3 +8596,40 @@ https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=1763555401~acl=/*~id=bce358cb3ea2d7d817beaa4a08ffb6c8-1763512200133~hmac=1108f786044ab0d6c2c340e94bdb2b0490266da50ff97688042697f9fdfd33ad|User-agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S9360 Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-id="1000009252" tvg-name="BBC EARTH" group-title="Infotainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1763555401~acl=/*~id=bce358cb3ea2d7d817beaa4a08ffb6c8-1763512200133~hmac=1108f786044ab0d6c2c340e94bdb2b0490266da50ff97688042697f9fdfd33ad|User-agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-S9360 Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JOINT ECONOMY Kids",Disney Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1373
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1373
+
+#EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png" group-title="JOINT ECONOMY Kids",Disney Junior
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1374
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1374
+
+#EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="JOINT ECONOMY Kids",Disney International HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1375
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1375
+
+#EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png" group-title="JOINT ECONOMY Kids",Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1391
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1391
+
+#EXTINF:-1 tvg-id="1392" tvg-name="Super Hungama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png" group-title="JOINT ECONOMY Kids",Super Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1392
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1392
+Kids uppar
+
+#EXTINF:-1 tvg-id="1132" tvg-name="Star Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png" group-title="JOINT ECONOMY Entertainment",Star Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1132
+https://stream.kliv.fun/allplus190/jtv/manifest.mpd?id=1132
