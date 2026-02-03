@@ -249,7 +249,7 @@ https://allinonereborn.xyz/iptv-web/live.php?id=44829
 #EXTINF:-1 tvg-id="57574" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/177.jpg" group-title="INDIA HINDI",Zee Cinema-USA
 https://allinonereborn.xyz/iptv-web/live.php?id=57574
 
-#EXTINF:-1 tvg-id="49719" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1025.png" group-title="India HD",Zee Cafe HD
+#EXTINF:-1 tvg-id="49719" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1025.png" group-title="INDIA HINDI",Zee Cafe HD
 https://allinonereborn.xyz/iptv-web/live.php?id=49719
 
 #EXTINF:-1 tvg-id="52594" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1031.jpg" group-title="INDIA HINDI",Zee Cinema HD-India
@@ -423,7 +423,7 @@ https://allinonereborn.xyz/iptv-web/live.php?id=47064
 #EXTINF:-1 tvg-id="12590" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2208.jpg" group-title="INDIA HINDI",Rajya Sabha
 https://allinonereborn.xyz/iptv-web/live.php?id=12590
 
-#EXTINF:-1 tvg-id="55221" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Punjabi",Music Masti
+#EXTINF:-1 tvg-id="55221" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Music Masti
 https://allinonereborn.xyz/iptv-web/live.php?id=55221
 
 #EXTINF:-1 tvg-id="13868" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/285.jpg" group-title="INDIA HINDI",Food Food
@@ -1470,3 +1470,4 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #
 # ======= CATEGORY: JIOSTAR =======
 #
+
