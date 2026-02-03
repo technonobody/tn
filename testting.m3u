@@ -92,11 +92,11 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="18rajasthan.in" tvg-name="18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
-https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="firstindianews.in" tvg-name="First India News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/First_India_News_.png" group-title="A1 | RAJASTHAN KHABAR", First India News Rajasthan
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="https://indianews.in/live-tv/" tvg-name="India News Rajasthan" tvg-logo="https://img.favpng.com/8/8/4/india-news-television-channel-itv-network-png-favpng-3agR9uvjgYxCqWYZyxm5dzntp.jpg" group-title="A1 | RAJASTHAN KHABAR", India News Rajasthan
-https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+#EXTINF:-1 tvg-id="https://indianews.in/live-tv/" tvg-name="India News Rajasthan" tvg-logo="https://img.favpng.com/8/8/4/india-news-television-channel-itv-network-png-favpng-3agR9uvjgYxCqWYZyxm5dzntp.jpg" group-title="A1 | RAJASTHAN KHABAR", News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-id="jantantratvrajasthan.in" tvg-name="Jantantra TV Rajasthan" tvg-logo="https://bharatmissions.com/jannews/wp-content/uploads/2024/08/Jantantra-TV-Logo.png" group-title="A1 | RAJASTHAN KHABAR", Jantantra TV Rajasthan
 https://cdn.smartstream.video/smartstream-us/jantantratv/jantantratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zee_media_logo.svg/1100px-Zee_media_logo.svg.png" group-title="A1 | RAJASTHAN KHABAR", Zee Rajasthan
@@ -1470,4 +1470,5 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #
 # ======= CATEGORY: JIOSTAR =======
 #
+
 
