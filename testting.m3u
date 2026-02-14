@@ -22,7 +22,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://playhls.media.nic.in/live/lstv/index.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Sansad_TV_En_Logo.png" group-title="A1 | HD SELECTED",SANSAD TV 2 HD
 https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0888b880-3d0a-45ae-b722-91c177aaa377
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live.png" group-title="A1 | HD SELECTED",INDIA TV HD
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://static.indiatvnews.com/ins-web/images/indiatv-live23.png" group-title="A1 | HD SELECTED",INDIA TV HD
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/640px-TV9_Bharatvarsh.svg.png" group-title="A1 | HD SELECTED",TV9 BHARATVARSH HD
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
@@ -92,9 +92,9 @@ https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="rajasthan.ndtv.in" tvg-name="NDTV Rajasthan" tvg-logo="https://rajasthan.ndtv.in/static/video/images/Rajasthan-Live-OG.png" group-title="A1 | RAJASTHAN KHABAR", NDTV Rajasthan
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTINF:-1 tvg-id="18rajasthan.in" tvg-name="18 Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News18_Rajasthan.jpeg" group-title="A1 | RAJASTHAN KHABAR", News 18 Rajasthan
-https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+https://nw18live23.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="firstindianews.in" tvg-name="First India News Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/First_India_News_.png" group-title="A1 | RAJASTHAN KHABAR", First India News Rajasthan
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+https://xlbor37ydvaj-hls-live23.wmncdn.net/firstindianewstv1/live23.stream/index.m3u8
 #EXTINF:-1 tvg-id="https://indianews.in/live-tv/" tvg-name="India News Rajasthan" tvg-logo="https://img.favpng.com/8/8/4/india-news-television-channel-itv-network-png-favpng-3agR9uvjgYxCqWYZyxm5dzntp.jpg" group-title="A1 | RAJASTHAN KHABAR", News Nation
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-id="jantantratvrajasthan.in" tvg-name="Jantantra TV Rajasthan" tvg-logo="https://bharatmissions.com/jannews/wp-content/uploads/2024/08/Jantantra-TV-Logo.png" group-title="A1 | RAJASTHAN KHABAR", Jantantra TV Rajasthan
@@ -119,7 +119,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mSxK5nWegv9Ml2S049t9VFTii52UTNLmeTznQ7__RodBc=s900-c-k-c0x00ffffff-no-rj" group-title="A1 | ULTIMATE SANGEET", MUSIC INDIA
 https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8
-#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5ecd/1565806491693/55fb00a38ead0e79178b5ecd.jpg" group-title="A1 | ULTIMATE SANGEET", 9X JALWA
+#EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://tma-live23.s3.ap-south-1.amazonaws.com/medias/55fb00a38ead0e79178b5ecd/1565806491693/55fb00a38ead0e79178b5ecd.jpg" group-title="A1 | ULTIMATE SANGEET", 9X JALWA
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-06-10/2506103074000.jpg" group-title="A1 | ULTIMATE SANGEET", SHEMAROO FILMI GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/playlist.m3u8
@@ -154,427 +154,427 @@ https://api.m3use.projectmoose.xyz/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415
 //===IND HINDI===//
 #EXTM3U
 #EXTINF:-1 tvg-id="61249" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/623.jpg" group-title="INDIA HINDI",Zee TV HD (North America)
-https://allinonereborn.xyz/iptv-web/live.php?id=61249
+https://allinonereborn.xyz/iptv-web/live23.php?id=61249
 
 #EXTINF:-1 tvg-id="55847" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1269.png" group-title="INDIA HINDI",Zee TV HD India 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=55847
+https://allinonereborn.xyz/iptv-web/live23.php?id=55847
 
 #EXTINF:-1 tvg-id="57695" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Zee TV HD-India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=57695
+https://allinonereborn.xyz/iptv-web/live23.php?id=57695
 
 #EXTINF:-1 tvg-id="13362" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/901.jpg" group-title="INDIA HINDI",Zee TV HD-UK
-https://allinonereborn.xyz/iptv-web/live.php?id=13362
+https://allinonereborn.xyz/iptv-web/live23.php?id=13362
 
 #EXTINF:-1 tvg-id="57568" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/650.png" group-title="INDIA HINDI",Star Plus HD USA
-https://allinonereborn.xyz/iptv-web/live.php?id=57568
+https://allinonereborn.xyz/iptv-web/live23.php?id=57568
 
 #EXTINF:-1 tvg-id="56910" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1124.jpg" group-title="INDIA HINDI",Star Plus-UK (cc)
-https://allinonereborn.xyz/iptv-web/live.php?id=56910
+https://allinonereborn.xyz/iptv-web/live23.php?id=56910
 
 #EXTINF:-1 tvg-id="8510" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/936.jpg" group-title="INDIA HINDI",Star Plus HD India 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=8510
+https://allinonereborn.xyz/iptv-web/live23.php?id=8510
 
 #EXTINF:-1 tvg-id="56591" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2719.jpg" group-title="INDIA HINDI",Star Plus HD-India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=56591
+https://allinonereborn.xyz/iptv-web/live23.php?id=56591
 
 #EXTINF:-1 tvg-id="53344" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/972.jpg" group-title="INDIA HINDI",Aapka Colors HD USA
-https://allinonereborn.xyz/iptv-web/live.php?id=53344
+https://allinonereborn.xyz/iptv-web/live23.php?id=53344
 
 #EXTINF:-1 tvg-id="54246" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Colors India 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=54246
+https://allinonereborn.xyz/iptv-web/live23.php?id=54246
 
 #EXTINF:-1 tvg-id="52499" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/829.jpg" group-title="INDIA HINDI",Colors India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=52499
+https://allinonereborn.xyz/iptv-web/live23.php?id=52499
 
 #EXTINF:-1 tvg-id="61164" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/863.jpg" group-title="INDIA HINDI",Colors HD UK
-https://allinonereborn.xyz/iptv-web/live.php?id=61164
+https://allinonereborn.xyz/iptv-web/live23.php?id=61164
 
 #EXTINF:-1 tvg-id="54661" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/727.jpg" group-title="INDIA HINDI",Sony HD USA
-https://allinonereborn.xyz/iptv-web/live.php?id=54661
+https://allinonereborn.xyz/iptv-web/live23.php?id=54661
 
 #EXTINF:-1 tvg-id="55852" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1531.png" group-title="INDIA HINDI",Sony HD-India #1 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=55852
+https://allinonereborn.xyz/iptv-web/live23.php?id=55852
 
 #EXTINF:-1 tvg-id="50689" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Sony HD-India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=50689
+https://allinonereborn.xyz/iptv-web/live23.php?id=50689
 
 #EXTINF:-1 tvg-id="55286" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/864.jpg" group-title="INDIA HINDI",Sony HD -UK
-https://allinonereborn.xyz/iptv-web/live.php?id=55286
+https://allinonereborn.xyz/iptv-web/live23.php?id=55286
 
 #EXTINF:-1 tvg-id="54466" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1324.jpg" group-title="INDIA HINDI",Star Bharat-India #1
-https://allinonereborn.xyz/iptv-web/live.php?id=54466
+https://allinonereborn.xyz/iptv-web/live23.php?id=54466
 
 #EXTINF:-1 tvg-id="56843" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/937.jpg" group-title="INDIA HINDI",Star Bharat-India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=56843
+https://allinonereborn.xyz/iptv-web/live23.php?id=56843
 
 #EXTINF:-1 tvg-id="54811" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/214.jpg" group-title="INDIA HINDI",Star Bharat - USA
-https://allinonereborn.xyz/iptv-web/live.php?id=54811
+https://allinonereborn.xyz/iptv-web/live23.php?id=54811
 
 #EXTINF:-1 tvg-id="34448" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3103.png" group-title="INDIA HINDI",SAB HD-UK
-https://allinonereborn.xyz/iptv-web/live.php?id=34448
+https://allinonereborn.xyz/iptv-web/live23.php?id=34448
 
 #EXTINF:-1 tvg-id="54706" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/865.png" group-title="INDIA HINDI",SAB HD India 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=54706
+https://allinonereborn.xyz/iptv-web/live23.php?id=54706
 
 #EXTINF:-1 tvg-id="52144" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/855.jpg" group-title="INDIA HINDI",SAB-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=52144
+https://allinonereborn.xyz/iptv-web/live23.php?id=52144
 
 #EXTINF:-1 tvg-id="60894" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11526.png" group-title="INDIA HINDI",Utsav Bharat
-https://allinonereborn.xyz/iptv-web/live.php?id=60894
+https://allinonereborn.xyz/iptv-web/live23.php?id=60894
 
 #EXTINF:-1 tvg-id="60888" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11520.png" group-title="INDIA HINDI",Utsav Plus
-https://allinonereborn.xyz/iptv-web/live.php?id=60888
+https://allinonereborn.xyz/iptv-web/live23.php?id=60888
 
 #EXTINF:-1 tvg-id="56942" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/5484.jpg" group-title="INDIA HINDI",& Prive HD
-https://allinonereborn.xyz/iptv-web/live.php?id=56942
+https://allinonereborn.xyz/iptv-web/live23.php?id=56942
 
 #EXTINF:-1 tvg-id="14426" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1126.jpg" group-title="INDIA HINDI",Sony Pix HD
-https://allinonereborn.xyz/iptv-web/live.php?id=14426
+https://allinonereborn.xyz/iptv-web/live23.php?id=14426
 
 #EXTINF:-1 tvg-id="57680" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3098.jpg" group-title="INDIA HINDI",Mirror Now
-https://allinonereborn.xyz/iptv-web/live.php?id=57680
+https://allinonereborn.xyz/iptv-web/live23.php?id=57680
 
 #EXTINF:-1 tvg-id="14074" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2374.png" group-title="INDIA HINDI",Wion News-India
-https://allinonereborn.xyz/iptv-web/live.php?id=14074
+https://allinonereborn.xyz/iptv-web/live23.php?id=14074
 
 #EXTINF:-1 tvg-id="45659" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/967.png" group-title="INDIA HINDI",Star Gold Select HD-India
-https://allinonereborn.xyz/iptv-web/live.php?id=45659
+https://allinonereborn.xyz/iptv-web/live23.php?id=45659
 
 #EXTINF:-1 tvg-id="45679" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/866.jpg" group-title="INDIA HINDI",Star Gold HD-India
-https://allinonereborn.xyz/iptv-web/live.php?id=45679
+https://allinonereborn.xyz/iptv-web/live23.php?id=45679
 
 #EXTINF:-1 tvg-id="44829" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/175.jpg" group-title="INDIA HINDI",Star Gold-UK
-https://allinonereborn.xyz/iptv-web/live.php?id=44829
+https://allinonereborn.xyz/iptv-web/live23.php?id=44829
 
 #EXTINF:-1 tvg-id="57574" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/177.jpg" group-title="INDIA HINDI",Zee Cinema-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=57574
+https://allinonereborn.xyz/iptv-web/live23.php?id=57574
 
 #EXTINF:-1 tvg-id="49719" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1025.png" group-title="INDIA HINDI",Zee Cafe HD
-https://allinonereborn.xyz/iptv-web/live.php?id=49719
+https://allinonereborn.xyz/iptv-web/live23.php?id=49719
 
 #EXTINF:-1 tvg-id="52594" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1031.jpg" group-title="INDIA HINDI",Zee Cinema HD-India
-https://allinonereborn.xyz/iptv-web/live.php?id=52594
+https://allinonereborn.xyz/iptv-web/live23.php?id=52594
 
 #EXTINF:-1 tvg-id="56699" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1026.jpg" group-title="INDIA HINDI",Zee  Bollywood Classic
-https://allinonereborn.xyz/iptv-web/live.php?id=56699
+https://allinonereborn.xyz/iptv-web/live23.php?id=56699
 
 #EXTINF:-1 tvg-id="59454" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/179.jpg" group-title="INDIA HINDI",Set Max-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=59454
+https://allinonereborn.xyz/iptv-web/live23.php?id=59454
 
 #EXTINF:-1 tvg-id="53144" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3143.png" group-title="INDIA HINDI",Set Max-India #1
-https://allinonereborn.xyz/iptv-web/live.php?id=53144
+https://allinonereborn.xyz/iptv-web/live23.php?id=53144
 
 #EXTINF:-1 tvg-id="30484" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/974.png" group-title="INDIA HINDI",Set Max-India #2
-https://allinonereborn.xyz/iptv-web/live.php?id=30484
+https://allinonereborn.xyz/iptv-web/live23.php?id=30484
 
 #EXTINF:-1 tvg-id="44849" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1136.jpg" group-title="INDIA HINDI",Set Max-UK
-https://allinonereborn.xyz/iptv-web/live.php?id=44849
+https://allinonereborn.xyz/iptv-web/live23.php?id=44849
 
 #EXTINF:-1 tvg-id="50814" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/621.jpg" group-title="INDIA HINDI",Sony Max 2
-https://allinonereborn.xyz/iptv-web/live.php?id=50814
+https://allinonereborn.xyz/iptv-web/live23.php?id=50814
 
 #EXTINF:-1 tvg-id="46629" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3618.jpg" group-title="INDIA HINDI",Sony Wah
-https://allinonereborn.xyz/iptv-web/live.php?id=46629
+https://allinonereborn.xyz/iptv-web/live23.php?id=46629
 
 #EXTINF:-1 tvg-id="56595" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/217.jpg" group-title="INDIA HINDI",B4U Movies USA
-https://allinonereborn.xyz/iptv-web/live.php?id=56595
+https://allinonereborn.xyz/iptv-web/live23.php?id=56595
 
 #EXTINF:-1 tvg-id="39533" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2124.jpg" group-title="INDIA HINDI",B4U Movies-India
-https://allinonereborn.xyz/iptv-web/live.php?id=39533
+https://allinonereborn.xyz/iptv-web/live23.php?id=39533
 
 #EXTINF:-1 tvg-id="56691" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1154.jpg" group-title="INDIA HINDI",Zee Anmol
-https://allinonereborn.xyz/iptv-web/live.php?id=56691
+https://allinonereborn.xyz/iptv-web/live23.php?id=56691
 
 #EXTINF:-1 tvg-id="48724" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2196.jpg" group-title="INDIA HINDI",Colors Cineplex India
-https://allinonereborn.xyz/iptv-web/live.php?id=48724
+https://allinonereborn.xyz/iptv-web/live23.php?id=48724
 
 #EXTINF:-1 tvg-id="44114" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/749.png" group-title="INDIA HINDI",Colors Cineplex USA
-https://allinonereborn.xyz/iptv-web/live.php?id=44114
+https://allinonereborn.xyz/iptv-web/live23.php?id=44114
 
 #EXTINF:-1 tvg-id="45749" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1152.png" group-title="INDIA HINDI",And Picture HD
-https://allinonereborn.xyz/iptv-web/live.php?id=45749
+https://allinonereborn.xyz/iptv-web/live23.php?id=45749
 
 #EXTINF:-1 tvg-id="51844" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",And & Flix HD
-https://allinonereborn.xyz/iptv-web/live.php?id=51844
+https://allinonereborn.xyz/iptv-web/live23.php?id=51844
 
 #EXTINF:-1 tvg-id="55757" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8172.jpg" group-title="INDIA HINDI",Andtv -USA
-https://allinonereborn.xyz/iptv-web/live.php?id=55757
+https://allinonereborn.xyz/iptv-web/live23.php?id=55757
 
 #EXTINF:-1 tvg-id="60666" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",And XpLore 4k
-https://allinonereborn.xyz/iptv-web/live.php?id=60666
+https://allinonereborn.xyz/iptv-web/live23.php?id=60666
 
 #EXTINF:-1 tvg-id="56998" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1151.jpg" group-title="INDIA HINDI",And TV-Europe
-https://allinonereborn.xyz/iptv-web/live.php?id=56998
+https://allinonereborn.xyz/iptv-web/live23.php?id=56998
 
 #EXTINF:-1 tvg-id="57002" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",And TV-India #1
-https://allinonereborn.xyz/iptv-web/live.php?id=57002
+https://allinonereborn.xyz/iptv-web/live23.php?id=57002
 
 #EXTINF:-1 tvg-id="44874" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/63.jpg" group-title="INDIA HINDI",Sahara One-India
-https://allinonereborn.xyz/iptv-web/live.php?id=44874
+https://allinonereborn.xyz/iptv-web/live23.php?id=44874
 
 #EXTINF:-1 tvg-id="53139" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1128.jpg" group-title="INDIA HINDI",Sony Pal
-https://allinonereborn.xyz/iptv-web/live.php?id=53139
+https://allinonereborn.xyz/iptv-web/live23.php?id=53139
 
 #EXTINF:-1 tvg-id="44889" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Siraj TV
-https://allinonereborn.xyz/iptv-web/live.php?id=44889
+https://allinonereborn.xyz/iptv-web/live23.php?id=44889
 
 #EXTINF:-1 tvg-id="45759" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/180.jpg" group-title="INDIA HINDI",TV Asia HD
-https://allinonereborn.xyz/iptv-web/live.php?id=45759
+https://allinonereborn.xyz/iptv-web/live23.php?id=45759
 
 #EXTINF:-1 tvg-id="8595" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1114.jpg" group-title="INDIA HINDI",Rishtey-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=8595
+https://allinonereborn.xyz/iptv-web/live23.php?id=8595
 
 #EXTINF:-1 tvg-id="57130" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Rishtey-India
-https://allinonereborn.xyz/iptv-web/live.php?id=57130
+https://allinonereborn.xyz/iptv-web/live23.php?id=57130
 
 #EXTINF:-1 tvg-id="55547" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Frontline HD
-https://allinonereborn.xyz/iptv-web/live.php?id=55547
+https://allinonereborn.xyz/iptv-web/live23.php?id=55547
 
 #EXTINF:-1 tvg-id="58346" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Republic Bharat HD
-https://allinonereborn.xyz/iptv-web/live.php?id=58346
+https://allinonereborn.xyz/iptv-web/live23.php?id=58346
 
 #EXTINF:-1 tvg-id="44119" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",JUS Hindi HD
-https://allinonereborn.xyz/iptv-web/live.php?id=44119
+https://allinonereborn.xyz/iptv-web/live23.php?id=44119
 
 #EXTINF:-1 tvg-id="48069" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3488.jpg" group-title="INDIA HINDI",Sadhna Plus News
-https://allinonereborn.xyz/iptv-web/live.php?id=48069
+https://allinonereborn.xyz/iptv-web/live23.php?id=48069
 
 #EXTINF:-1 tvg-id="33204" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/262.png" group-title="INDIA HINDI",Republic TV
-https://allinonereborn.xyz/iptv-web/live.php?id=33204
+https://allinonereborn.xyz/iptv-web/live23.php?id=33204
 
 #EXTINF:-1 tvg-id="48059" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/66.jpg" group-title="INDIA HINDI",Times Now
-https://allinonereborn.xyz/iptv-web/live.php?id=48059
+https://allinonereborn.xyz/iptv-web/live23.php?id=48059
 
 #EXTINF:-1 tvg-id="45674" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/425.jpg" group-title="INDIA HINDI",ABP News
-https://allinonereborn.xyz/iptv-web/live.php?id=45674
+https://allinonereborn.xyz/iptv-web/live23.php?id=45674
 
 #EXTINF:-1 tvg-id="57279" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/144.jpg" group-title="INDIA HINDI",NDTV-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=57279
+https://allinonereborn.xyz/iptv-web/live23.php?id=57279
 
 #EXTINF:-1 tvg-id="42123" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1129.jpg" group-title="INDIA HINDI",NDTV-India
-https://allinonereborn.xyz/iptv-web/live.php?id=42123
+https://allinonereborn.xyz/iptv-web/live23.php?id=42123
 
 #EXTINF:-1 tvg-id="50819" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/185.png" group-title="INDIA HINDI",News 18
-https://allinonereborn.xyz/iptv-web/live.php?id=50819
+https://allinonereborn.xyz/iptv-web/live23.php?id=50819
 
 #EXTINF:-1 tvg-id="47964" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/65.jpg" group-title="INDIA HINDI",India Today
-https://allinonereborn.xyz/iptv-web/live.php?id=47964
+https://allinonereborn.xyz/iptv-web/live23.php?id=47964
 
 #EXTINF:-1 tvg-id="12288" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/699.jpg" group-title="INDIA HINDI",Zee News
-https://allinonereborn.xyz/iptv-web/live.php?id=12288
+https://allinonereborn.xyz/iptv-web/live23.php?id=12288
 
 #EXTINF:-1 tvg-id="47999" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/559.jpg" group-title="INDIA HINDI",ET Now
-https://allinonereborn.xyz/iptv-web/live.php?id=47999
+https://allinonereborn.xyz/iptv-web/live23.php?id=47999
 
 #EXTINF:-1 tvg-id="50684" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/297.jpg" group-title="INDIA HINDI",CNN NEWS 18
-https://allinonereborn.xyz/iptv-web/live.php?id=50684
+https://allinonereborn.xyz/iptv-web/live23.php?id=50684
 
 #EXTINF:-1 tvg-id="https://dwby15d04agvq.cloudfront.net/index_5.m3u8" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1029.jpg" group-title="INDIA HINDI",Zee Business
-https://allinonereborn.xyz/iptv-web/live.php?id=https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+https://allinonereborn.xyz/iptv-web/live23.php?id=https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="56958" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",AAJ TAK HD 4K
-https://allinonereborn.xyz/iptv-web/live.php?id=56958
+https://allinonereborn.xyz/iptv-web/live23.php?id=56958
 
 #EXTINF:-1 tvg-id="55507" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/67.jpg" group-title="INDIA HINDI",Aajtak-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=55507
+https://allinonereborn.xyz/iptv-web/live23.php?id=55507
 
 #EXTINF:-1 tvg-id="56914" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1047.jpg" group-title="INDIA HINDI",Aajtak-India
-https://allinonereborn.xyz/iptv-web/live.php?id=56914
+https://allinonereborn.xyz/iptv-web/live23.php?id=56914
 
 #EXTINF:-1 tvg-id="30494" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/506.jpg" group-title="INDIA HINDI",DD News
-https://allinonereborn.xyz/iptv-web/live.php?id=30494
+https://allinonereborn.xyz/iptv-web/live23.php?id=30494
 
 #EXTINF:-1 tvg-id="45769" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1329.jpg" group-title="INDIA HINDI",DD National
-https://allinonereborn.xyz/iptv-web/live.php?id=45769
+https://allinonereborn.xyz/iptv-web/live23.php?id=45769
 
 #EXTINF:-1 tvg-id="35283" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1605.jpg" group-title="INDIA HINDI",DD India
-https://allinonereborn.xyz/iptv-web/live.php?id=35283
+https://allinonereborn.xyz/iptv-web/live23.php?id=35283
 
 #EXTINF:-1 tvg-id="39753" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3418.jpg" group-title="INDIA HINDI",Sudarshan News
-https://allinonereborn.xyz/iptv-web/live.php?id=39753
+https://allinonereborn.xyz/iptv-web/live23.php?id=39753
 
 #EXTINF:-1 tvg-id="52154" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/951.jpg" group-title="INDIA HINDI",News 24
-https://allinonereborn.xyz/iptv-web/live.php?id=52154
+https://allinonereborn.xyz/iptv-web/live23.php?id=52154
 
 #EXTINF:-1 tvg-id="11922" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/952.jpg" group-title="INDIA HINDI",India TV
-https://allinonereborn.xyz/iptv-web/live.php?id=11922
+https://allinonereborn.xyz/iptv-web/live23.php?id=11922
 
 #EXTINF:-1 tvg-id="56603" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/182.jpg" group-title="INDIA HINDI",Samay
-https://allinonereborn.xyz/iptv-web/live.php?id=56603
+https://allinonereborn.xyz/iptv-web/live23.php?id=56603
 
 #EXTINF:-1 tvg-id="45879" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1153.jpg" group-title="INDIA HINDI",GNT TV
-https://allinonereborn.xyz/iptv-web/live.php?id=45879
+https://allinonereborn.xyz/iptv-web/live23.php?id=45879
 
 #EXTINF:-1 tvg-id="57060" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2250.jpg" group-title="INDIA HINDI",News X
-https://allinonereborn.xyz/iptv-web/live.php?id=57060
+https://allinonereborn.xyz/iptv-web/live23.php?id=57060
 
 #EXTINF:-1 tvg-id="57096" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Y Channel Plus Canada
-https://allinonereborn.xyz/iptv-web/live.php?id=57096
+https://allinonereborn.xyz/iptv-web/live23.php?id=57096
 
 #EXTINF:-1 tvg-id="57685" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8642.png" group-title="INDIA HINDI",TV9 Bharat Varsh
-https://allinonereborn.xyz/iptv-web/live.php?id=57685
+https://allinonereborn.xyz/iptv-web/live23.php?id=57685
 
 #EXTINF:-1 tvg-id="37163" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3678.jpg" group-title="INDIA HINDI",News State
-https://allinonereborn.xyz/iptv-web/live.php?id=37163
+https://allinonereborn.xyz/iptv-web/live23.php?id=37163
 
 #EXTINF:-1 tvg-id="47064" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2206.jpg" group-title="INDIA HINDI",Lok Sabha
-https://allinonereborn.xyz/iptv-web/live.php?id=47064
+https://allinonereborn.xyz/iptv-web/live23.php?id=47064
 
 #EXTINF:-1 tvg-id="12590" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2208.jpg" group-title="INDIA HINDI",Rajya Sabha
-https://allinonereborn.xyz/iptv-web/live.php?id=12590
+https://allinonereborn.xyz/iptv-web/live23.php?id=12590
 
 #EXTINF:-1 tvg-id="55221" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Music Masti
-https://allinonereborn.xyz/iptv-web/live.php?id=55221
+https://allinonereborn.xyz/iptv-web/live23.php?id=55221
 
 #EXTINF:-1 tvg-id="13868" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/285.jpg" group-title="INDIA HINDI",Food Food
-https://allinonereborn.xyz/iptv-web/live.php?id=13868
+https://allinonereborn.xyz/iptv-web/live23.php?id=13868
 
 #EXTINF:-1 tvg-id="48079" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1537.jpg" group-title="INDIA HINDI",Food Food-India
-https://allinonereborn.xyz/iptv-web/live.php?id=48079
+https://allinonereborn.xyz/iptv-web/live23.php?id=48079
 
 #EXTINF:-1 tvg-id="56615" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/178.jpg" group-title="INDIA HINDI",Zing
-https://allinonereborn.xyz/iptv-web/live.php?id=56615
+https://allinonereborn.xyz/iptv-web/live23.php?id=56615
 
 #EXTINF:-1 tvg-id="50454" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/69.jpg" group-title="INDIA HINDI",9X Jalwa
-https://allinonereborn.xyz/iptv-web/live.php?id=50454
+https://allinonereborn.xyz/iptv-web/live23.php?id=50454
 
 #EXTINF:-1 tvg-id="37633" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/235.jpg" group-title="INDIA HINDI",B4U Music
-https://allinonereborn.xyz/iptv-web/live.php?id=37633
+https://allinonereborn.xyz/iptv-web/live23.php?id=37633
 
 #EXTINF:-1 tvg-id="45899" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/649.jpg" group-title="INDIA HINDI",9XM
-https://allinonereborn.xyz/iptv-web/live.php?id=45899
+https://allinonereborn.xyz/iptv-web/live23.php?id=45899
 
 #EXTINF:-1 tvg-id="36728" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3608.jpg" group-title="INDIA HINDI",Zee Ganga
-https://allinonereborn.xyz/iptv-web/live.php?id=36728
+https://allinonereborn.xyz/iptv-web/live23.php?id=36728
 
 #EXTINF:-1 tvg-id="48104" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",B4U Kadak
-https://allinonereborn.xyz/iptv-web/live.php?id=48104
+https://allinonereborn.xyz/iptv-web/live23.php?id=48104
 
 #EXTINF:-1 tvg-id="50464" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/61.jpg" group-title="INDIA HINDI",Zoom
-https://allinonereborn.xyz/iptv-web/live.php?id=50464
+https://allinonereborn.xyz/iptv-web/live23.php?id=50464
 
 #EXTINF:-1 tvg-id="45809" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1027.jpg" group-title="INDIA HINDI",MTV India
-https://allinonereborn.xyz/iptv-web/live.php?id=45809
+https://allinonereborn.xyz/iptv-web/live23.php?id=45809
 
 #EXTINF:-1 tvg-id="61086" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11640.png" group-title="INDIA HINDI",MASTI STARZ
-https://allinonereborn.xyz/iptv-web/live.php?id=61086
+https://allinonereborn.xyz/iptv-web/live23.php?id=61086
 
 #EXTINF:-1 tvg-id="45904" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/568.jpg" group-title="INDIA HINDI",Music India
-https://allinonereborn.xyz/iptv-web/live.php?id=45904
+https://allinonereborn.xyz/iptv-web/live23.php?id=45904
 
 #EXTINF:-1 tvg-id="6087" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",***SPIRITUAL***
-https://allinonereborn.xyz/iptv-web/live.php?id=6087
+https://allinonereborn.xyz/iptv-web/live23.php?id=6087
 
 #EXTINF:-1 tvg-id="45954" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/184.jpg" group-title="INDIA HINDI",Divya
-https://allinonereborn.xyz/iptv-web/live.php?id=45954
+https://allinonereborn.xyz/iptv-web/live23.php?id=45954
 
 #EXTINF:-1 tvg-id="13542" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2238.jpg" group-title="INDIA HINDI",MH1 Sharaddha
-https://allinonereborn.xyz/iptv-web/live.php?id=13542
+https://allinonereborn.xyz/iptv-web/live23.php?id=13542
 
 #EXTINF:-1 tvg-id="17277" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/973.jpg" group-title="INDIA HINDI",Aastha India
-https://allinonereborn.xyz/iptv-web/live.php?id=17277
+https://allinonereborn.xyz/iptv-web/live23.php?id=17277
 
 #EXTINF:-1 tvg-id="6836" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1138.jpg" group-title="INDIA HINDI",Aastha-USA
-https://allinonereborn.xyz/iptv-web/live.php?id=6836
+https://allinonereborn.xyz/iptv-web/live23.php?id=6836
 
 #EXTINF:-1 tvg-id="15761" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1459.jpg" group-title="INDIA HINDI",Aastha Bhajan
-https://allinonereborn.xyz/iptv-web/live.php?id=15761
+https://allinonereborn.xyz/iptv-web/live23.php?id=15761
 
 #EXTINF:-1 tvg-id="45959" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1082.jpg" group-title="INDIA HINDI",Sanskar
-https://allinonereborn.xyz/iptv-web/live.php?id=45959
+https://allinonereborn.xyz/iptv-web/live23.php?id=45959
 
 #EXTINF:-1 tvg-id="58364" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1547.png" group-title="INDIA HINDI",Epic
-https://allinonereborn.xyz/iptv-web/live.php?id=58364
+https://allinonereborn.xyz/iptv-web/live23.php?id=58364
 
 #EXTINF:-1 tvg-id="8207" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1122.jpg" group-title="INDIA HINDI",Satsang
-https://allinonereborn.xyz/iptv-web/live.php?id=8207
+https://allinonereborn.xyz/iptv-web/live23.php?id=8207
 
 #EXTINF:-1 tvg-id="17272" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1461.jpg" group-title="INDIA HINDI",Vedic
-https://allinonereborn.xyz/iptv-web/live.php?id=17272
+https://allinonereborn.xyz/iptv-web/live23.php?id=17272
 
 #EXTINF:-1 tvg-id="56870" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2542.png" group-title="INDIA HINDI",Arihant
-https://allinonereborn.xyz/iptv-web/live.php?id=56870
+https://allinonereborn.xyz/iptv-web/live23.php?id=56870
 
 #EXTINF:-1 tvg-id="47059" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3443.jpg" group-title="INDIA HINDI",Hindu Sabha Temple
-https://allinonereborn.xyz/iptv-web/live.php?id=47059
+https://allinonereborn.xyz/iptv-web/live23.php?id=47059
 
 #EXTINF:-1 tvg-id="42143" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3818.jpg" group-title="INDIA HINDI",Dangal
-https://allinonereborn.xyz/iptv-web/live.php?id=42143
+https://allinonereborn.xyz/iptv-web/live23.php?id=42143
 
 #EXTINF:-1 tvg-id="57044" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3853.jpg" group-title="INDIA HINDI",Hare Krsna
-https://allinonereborn.xyz/iptv-web/live.php?id=57044
+https://allinonereborn.xyz/iptv-web/live23.php?id=57044
 
 #EXTINF:-1 tvg-id="42003" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3843.jpg" group-title="INDIA HINDI",Shubh TV
-https://allinonereborn.xyz/iptv-web/live.php?id=42003
+https://allinonereborn.xyz/iptv-web/live23.php?id=42003
 
 #EXTINF:-1 tvg-id="39848" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3838.jpg" group-title="INDIA HINDI",Sadhna TV
-https://allinonereborn.xyz/iptv-web/live.php?id=39848
+https://allinonereborn.xyz/iptv-web/live23.php?id=39848
 
 #EXTINF:-1 tvg-id="44764" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3863.jpg" group-title="INDIA HINDI",Sarv Dharam Sangam
-https://allinonereborn.xyz/iptv-web/live.php?id=44764
+https://allinonereborn.xyz/iptv-web/live23.php?id=44764
 
 #EXTINF:-1 tvg-id="58045" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Hindu heritage centre
-https://allinonereborn.xyz/iptv-web/live.php?id=58045
+https://allinonereborn.xyz/iptv-web/live23.php?id=58045
 
 #EXTINF:-1 tvg-id="58081" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Hindu Samaj Temple Hamilton
-https://allinonereborn.xyz/iptv-web/live.php?id=58081
+https://allinonereborn.xyz/iptv-web/live23.php?id=58081
 
 #EXTINF:-1 tvg-id="52004" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",ChannelWin
-https://allinonereborn.xyz/iptv-web/live.php?id=52004
+https://allinonereborn.xyz/iptv-web/live23.php?id=52004
 
 #EXTINF:-1 tvg-id="51904" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",Arya Sandesh HD
-https://allinonereborn.xyz/iptv-web/live.php?id=51904
+https://allinonereborn.xyz/iptv-web/live23.php?id=51904
 
 #EXTINF:-1 tvg-id="6435" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="INDIA HINDI",***ASSORTED***
-https://allinonereborn.xyz/iptv-web/live.php?id=6435
+https://allinonereborn.xyz/iptv-web/live23.php?id=6435
 
 #EXTINF:-1 tvg-id="50729" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3673.jpg" group-title="INDIA HINDI",Star Utsav India
-https://allinonereborn.xyz/iptv-web/live.php?id=50729
+https://allinonereborn.xyz/iptv-web/live23.php?id=50729
 
 #EXTINF:-1 tvg-id="55031" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4683.jpg" group-title="INDIA HINDI",Rishtey Cineplex Europe
-https://allinonereborn.xyz/iptv-web/live.php?id=55031
+https://allinonereborn.xyz/iptv-web/live23.php?id=55031
 
 #EXTINF:-1 tvg-id="37078" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3653.png" group-title="INDIA HINDI",Dabang
-https://allinonereborn.xyz/iptv-web/live.php?id=37078
+https://allinonereborn.xyz/iptv-web/live23.php?id=37078
 
 #EXTINF:-1 tvg-id="41823" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1362.jpg" group-title="INDIA HINDI",Maha Movie
-https://allinonereborn.xyz/iptv-web/live.php?id=41823
+https://allinonereborn.xyz/iptv-web/live23.php?id=41823
 
 #EXTINF:-1 tvg-id="41218" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4913.jpg" group-title="INDIA HINDI",Manoranjan Movies
-https://allinonereborn.xyz/iptv-web/live.php?id=41218
+https://allinonereborn.xyz/iptv-web/live23.php?id=41218
 
 #EXTINF:-1 tvg-id="56695" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3563.png" group-title="INDIA HINDI",Zee Anmol Cinema
-https://allinonereborn.xyz/iptv-web/live.php?id=56695
+https://allinonereborn.xyz/iptv-web/live23.php?id=56695
 
 #EXTINF:-1 tvg-id="55797" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1637.jpg" group-title="INDIA HINDI",Zee Action
-https://allinonereborn.xyz/iptv-web/live.php?id=55797
+https://allinonereborn.xyz/iptv-web/live23.php?id=55797
 
 #EXTINF:-1 tvg-id="55562" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8077.jpg" group-title="INDIA HINDI",Zee 24 Taas
-https://allinonereborn.xyz/iptv-web/live.php?id=55562
+https://allinonereborn.xyz/iptv-web/live23.php?id=55562
 
 #EXTINF:-1 tvg-id="37148" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3663.png" group-title="INDIA HINDI",Zee Hindustan
-https://allinonereborn.xyz/iptv-web/live.php?id=37148
+https://allinonereborn.xyz/iptv-web/live23.php?id=37148
 
 #EXTINF:-1 tvg-id="37153" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3668.jpg" group-title="INDIA HINDI",Mastii
-https://allinonereborn.xyz/iptv-web/live.php?id=37153
+https://allinonereborn.xyz/iptv-web/live23.php?id=37153
 
 #EXTINF:-1 tvg-id="48869" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3848.jpg" group-title="INDIA HINDI",E24
-https://allinonereborn.xyz/iptv-web/live.php?id=48869
+https://allinonereborn.xyz/iptv-web/live23.php?id=48869
 
 #EXTINF:-1 tvg-id="50474" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2188.jpg" group-title="INDIA HINDI",CNBC TV18
-https://allinonereborn.xyz/iptv-web/live.php?id=50474
+https://allinonereborn.xyz/iptv-web/live23.php?id=50474
 
 #EXTINF:-1 tvg-id="46699" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4003.jpg" group-title="INDIA HINDI",IBC 24
-https://allinonereborn.xyz/iptv-web/live.php?id=46699
+https://allinonereborn.xyz/iptv-web/live23.php?id=46699
 
 #EXTINF:-1 tvg-id="38183" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4013.jpg" group-title="INDIA HINDI",Janta TV
-https://allinonereborn.xyz/iptv-web/live.php?id=38183
+https://allinonereborn.xyz/iptv-web/live23.php?id=38183
 
 #EXTINF:-1 tvg-id="57979" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/9187.jpg" group-title="INDIA HINDI",JAN TV
-https://allinonereborn.xyz/iptv-web/live.php?id=57979
+https://allinonereborn.xyz/iptv-web/live23.php?id=57979
 
 #EXTINF:-1 tvg-id="46634" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/5018.png" group-title="INDIA HINDI",NDTV Profit
-https://allinonereborn.xyz/iptv-web/live.php?id=46634
+https://allinonereborn.xyz/iptv-web/live23.php?id=46634
 
 
 //===FROM PLAYLIV===//
@@ -803,7 +803,7 @@ https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/play
 https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bangla/logo/republic-bangla-400x200.png" group-title="LIFES GOOD 🍟",Republic Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
-https://vg-republictvlive.akamaized.net/ptnr-lgtv/title-Republic_Bangla_Non_SSAI_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/91b8741b-e610-4e2e-92c3-c848f1ae7d8a/main.m3u8
+https://vg-republictvlive23.akamaized.net/ptnr-lgtv/title-Republic_Bangla_Non_SSAI_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/91b8741b-e610-4e2e-92c3-c848f1ae7d8a/main.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Marathi_400x200-px-update.jpg" group-title="LIFES GOOD 🍟",TV9 Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9marathi-lgin/playlist.m3u8
@@ -842,7 +842,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9telugu-lgi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9kannada-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-kannada/logo/Republic-kannada_Logo_400x200.png" group-title="LIFES GOOD 🍟",Republic Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
-https://vg-republictvlive.akamaized.net/ptnr-lg/title-Republic_Kannada_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f3abdf19-b928-47c5-b8fd-5830d6baca4a/main.m3u8
+https://vg-republictvlive23.akamaized.net/ptnr-lg/title-Republic_Kannada_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f3abdf19-b928-47c5-b8fd-5830d6baca4a/main.m3u8
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/suvarna-news/logo/400x200.png" group-title="LIFES GOOD 🍟",Suvarna News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
 https://asianetnews.vgcdn.net/ptnr-lg/title-Suvarna_News-LGIndia/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd1eaf3d-6ff3-4f96-8dfc-a9b9cfbe36ab/playlist.m3u8
@@ -863,7 +863,7 @@ https://amg00866-amg00866c1-lg-in-3521.playouts.now.amagi.tv/playlist/amg00866-t
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvarsh-lgin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bharat/logo/republic-bharat-400x200.png" group-title="LIFES GOOD 🍟",Republic Bharat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
-https://vg-republictvlive.akamaized.net/ptnr-lg/title-Republic_Bharat_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/95994198-9aa0-4de3-a0c5-c021653064b8/playlist.m3u8
+https://vg-republictvlive23.akamaized.net/ptnr-lg/title-Republic_Bharat_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/95994198-9aa0-4de3-a0c5-c021653064b8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/NEWS/Channellogo200x400.png" group-title="LIFES GOOD 🍟",ABP News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
 https://amg01043-abpnewsnetwork-amg01043c1-lg-in-2040.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpnews-lgin/playlist.m3u8
@@ -905,7 +905,7 @@ https://vglivessai.akamaized.net/ptnr-lg/title-India_Daily_24*7/sg/v1/master/611
 https://amg13643-amg13643c4-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c4-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-tv/logo/republic-tv-400x200.png" group-title="LIFES GOOD 🍟",Republic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
-https://vg-republictvlive.akamaized.net/ptnr-lg/title-Republic_TV_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e40c1749-d5a7-435b-8739-1bf6b70fb95b/playlist.m3u8
+https://vg-republictvlive23.akamaized.net/ptnr-lg/title-Republic_TV_Playlist/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e40c1749-d5a7-435b-8739-1bf6b70fb95b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/IndiaToday/ITTV-400x200.png" group-title="LIFES GOOD 🍟",India Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
 https://amg00644-tvtoday-amg00644c1-lg-in-3506.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-lgin/playlist.m3u8
@@ -1125,7 +1125,7 @@ WAVES
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 #EXTINF:-1 tvg-id="14854" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp" group-title="DD FREE DISH 🍕", India TV News
-https://vg-indiatvlive.akamaized.net/ptnr-waves/title-IndiaTV_MI_Waves/vglive-sk-394591/playlist.m3u8
+https://vg-indiatvlive23.akamaized.net/ptnr-waves/title-IndiaTV_MI_Waves/vglive-sk-394591/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14582" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp" group-title="DD FREE DISH 🍕", Zee News
 https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
@@ -1179,7 +1179,7 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 
 #EXTINF:-1 tvg-id="10595" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="DD FREE DISH 🍕", TV9 BHARATVARSH
-https://vg-tv9live.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
+https://vg-tv9live23.akamaized.net/ptnr-dd_free_dish/title-TV9_Bharatvarsh_DD/vglive-sk-501555/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10648" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp" group-title="DD FREE DISH 🍕", ABZY DHAKAD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
@@ -1470,5 +1470,6 @@ https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_inde
 #
 # ======= CATEGORY: JIOSTAR =======
 #
+
 
 
