@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://m.media-amazon.com/images/M/MV5BOTJjMjZjNTUtMzZlMC00MTUxLWIzOTMtZDkzMDY3ODY3ZjQxXkEyXkFqcGc@._V1_.jpg" group-title="3 HOURS MOVIES",HAQ 2025
-https://be4235.rcr32.ams02.i8yz83pn.com/hls2/01/10616/fhrpfy4c91sf_h/master.m3u8?t=RcT5aNCwzgVBk229n0Rb86Mvyf_kfG1LFpfP0fgps8A&s=1768568696&e=10800&f=53080361&srv=1055&asn=18209&sp=4000&p=0
-#EXTM3U
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aastha_Logo.svg/2498px-Aastha_Logo.svg.png" group-title="A1 | HD SELECTED",AASTHA HD
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Sanskar_TV_logo.png/640px-Sanskar_TV_logo.png" group-title="A1 | HD SELECTED",SANSKAR HD
@@ -150,6 +147,72 @@ https://api.m3use.projectmoose.online/m3u/Demonio047/047tv/67f95728229d18dc241a6
 https://api.m3use.projectmoose.online/m3u/Demonio047/047tv/67f4df086546a2110072f47c.m3u8?uid=Royalland&pkey=BW7brz
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | INTERNATIONAL" tvg-logo="https://xymister.serv00.net/picon/5002_0_1_9376_752B_EC_0_0_0_0.png", Deluxe Deutschpop HD
 https://api.m3use.projectmoose.online/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415.m3u8?uid=Royalland&pkey=BW7brz
+
+//=====AMANJIT SONY NETWORK=====//
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-title="SONY NETWORK", SET HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009246&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="SONY NETWORK", Sony SAB HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="SONY NETWORK", Sony Marathi
+https://mhdtvhub.com/sliv/stream.php?id=1000009259&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="SONY NETWORK", Sony Pal
+https://mhdtvhub.com/sliv/stream.php?id=1000009273&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="SONY NETWORK", Sony Aath
+https://mhdtvhub.com/sliv/stream.php?id=1000009255&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="SONY NETWORK", Sony Yay
+https://mhdtvhub.com/sliv/stream.php?id=1000001971&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="SONY NETWORK", Sony MAX HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009247&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="SONY NETWORK", Sony MAX
+https://mhdtvhub.com/sliv/stream.php?id=1000009249&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="SONY NETWORK", Sony MAX 2
+https://mhdtvhub.com/sliv/stream.php?id=1000009253&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="SONY NETWORK", Sony WAH
+https://mhdtvhub.com/sliv/stream.php?id=1000044878&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="SONY NETWORK", Sony PIX HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009258&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png" group-title="SONY NETWORK", Sony Sports Ten 1 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009276&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="SONY NETWORK", Sony Sports Ten 1
+https://mhdtvhub.com/sliv/stream.php?id=1000009280&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="SONY NETWORK", Sony Sports Ten 2
+https://mhdtvhub.com/sliv/stream.php?id=1000009279&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="SONY NETWORK", Sony Sports Ten 3
+https://mhdtvhub.com/sliv/stream.php?id=1000009283&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="SONY NETWORK", Sony Sports Ten 4
+https://mhdtvhub.com/sliv/stream.php?id=1000119187&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-title="SONY NETWORK", Sony Sports Ten 5
+https://mhdtvhub.com/sliv/stream.php?id=1000009281&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png" group-title="SONY NETWORK", Sony Sports Ten 2 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009277&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" group-title="SONY NETWORK", Sony Sports Ten 3 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009278&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-title="SONY NETWORK", Sony Sports Ten 4 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000119186&e=.m3u8
+
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/19_270.png" group-title="SONY NETWORK", Sony Sports Ten 5 HD
+https://mhdtvhub.com/sliv/stream.php?id=1000009275&e=.m3u8
 
 //===FROM PLAYLIV===//
 //===IND HINDI TATA TV FROM PLAYLIV===//
