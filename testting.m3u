@@ -148,502 +148,1276 @@ https://api.m3use.projectmoose.online/m3u/Demonio047/047tv/67f4df086546a2110072f
 #EXTINF:-1 group-logo="https://i.ibb.co/9kpDSf9N/Chat-GPT-Image-Jul-2-2025-02-59-10-PM-1.png" tvg-id="" group-title="A1 | INTERNATIONAL" tvg-logo="https://xymister.serv00.net/picon/5002_0_1_9376_752B_EC_0_0_0_0.png", Deluxe Deutschpop HD
 https://api.m3use.projectmoose.online/m3u/Demonio047/047tv/67f4df2eb952efcee8e16415.m3u8?uid=Royalland&pkey=BW7brz
 
-//=====AMANJIT SONY NETWORK=====//
-#EXTM3U
-
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/4_244.png" group-title="SONY NETWORK", SET HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009246&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/33_247.png" group-title="SONY NETWORK", Sony SAB HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/36_260.png" group-title="SONY NETWORK", Sony Marathi
-https://mhdtvhub.com/sliv/stream.php?id=1000009259&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/6_257.png" group-title="SONY NETWORK", Sony Pal
-https://mhdtvhub.com/sliv/stream.php?id=1000009273&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/9_255.png" group-title="SONY NETWORK", Sony Aath
-https://mhdtvhub.com/sliv/stream.php?id=1000009255&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png" group-title="SONY NETWORK", Sony Yay
-https://mhdtvhub.com/sliv/stream.php?id=1000001971&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/35_249.png" group-title="SONY NETWORK", Sony MAX HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009247&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/1_248.png" group-title="SONY NETWORK", Sony MAX
-https://mhdtvhub.com/sliv/stream.php?id=1000009249&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/2_250.png" group-title="SONY NETWORK", Sony MAX 2
-https://mhdtvhub.com/sliv/stream.php?id=1000009253&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/10_258.png" group-title="SONY NETWORK", Sony WAH
-https://mhdtvhub.com/sliv/stream.php?id=1000044878&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/34_252.png" group-title="SONY NETWORK", Sony PIX HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009258&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/21_266.png" group-title="SONY NETWORK", Sony Sports Ten 1 HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009276&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="SONY NETWORK", Sony Sports Ten 1
-https://mhdtvhub.com/sliv/stream.php?id=1000009280&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="SONY NETWORK", Sony Sports Ten 2
-https://mhdtvhub.com/sliv/stream.php?id=1000009279&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/24_274.png" group-title="SONY NETWORK", Sony Sports Ten 3
-https://mhdtvhub.com/sliv/stream.php?id=1000009283&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png" group-title="SONY NETWORK", Sony Sports Ten 4
-https://mhdtvhub.com/sliv/stream.php?id=1000119187&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/18_265.png" group-title="SONY NETWORK", Sony Sports Ten 5
-https://mhdtvhub.com/sliv/stream.php?id=1000009281&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/23_267.png" group-title="SONY NETWORK", Sony Sports Ten 2 HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009277&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/25_276.png" group-title="SONY NETWORK", Sony Sports Ten 3 HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009278&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/39_277.png" group-title="SONY NETWORK", Sony Sports Ten 4 HD
-https://mhdtvhub.com/sliv/stream.php?id=1000119186&e=.m3u8
-
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/19_270.png" group-title="SONY NETWORK", Sony Sports Ten 5 HD
-https://mhdtvhub.com/sliv/stream.php?id=1000009275&e=.m3u8
-
 //===FROM PLAYLIV===//
 //===IND HINDI TATA TV FROM PLAYLIV===//
-#EXTINF:-1 tvg-id="61249" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/623.jpg" group-title="Hindi",Zee TV HD (North America)
-https://allinonereborn.online/iptv-web/stream.php?id=61249
+#EXTM3U
+#EXTINF:-1 tvg-id="66788" tvg-logo="https://www.thetechedvocate.org/wp-content/uploads/2023/05/iptv.png" group-title="HINDI | INDIA",SMART | NAVRATRI SPECIAL
+https://public.kliv.fun/TPTV8A/play.php?id=66788
 
-#EXTINF:-1 tvg-id="57695" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Zee TV HD-India #2
-https://allinonereborn.online/iptv-web/stream.php?id=57695
+#EXTINF:-1 tvg-id="61489" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61267.png" group-title="HINDI | INDIA",SMART | GAYATRI MANTRA
+https://public.kliv.fun/TPTV8A/play.php?id=61489
 
-#EXTINF:-1 tvg-id="13362" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/901.jpg" group-title="Hindi",Zee TV HD-UK
-https://allinonereborn.online/iptv-web/stream.php?id=13362
+#EXTINF:-1 tvg-id="61490" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61268.png" group-title="HINDI | INDIA",SMART | OM CHANTING
+https://public.kliv.fun/TPTV8A/play.php?id=61490
 
-#EXTINF:-1 tvg-id="57568" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/650.png" group-title="Hindi",Star Plus HD USA
-https://allinonereborn.online/iptv-web/stream.php?id=57568
+#EXTINF:-1 tvg-id="66790" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67527.jpg" group-title="HINDI | INDIA",BIGG BOSS 24x7
+https://public.kliv.fun/TPTV8A/play.php?id=66790
 
-#EXTINF:-1 tvg-id="56910" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1124.jpg" group-title="Hindi",Star Plus-UK (cc)
-https://allinonereborn.online/iptv-web/stream.php?id=56910
+#EXTINF:-1 tvg-id="61526" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61304.png" group-title="HINDI | INDIA",SMART | BANGERS
+https://public.kliv.fun/TPTV8A/play.php?id=61526
 
-#EXTINF:-1 tvg-id="8510" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/936.jpg" group-title="Hindi",Star Plus HD India 4K
-https://allinonereborn.online/iptv-web/stream.php?id=8510
+#EXTINF:-1 tvg-id="46149" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/45939.jpg" group-title="HINDI | INDIA",SMART | MELODIES
+https://public.kliv.fun/TPTV8A/play.php?id=46149
 
-#EXTINF:-1 tvg-id="56591" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2719.jpg" group-title="Hindi",Star Plus HD-India #2
-https://allinonereborn.online/iptv-web/stream.php?id=56591
+#EXTINF:-1 tvg-id="61398" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61176.png" group-title="HINDI | INDIA",SMART | OLDIES
+https://public.kliv.fun/TPTV8A/play.php?id=61398
 
-#EXTINF:-1 tvg-id="53344" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/972.jpg" group-title="Hindi",Aapka Colors HD USA
-https://allinonereborn.online/iptv-web/stream.php?id=53344
+#EXTINF:-1 tvg-id="67526" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/50070.jpg" group-title="HINDI | INDIA",SMART | MOVIE CLUB
+https://public.kliv.fun/TPTV8A/play.php?id=67526
 
-#EXTINF:-1 tvg-id="54246" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Colors India 4K
-https://allinonereborn.online/iptv-web/stream.php?id=54246
+#EXTINF:-1 tvg-id="67527" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59308.jpg" group-title="HINDI | INDIA",SMART | BLOCKBUSTERS
+https://public.kliv.fun/TPTV8A/play.php?id=67527
 
-#EXTINF:-1 tvg-id="52499" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/829.jpg" group-title="Hindi",Colors India #2
-https://allinonereborn.online/iptv-web/stream.php?id=52499
+#EXTINF:-1 tvg-id="59875" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59659.png" group-title="HINDI | INDIA",SMART | TRUE 4K HINDI MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=59875
 
-#EXTINF:-1 tvg-id="61164" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/863.jpg" group-title="Hindi",Colors HD UK
-https://allinonereborn.online/iptv-web/stream.php?id=61164
+#EXTINF:-1 tvg-id="61808" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61577.jpg" group-title="HINDI | INDIA",SMART | TRUE 4K GOLD MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=61808
 
-#EXTINF:-1 tvg-id="54661" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/727.jpg" group-title="Hindi",Sony HD USA
-https://allinonereborn.online/iptv-web/stream.php?id=54661
+#EXTINF:-1 tvg-id="69030" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/69175.jpg" group-title="HINDI | INDIA",SMART | PREMIER MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=69030
 
-#EXTINF:-1 tvg-id="55852" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1531.png" group-title="Hindi",Sony HD-India #1 4K
-https://allinonereborn.online/iptv-web/stream.php?id=55852
+#EXTINF:-1 tvg-id="28056" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/16981.jpg" group-title="HINDI | INDIA",SMART | MOVIE - DESI BOYZ
+https://public.kliv.fun/TPTV8A/play.php?id=28056
 
-#EXTINF:-1 tvg-id="50689" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Sony HD-India #2
-https://allinonereborn.online/iptv-web/stream.php?id=50689
+#EXTINF:-1 tvg-id="24523" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24418.jpg" group-title="HINDI | INDIA",SMART | MOVIE - ULAJH
+https://public.kliv.fun/TPTV8A/play.php?id=24523
 
-#EXTINF:-1 tvg-id="55286" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/864.jpg" group-title="Hindi",Sony HD -UK
-https://allinonereborn.online/iptv-web/stream.php?id=55286
+#EXTINF:-1 tvg-id="17083" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/16984.png" group-title="HINDI | INDIA",SMART | HINDI CLASSIC MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=17083
 
-#EXTINF:-1 tvg-id="54466" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1324.jpg" group-title="Hindi",Star Bharat-India #1
-https://allinonereborn.online/iptv-web/stream.php?id=54466
+#EXTINF:-1 tvg-id="8585" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8501.png" group-title="HINDI | INDIA",SMART | HINDI CRIME MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=8585
 
-#EXTINF:-1 tvg-id="56843" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/937.jpg" group-title="Hindi",Star Bharat-India #2
-https://allinonereborn.online/iptv-web/stream.php?id=56843
+#EXTINF:-1 tvg-id="12211" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/12127.png" group-title="HINDI | INDIA",SMART | HINDI COMEDY MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=12211
 
-#EXTINF:-1 tvg-id="54811" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/214.jpg" group-title="Hindi",Star Bharat - USA
-https://allinonereborn.online/iptv-web/stream.php?id=54811
+#EXTINF:-1 tvg-id="12210" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/12126.png" group-title="HINDI | INDIA",SMART | HINDI DRAMA MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=12210
 
-#EXTINF:-1 tvg-id="34448" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3103.png" group-title="Hindi",SAB HD-UK
-https://allinonereborn.online/iptv-web/stream.php?id=34448
+#EXTINF:-1 tvg-id="24499" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24394.png" group-title="HINDI | INDIA",SMART | HINDI SOUTH DUBBED
+https://public.kliv.fun/TPTV8A/play.php?id=24499
 
-#EXTINF:-1 tvg-id="54706" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/865.png" group-title="Hindi",SAB HD India 4K
-https://allinonereborn.online/iptv-web/stream.php?id=54706
+#EXTINF:-1 tvg-id="61058" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60838.png" group-title="HINDI | INDIA",SMART | SOUTH HINDI DUBBED
+https://public.kliv.fun/TPTV8A/play.php?id=61058
 
-#EXTINF:-1 tvg-id="52144" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/855.jpg" group-title="Hindi",SAB-USA
-https://allinonereborn.online/iptv-web/stream.php?id=52144
+#EXTINF:-1 tvg-id="30955" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/30825.jpg" group-title="HINDI | INDIA",SMART | EVERGREEN CLASSICS
+https://public.kliv.fun/TPTV8A/play.php?id=30955
 
-#EXTINF:-1 tvg-id="60894" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11526.png" group-title="Hindi",Utsav Bharat
-https://allinonereborn.online/iptv-web/stream.php?id=60894
+#EXTINF:-1 tvg-id="25849" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/25744.png" group-title="HINDI | INDIA",SMART | HINDI ENGLISH DUBBED
+https://public.kliv.fun/TPTV8A/play.php?id=25849
 
-#EXTINF:-1 tvg-id="60888" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11520.png" group-title="Hindi",Utsav Plus
-https://allinonereborn.online/iptv-web/stream.php?id=60888
+#EXTINF:-1 tvg-id="59703" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59487.jpg" group-title="HINDI | INDIA",SMART | MATINEE SHOW
+https://public.kliv.fun/TPTV8A/play.php?id=59703
 
-#EXTINF:-1 tvg-id="56942" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/5484.jpg" group-title="Hindi",& Prive HD
-https://allinonereborn.online/iptv-web/stream.php?id=56942
+#EXTINF:-1 tvg-id="24475" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24370.png" group-title="HINDI | INDIA",SMART | NETFLIX SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=24475
 
-#EXTINF:-1 tvg-id="14426" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1126.jpg" group-title="Hindi",Sony Pix HD
-https://allinonereborn.online/iptv-web/stream.php?id=14426
+#EXTINF:-1 tvg-id="24481" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24376.png" group-title="HINDI | INDIA",SMART | VOOT SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=24481
 
-#EXTINF:-1 tvg-id="57680" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3098.jpg" group-title="Hindi",Mirror Now
-https://allinonereborn.online/iptv-web/stream.php?id=57680
+#EXTINF:-1 tvg-id="24478" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24373.png" group-title="HINDI | INDIA",SMART | HOTSTAR SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=24478
 
-#EXTINF:-1 tvg-id="14074" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2374.png" group-title="Hindi",Wion News-India
-https://allinonereborn.online/iptv-web/stream.php?id=14074
+#EXTINF:-1 tvg-id="28256" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28136.jpg" group-title="HINDI | INDIA",SMART | SONY LIV SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28256
 
-#EXTINF:-1 tvg-id="45659" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/967.png" group-title="Hindi",Star Gold Select HD-India
-https://allinonereborn.online/iptv-web/stream.php?id=45659
+#EXTINF:-1 tvg-id="28260" tvg-logo="https://www.thetechedvocate.org/wp-content/uploads/2023/05/iptv.png" group-title="HINDI | INDIA",SMART | ZEE 5 SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28260
 
-#EXTINF:-1 tvg-id="45679" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/866.jpg" group-title="Hindi",Star Gold HD-India
-https://allinonereborn.online/iptv-web/stream.php?id=45679
+#EXTINF:-1 tvg-id="28264" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28144.png" group-title="HINDI | INDIA",SMART | JIO HD SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28264
 
-#EXTINF:-1 tvg-id="44829" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/175.jpg" group-title="Hindi",Star Gold-UK
-https://allinonereborn.online/iptv-web/stream.php?id=44829
+#EXTINF:-1 tvg-id="28276" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28156.png" group-title="HINDI | INDIA",SMART | ALT BALAJI SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28276
 
-#EXTINF:-1 tvg-id="57574" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/177.jpg" group-title="Hindi",Zee Cinema-USA
-https://allinonereborn.online/iptv-web/stream.php?id=57574
+#EXTINF:-1 tvg-id="28268" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28148.jpg" group-title="HINDI | INDIA",SMART | MX PLAYER SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28268
 
-#EXTINF:-1 tvg-id="49719" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1025.png" group-title="India HD",Zee Cafe HD
-https://allinonereborn.online/iptv-web/stream.php?id=49719
+#EXTINF:-1 tvg-id="28272" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28152.png" group-title="HINDI | INDIA",SMART | AMAZON PRIME SERIES
+https://public.kliv.fun/TPTV8A/play.php?id=28272
 
-#EXTINF:-1 tvg-id="52594" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1031.jpg" group-title="Hindi",Zee Cinema HD-India
-https://allinonereborn.online/iptv-web/stream.php?id=52594
+#EXTINF:-1 tvg-id="61519" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61297.jpg" group-title="HINDI | INDIA",SMART | STANDUP COMEDY
+https://public.kliv.fun/TPTV8A/play.php?id=61519
 
-#EXTINF:-1 tvg-id="56699" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1026.jpg" group-title="Hindi",Zee  Bollywood Classic
-https://allinonereborn.online/iptv-web/stream.php?id=56699
+#EXTINF:-1 tvg-id="61473" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61251.jpg" group-title="HINDI | INDIA",SMART | HINDI COMEDY
+https://public.kliv.fun/TPTV8A/play.php?id=61473
 
-#EXTINF:-1 tvg-id="59454" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/179.jpg" group-title="Hindi",Set Max-USA
-https://allinonereborn.online/iptv-web/stream.php?id=59454
+#EXTINF:-1 tvg-id="61590" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61368.jpg" group-title="HINDI | INDIA",SMART | HINDI LOFI MIX
+https://public.kliv.fun/TPTV8A/play.php?id=61590
 
-#EXTINF:-1 tvg-id="53144" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3143.png" group-title="Hindi",Set Max-India #1
-https://allinonereborn.online/iptv-web/stream.php?id=53144
+#EXTINF:-1 tvg-id="63018" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62749.png" group-title="HINDI | INDIA",SMART | INFORMATIVE CHANNEL
+https://public.kliv.fun/TPTV8A/play.php?id=63018
 
-#EXTINF:-1 tvg-id="30484" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/974.png" group-title="Hindi",Set Max-India #2
-https://allinonereborn.online/iptv-web/stream.php?id=30484
+#EXTINF:-1 tvg-id="11723" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11639.jpg" group-title="HINDI | INDIA",MTV BEATS 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11723
 
-#EXTINF:-1 tvg-id="44849" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1136.jpg" group-title="Hindi",Set Max-UK
-https://allinonereborn.online/iptv-web/stream.php?id=44849
+#EXTINF:-1 tvg-id="8695" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8611.jpg" group-title="HINDI | INDIA",VISION BEATS
+https://public.kliv.fun/TPTV8A/play.php?id=8695
 
-#EXTINF:-1 tvg-id="50814" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/621.jpg" group-title="Hindi",Sony Max 2
-https://allinonereborn.online/iptv-web/stream.php?id=50814
+#EXTINF:-1 tvg-id="50295" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/50079.jpg" group-title="HINDI | INDIA",REMEMBERING 90's
+https://public.kliv.fun/TPTV8A/play.php?id=50295
 
-#EXTINF:-1 tvg-id="46629" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3618.jpg" group-title="Hindi",Sony Wah
-https://allinonereborn.online/iptv-web/stream.php?id=46629
+#EXTINF:-1 tvg-id="50013" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/49806.jpg" group-title="HINDI | INDIA",HUNGAMA MUSIC
+https://public.kliv.fun/TPTV8A/play.php?id=50013
 
-#EXTINF:-1 tvg-id="56595" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/217.jpg" group-title="Hindi",B4U Movies USA
-https://allinonereborn.online/iptv-web/stream.php?id=56595
+#EXTINF:-1 tvg-id="11762" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11678.jpg" group-title="HINDI | INDIA",HINDI HITS 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11762
 
-#EXTINF:-1 tvg-id="39533" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2124.jpg" group-title="Hindi",B4U Movies-India
-https://allinonereborn.online/iptv-web/stream.php?id=39533
+#EXTINF:-1 tvg-id="12202" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/12118.jpg" group-title="HINDI | INDIA",BOLLYONE 4K
+https://public.kliv.fun/TPTV8A/play.php?id=12202
 
-#EXTINF:-1 tvg-id="56691" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1154.jpg" group-title="Hindi",Zee Anmol
-https://allinonereborn.online/iptv-web/stream.php?id=56691
+#EXTINF:-1 tvg-id="8644" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8560.jpg" group-title="HINDI | INDIA",ATN CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8644
 
-#EXTINF:-1 tvg-id="48724" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2196.jpg" group-title="Hindi",Colors Cineplex India
-https://allinonereborn.online/iptv-web/stream.php?id=48724
+#EXTINF:-1 tvg-id="2792" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2709.jpg" group-title="HINDI | INDIA",SONY TV USA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=2792
 
-#EXTINF:-1 tvg-id="44114" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/749.png" group-title="Hindi",Colors Cineplex USA
-https://allinonereborn.online/iptv-web/stream.php?id=44114
+#EXTINF:-1 tvg-id="8650" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8566.jpg" group-title="HINDI | INDIA",SONY CANADA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=8650
 
-#EXTINF:-1 tvg-id="45749" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1152.png" group-title="Hindi",And Picture HD
-https://allinonereborn.online/iptv-web/stream.php?id=45749
+#EXTINF:-1 tvg-id="11673" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11589.jpg" group-title="HINDI | INDIA",SONY TV INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11673
 
-#EXTINF:-1 tvg-id="51844" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",And & Flix HD
-https://allinonereborn.online/iptv-web/stream.php?id=51844
+#EXTINF:-1 tvg-id="62357" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2919.jpg" group-title="HINDI | INDIA",SONY TV UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=62357
 
-#EXTINF:-1 tvg-id="55757" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8172.jpg" group-title="Hindi",Andtv -USA
-https://allinonereborn.online/iptv-web/stream.php?id=55757
+#EXTINF:-1 tvg-id="9088" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9004.jpg" group-title="HINDI | INDIA",SONY SAB TV USA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=9088
 
-#EXTINF:-1 tvg-id="60666" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",And XpLore 4k
-https://allinonereborn.online/iptv-web/stream.php?id=60666
+#EXTINF:-1 tvg-id="8684" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8600.jpg" group-title="HINDI | INDIA",SAB TV CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8684
 
-#EXTINF:-1 tvg-id="56998" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1151.jpg" group-title="Hindi",And TV-Europe
-https://allinonereborn.online/iptv-web/stream.php?id=56998
+#EXTINF:-1 tvg-id="11672" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11588.jpg" group-title="HINDI | INDIA",SONY SAB TV 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11672
 
-#EXTINF:-1 tvg-id="57002" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",And TV-India #1
-https://allinonereborn.online/iptv-web/stream.php?id=57002
+#EXTINF:-1 tvg-id="11778" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11694.jpg" group-title="HINDI | INDIA",SONY SAB TV UK
+https://public.kliv.fun/TPTV8A/play.php?id=11778
 
-#EXTINF:-1 tvg-id="44874" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/63.jpg" group-title="Hindi",Sahara One-India
-https://allinonereborn.online/iptv-web/stream.php?id=44874
+#EXTINF:-1 tvg-id="2801" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2718.jpg" group-title="HINDI | INDIA",SONY PAL USA
+https://public.kliv.fun/TPTV8A/play.php?id=2801
 
-#EXTINF:-1 tvg-id="53139" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1128.jpg" group-title="Hindi",Sony Pal
-https://allinonereborn.online/iptv-web/stream.php?id=53139
+#EXTINF:-1 tvg-id="666" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/583.jpg" group-title="HINDI | INDIA",SONY PAL INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=666
 
-#EXTINF:-1 tvg-id="44889" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Siraj TV
-https://allinonereborn.online/iptv-web/stream.php?id=44889
+#EXTINF:-1 tvg-id="44157" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/43947.jpg" group-title="HINDI | INDIA",SONY KAL
+https://public.kliv.fun/TPTV8A/play.php?id=44157
 
-#EXTINF:-1 tvg-id="45759" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/180.jpg" group-title="Hindi",TV Asia HD
-https://allinonereborn.online/iptv-web/stream.php?id=45759
+#EXTINF:-1 tvg-id="12205" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/12121.jpg" group-title="HINDI | INDIA",STAR PLUS USA
+https://public.kliv.fun/TPTV8A/play.php?id=12205
 
-#EXTINF:-1 tvg-id="8595" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1114.jpg" group-title="Hindi",Rishtey-USA
-https://allinonereborn.online/iptv-web/stream.php?id=8595
+#EXTINF:-1 tvg-id="902" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/819.jpg" group-title="HINDI | INDIA",STAR PLUS INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=902
 
-#EXTINF:-1 tvg-id="57130" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Rishtey-India
-https://allinonereborn.online/iptv-web/stream.php?id=57130
+#EXTINF:-1 tvg-id="12204" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/12120.jpg" group-title="HINDI | INDIA",STAR PLUS UK
+https://public.kliv.fun/TPTV8A/play.php?id=12204
 
-#EXTINF:-1 tvg-id="55547" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Frontline HD
-https://allinonereborn.online/iptv-web/stream.php?id=55547
+#EXTINF:-1 tvg-id="66799" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67536.jpg" group-title="HINDI | INDIA",STAR BHARAT USA
+https://public.kliv.fun/TPTV8A/play.php?id=66799
 
-#EXTINF:-1 tvg-id="58346" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Republic Bharat HD
-https://allinonereborn.online/iptv-web/stream.php?id=58346
+#EXTINF:-1 tvg-id="11674" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11590.jpg" group-title="HINDI | INDIA",STAR BHARAT 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11674
 
-#EXTINF:-1 tvg-id="44119" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",JUS Hindi HD
-https://allinonereborn.online/iptv-web/stream.php?id=44119
+#EXTINF:-1 tvg-id="61042" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60823.jpg" group-title="HINDI | INDIA",STAR BHARAT CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=61042
 
-#EXTINF:-1 tvg-id="48069" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3488.jpg" group-title="Hindi",Sadhna Plus News
-https://allinonereborn.online/iptv-web/stream.php?id=48069
+#EXTINF:-1 tvg-id="762" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/679.jpg" group-title="HINDI | INDIA",STAR UTSAV INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=762
 
-#EXTINF:-1 tvg-id="33204" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/262.png" group-title="Hindi",Republic TV
-https://allinonereborn.online/iptv-web/stream.php?id=33204
+#EXTINF:-1 tvg-id="62515" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2923.jpg" group-title="HINDI | INDIA",UTSAV GOLD 4K
+https://public.kliv.fun/TPTV8A/play.php?id=62515
 
-#EXTINF:-1 tvg-id="48059" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/66.jpg" group-title="Hindi",Times Now
-https://allinonereborn.online/iptv-web/stream.php?id=48059
+#EXTINF:-1 tvg-id="60774" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60557.jpg" group-title="HINDI | INDIA",UTSAV PLUS USA
+https://public.kliv.fun/TPTV8A/play.php?id=60774
 
-#EXTINF:-1 tvg-id="45674" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/425.jpg" group-title="Hindi",ABP News
-https://allinonereborn.online/iptv-web/stream.php?id=45674
+#EXTINF:-1 tvg-id="3007" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2924.jpg" group-title="HINDI | INDIA",UTSAV PLUS UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=3007
 
-#EXTINF:-1 tvg-id="57279" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/144.jpg" group-title="Hindi",NDTV-USA
-https://allinonereborn.online/iptv-web/stream.php?id=57279
+#EXTINF:-1 tvg-id="11779" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11695.jpg" group-title="HINDI | INDIA",UTSAV BHARAT UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11779
 
-#EXTINF:-1 tvg-id="42123" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1129.jpg" group-title="Hindi",NDTV-India
-https://allinonereborn.online/iptv-web/stream.php?id=42123
+#EXTINF:-1 tvg-id="8662" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8578.jpg" group-title="HINDI | INDIA",COLORS CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8662
 
-#EXTINF:-1 tvg-id="50819" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/185.png" group-title="Hindi",News 18
-https://allinonereborn.online/iptv-web/stream.php?id=50819
+#EXTINF:-1 tvg-id="2766" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2683.jpg" group-title="HINDI | INDIA",AAPKA COLORS USA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=2766
 
-#EXTINF:-1 tvg-id="47964" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/65.jpg" group-title="Hindi",India Today
-https://allinonereborn.online/iptv-web/stream.php?id=47964
+#EXTINF:-1 tvg-id="11635" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11551.jpg" group-title="HINDI | INDIA",COLORS TV INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11635
 
-#EXTINF:-1 tvg-id="12288" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/699.jpg" group-title="Hindi",Zee News
-https://allinonereborn.online/iptv-web/stream.php?id=12288
+#EXTINF:-1 tvg-id="67156" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67667.jpg" group-title="HINDI | INDIA",COLORS CINEPLEX UK
+https://public.kliv.fun/TPTV8A/play.php?id=67156
 
-#EXTINF:-1 tvg-id="47999" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/559.jpg" group-title="Hindi",ET Now
-https://allinonereborn.online/iptv-web/stream.php?id=47999
+#EXTINF:-1 tvg-id="67087" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2742.jpg" group-title="HINDI | INDIA",COLORS TV UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=67087
 
-#EXTINF:-1 tvg-id="50684" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/297.jpg" group-title="Hindi",CNN NEWS 18
-https://allinonereborn.online/iptv-web/stream.php?id=50684
+#EXTINF:-1 tvg-id="2770" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2687.jpg" group-title="HINDI | INDIA",COLORS CINEPLEX USA
+https://public.kliv.fun/TPTV8A/play.php?id=2770
 
-#EXTINF:-1 tvg-id="https://dwby15d04agvq.cloudfront.net/index_5.m3u8" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1029.jpg" group-title="Hindi",Zee Business
-https://allinonereborn.online/iptv-web/stream.php?id=https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="11711" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11627.jpg" group-title="HINDI | INDIA",COLORS CINEPLEX 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11711
 
-#EXTINF:-1 tvg-id="56958" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",AAJ TAK HD 4K
-https://allinonereborn.online/iptv-web/stream.php?id=56958
+#EXTINF:-1 tvg-id="8665" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8581.jpg" group-title="HINDI | INDIA",COLORS RISHTEY CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8665
 
-#EXTINF:-1 tvg-id="55507" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/67.jpg" group-title="Hindi",Aajtak-USA
-https://allinonereborn.online/iptv-web/stream.php?id=55507
+#EXTINF:-1 tvg-id="2771" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2688.jpg" group-title="HINDI | INDIA",COLORS RISHTEY
+https://public.kliv.fun/TPTV8A/play.php?id=2771
 
-#EXTINF:-1 tvg-id="56914" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1047.jpg" group-title="Hindi",Aajtak-India
-https://allinonereborn.online/iptv-web/stream.php?id=56914
+#EXTINF:-1 tvg-id="61596" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61374.jpg" group-title="HINDI | INDIA",COLORS RISHTEY USA
+https://public.kliv.fun/TPTV8A/play.php?id=61596
 
-#EXTINF:-1 tvg-id="30494" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/506.jpg" group-title="Hindi",DD News
-https://allinonereborn.online/iptv-web/stream.php?id=30494
+#EXTINF:-1 tvg-id="11774" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11690.jpg" group-title="HINDI | INDIA",COLORS RISHTEY UK
+https://public.kliv.fun/TPTV8A/play.php?id=11774
 
-#EXTINF:-1 tvg-id="45769" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1329.jpg" group-title="Hindi",DD National
-https://allinonereborn.online/iptv-web/stream.php?id=45769
+#EXTINF:-1 tvg-id="771" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/688.jpg" group-title="HINDI | INDIA",COLORS INFINITY HD
+https://public.kliv.fun/TPTV8A/play.php?id=771
 
-#EXTINF:-1 tvg-id="35283" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1605.jpg" group-title="Hindi",DD India
-https://allinonereborn.online/iptv-web/stream.php?id=35283
+#EXTINF:-1 tvg-id="16942" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/16855.jpg" group-title="HINDI | INDIA",ZEE TV USA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=16942
 
-#EXTINF:-1 tvg-id="39753" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3418.jpg" group-title="Hindi",Sudarshan News
-https://allinonereborn.online/iptv-web/stream.php?id=39753
+#EXTINF:-1 tvg-id="8703" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8619.jpg" group-title="HINDI | INDIA",ZEE TV CANADA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=8703
 
-#EXTINF:-1 tvg-id="52154" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/951.jpg" group-title="Hindi",News 24
-https://allinonereborn.online/iptv-web/stream.php?id=52154
+#EXTINF:-1 tvg-id="11694" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11610.jpg" group-title="HINDI | INDIA",ZEE TV INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11694
 
-#EXTINF:-1 tvg-id="11922" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/952.jpg" group-title="Hindi",India TV
-https://allinonereborn.online/iptv-web/stream.php?id=11922
+#EXTINF:-1 tvg-id="63169" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62900.jpg" group-title="HINDI | INDIA",ZEE BUSINESS
+https://public.kliv.fun/TPTV8A/play.php?id=63169
 
-#EXTINF:-1 tvg-id="56603" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/182.jpg" group-title="Hindi",Samay
-https://allinonereborn.online/iptv-web/stream.php?id=56603
+#EXTINF:-1 tvg-id="11783" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11699.jpg" group-title="HINDI | INDIA",ZEE TV UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11783
 
-#EXTINF:-1 tvg-id="45879" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1153.jpg" group-title="Hindi",GNT TV
-https://allinonereborn.online/iptv-web/stream.php?id=45879
+#EXTINF:-1 tvg-id="8704" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8620.jpg" group-title="HINDI | INDIA",ZEE ETC BOLLYWOOD CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8704
 
-#EXTINF:-1 tvg-id="57060" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2250.jpg" group-title="Hindi",News X
-https://allinonereborn.online/iptv-web/stream.php?id=57060
+#EXTINF:-1 tvg-id="63087" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62818.jpg" group-title="HINDI | INDIA",GOLDMINES
+https://public.kliv.fun/TPTV8A/play.php?id=63087
 
-#EXTINF:-1 tvg-id="57096" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Y Channel Plus Canada
-https://allinonereborn.online/iptv-web/stream.php?id=57096
+#EXTINF:-1 tvg-id="63084" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62815.png" group-title="HINDI | INDIA",AND MOVIES HD ASIA
+https://public.kliv.fun/TPTV8A/play.php?id=63084
 
-#EXTINF:-1 tvg-id="57685" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8642.png" group-title="Hindi",TV9 Bharat Varsh
-https://allinonereborn.online/iptv-web/stream.php?id=57685
+#EXTINF:-1 tvg-id="63085" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62816.jpg" group-title="HINDI | INDIA",DANGAL
+https://public.kliv.fun/TPTV8A/play.php?id=63085
 
-#EXTINF:-1 tvg-id="37163" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3678.jpg" group-title="Hindi",News State
-https://allinonereborn.online/iptv-web/stream.php?id=37163
+#EXTINF:-1 tvg-id="11626" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11542.png" group-title="HINDI | INDIA",& TV INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11626
 
-#EXTINF:-1 tvg-id="47064" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2206.jpg" group-title="Hindi",Lok Sabha
-https://allinonereborn.online/iptv-web/stream.php?id=47064
+#EXTINF:-1 tvg-id="11625" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11541.jpg" group-title="HINDI | INDIA",& PICTURES 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11625
 
-#EXTINF:-1 tvg-id="12590" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2208.jpg" group-title="Hindi",Rajya Sabha
-https://allinonereborn.online/iptv-web/stream.php?id=12590
+#EXTINF:-1 tvg-id="8647" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8563.jpg" group-title="HINDI | INDIA",LIFE TV CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8647
 
-#EXTINF:-1 tvg-id="55221" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Punjabi",Music Masti
-https://allinonereborn.online/iptv-web/stream.php?id=55221
+#EXTINF:-1 tvg-id="8694" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8610.jpg" group-title="HINDI | INDIA",TV ASIA CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8694
 
-#EXTINF:-1 tvg-id="13868" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/285.jpg" group-title="Hindi",Food Food
-https://allinonereborn.online/iptv-web/stream.php?id=13868
+#EXTINF:-1 tvg-id="2803" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2720.jpg" group-title="HINDI | INDIA",TV ASIA USA
+https://public.kliv.fun/TPTV8A/play.php?id=2803
 
-#EXTINF:-1 tvg-id="48079" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1537.jpg" group-title="Hindi",Food Food-India
-https://allinonereborn.online/iptv-web/stream.php?id=48079
+#EXTINF:-1 tvg-id="8674" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8590.jpg" group-title="HINDI | INDIA",NDTV GOOD TIMES CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8674
 
-#EXTINF:-1 tvg-id="56615" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/178.jpg" group-title="Hindi",Zing
-https://allinonereborn.online/iptv-web/stream.php?id=56615
+#EXTINF:-1 tvg-id="1006" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/923.jpg" group-title="HINDI | INDIA",NDTV GOOD TIMES HD
+https://public.kliv.fun/TPTV8A/play.php?id=1006
 
-#EXTINF:-1 tvg-id="50454" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/69.jpg" group-title="Hindi",9X Jalwa
-https://allinonereborn.online/iptv-web/stream.php?id=50454
+#EXTINF:-1 tvg-id="50458" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/50242.jpg" group-title="HINDI | INDIA",INC TV
+https://public.kliv.fun/TPTV8A/play.php?id=50458
 
-#EXTINF:-1 tvg-id="37633" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/235.jpg" group-title="Hindi",B4U Music
-https://allinonereborn.online/iptv-web/stream.php?id=37633
+#EXTINF:-1 tvg-id="11687" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11603.jpg" group-title="HINDI | INDIA",UTV UK HD
+https://public.kliv.fun/TPTV8A/play.php?id=11687
 
-#EXTINF:-1 tvg-id="45899" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/649.jpg" group-title="Hindi",9XM
-https://allinonereborn.online/iptv-web/stream.php?id=45899
+#EXTINF:-1 tvg-id="44350" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/44140.jpg" group-title="HINDI | INDIA",BBO FLIX HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=44350
 
-#EXTINF:-1 tvg-id="36728" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3608.jpg" group-title="Hindi",Zee Ganga
-https://allinonereborn.online/iptv-web/stream.php?id=36728
+#EXTINF:-1 tvg-id="8614" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8530.jpg" group-title="HINDI | INDIA",DHAMAAL
+https://public.kliv.fun/TPTV8A/play.php?id=8614
 
-#EXTINF:-1 tvg-id="48104" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",B4U Kadak
-https://allinonereborn.online/iptv-web/stream.php?id=48104
+#EXTINF:-1 tvg-id="8613" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8529.jpg" group-title="HINDI | INDIA",DILLAGI
+https://public.kliv.fun/TPTV8A/play.php?id=8613
 
-#EXTINF:-1 tvg-id="50464" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/61.jpg" group-title="Hindi",Zoom
-https://allinonereborn.online/iptv-web/stream.php?id=50464
+#EXTINF:-1 tvg-id="8593" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8509.png" group-title="HINDI | INDIA",ACTIVE HITS MUSIC 4K
+https://public.kliv.fun/TPTV8A/play.php?id=8593
 
-#EXTINF:-1 tvg-id="45809" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1027.jpg" group-title="Hindi",MTV India
-https://allinonereborn.online/iptv-web/stream.php?id=45809
+#EXTINF:-1 tvg-id="8646" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8562.jpg" group-title="HINDI | INDIA",FOOD FOOD CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8646
 
-#EXTINF:-1 tvg-id="61086" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/11640.png" group-title="Hindi",MASTI STARZ
-https://allinonereborn.online/iptv-web/stream.php?id=61086
+#EXTINF:-1 tvg-id="695" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/612.png" group-title="HINDI | INDIA",FOOD FOOD HD
+https://public.kliv.fun/TPTV8A/play.php?id=695
 
-#EXTINF:-1 tvg-id="45904" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/568.jpg" group-title="Hindi",Music India
-https://allinonereborn.online/iptv-web/stream.php?id=45904
+#EXTINF:-1 tvg-id="8567" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8483.jpg" group-title="HINDI | INDIA",ADBHUT KAHANIYAN
+https://public.kliv.fun/TPTV8A/play.php?id=8567
 
-#EXTINF:-1 tvg-id="6087" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",***SPIRITUAL***
-https://allinonereborn.online/iptv-web/stream.php?id=6087
+#EXTINF:-1 tvg-id="25846" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/25741.jpg" group-title="HINDI | INDIA",COMEDY MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=25846
 
-#EXTINF:-1 tvg-id="45954" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/184.jpg" group-title="Hindi",Divya
-https://allinonereborn.online/iptv-web/stream.php?id=45954
+#EXTINF:-1 tvg-id="63080" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62811.png" group-title="HINDI | INDIA",BBO US
+https://public.kliv.fun/TPTV8A/play.php?id=63080
 
-#EXTINF:-1 tvg-id="13542" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2238.jpg" group-title="Hindi",MH1 Sharaddha
-https://allinonereborn.online/iptv-web/stream.php?id=13542
+#EXTINF:-1 tvg-id="696" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/613.png" group-title="HINDI | INDIA",TLC WORLD HD
+https://public.kliv.fun/TPTV8A/play.php?id=696
 
-#EXTINF:-1 tvg-id="17277" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/973.jpg" group-title="Hindi",Aastha India
-https://allinonereborn.online/iptv-web/stream.php?id=17277
+#EXTINF:-1 tvg-id="650" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/567.jpg" group-title="HINDI | INDIA",E24
+https://public.kliv.fun/TPTV8A/play.php?id=650
 
-#EXTINF:-1 tvg-id="6836" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1138.jpg" group-title="Hindi",Aastha-USA
-https://allinonereborn.online/iptv-web/stream.php?id=6836
+#EXTINF:-1 tvg-id="8603" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8519.jpg" group-title="HINDI | INDIA",LOVE WORLD
+https://public.kliv.fun/TPTV8A/play.php?id=8603
 
-#EXTINF:-1 tvg-id="15761" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1459.jpg" group-title="Hindi",Aastha Bhajan
-https://allinonereborn.online/iptv-web/stream.php?id=15761
+#EXTINF:-1 tvg-id="781" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/698.jpg" group-title="HINDI | INDIA",TRUE 4K TRAVEL XP HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=781
 
-#EXTINF:-1 tvg-id="45959" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1082.jpg" group-title="Hindi",Sanskar
-https://allinonereborn.online/iptv-web/stream.php?id=45959
+#EXTINF:-1 tvg-id="1076" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/993.jpg" group-title="HINDI | INDIA",ZEE ZEST HD
+https://public.kliv.fun/TPTV8A/play.php?id=1076
 
-#EXTINF:-1 tvg-id="58364" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1547.png" group-title="Hindi",Epic
-https://allinonereborn.online/iptv-web/stream.php?id=58364
+#EXTINF:-1 tvg-id="1151" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1068.png" group-title="HINDI | INDIA",STAR WORLD 4K
+https://public.kliv.fun/TPTV8A/play.php?id=1151
 
-#EXTINF:-1 tvg-id="8207" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1122.jpg" group-title="Hindi",Satsang
-https://allinonereborn.online/iptv-web/stream.php?id=8207
+#EXTINF:-1 tvg-id="24253" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/24148.jpg" group-title="HINDI | INDIA",Zee World HD
+https://public.kliv.fun/TPTV8A/play.php?id=24253
 
-#EXTINF:-1 tvg-id="17272" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1461.jpg" group-title="Hindi",Vedic
-https://allinonereborn.online/iptv-web/stream.php?id=17272
+#EXTINF:-1 tvg-id="59635" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59419.jpg" group-title="HINDI | INDIA",NOW CINEMA
+https://public.kliv.fun/TPTV8A/play.php?id=59635
 
-#EXTINF:-1 tvg-id="56870" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2542.png" group-title="Hindi",Arihant
-https://allinonereborn.online/iptv-web/stream.php?id=56870
+#EXTINF:-1 tvg-id="61539" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61317.png" group-title="HINDI | INDIA",VH 1
+https://public.kliv.fun/TPTV8A/play.php?id=61539
 
-#EXTINF:-1 tvg-id="47059" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3443.jpg" group-title="Hindi",Hindu Sabha Temple
-https://allinonereborn.online/iptv-web/stream.php?id=47059
+#EXTINF:-1 tvg-id="59600" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59384.jpg" group-title="HINDI | INDIA",ITV GOLD
+https://public.kliv.fun/TPTV8A/play.php?id=59600
 
-#EXTINF:-1 tvg-id="42143" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3818.jpg" group-title="Hindi",Dangal
-https://allinonereborn.online/iptv-web/stream.php?id=42143
+#EXTINF:-1 tvg-id="11735" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11651.png" group-title="HINDI | INDIA",FOOD FOOD US
+https://public.kliv.fun/TPTV8A/play.php?id=11735
 
-#EXTINF:-1 tvg-id="57044" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3853.jpg" group-title="Hindi",Hare Krsna
-https://allinonereborn.online/iptv-web/stream.php?id=57044
+#EXTINF:-1 tvg-id="11751" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11667.png" group-title="HINDI | INDIA",TATA SKY THEATRE 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11751
 
-#EXTINF:-1 tvg-id="42003" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3843.jpg" group-title="Hindi",Shubh TV
-https://allinonereborn.online/iptv-web/stream.php?id=42003
+#EXTINF:-1 tvg-id="63091" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62822.jpg" group-title="HINDI | INDIA",BBO UK
+https://public.kliv.fun/TPTV8A/play.php?id=63091
 
-#EXTINF:-1 tvg-id="39848" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3838.jpg" group-title="Hindi",Sadhna TV
-https://allinonereborn.online/iptv-web/stream.php?id=39848
+#EXTINF:-1 tvg-id="921" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/838.jpg" group-title="HINDI | INDIA",FOX LIFE HINDI HD
+https://public.kliv.fun/TPTV8A/play.php?id=921
 
-#EXTINF:-1 tvg-id="44764" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3863.jpg" group-title="Hindi",Sarv Dharam Sangam
-https://allinonereborn.online/iptv-web/stream.php?id=44764
+#EXTINF:-1 tvg-id="8572" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8488.png" group-title="HINDI | INDIA",FOOD NETWORK
+https://public.kliv.fun/TPTV8A/play.php?id=8572
 
-#EXTINF:-1 tvg-id="58045" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Hindu heritage centre
-https://allinonereborn.online/iptv-web/stream.php?id=58045
+#EXTINF:-1 tvg-id="11736" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11652.png" group-title="HINDI | INDIA",INDIAN COOKING CHANNEL
+https://public.kliv.fun/TPTV8A/play.php?id=11736
 
-#EXTINF:-1 tvg-id="58081" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Hindu Samaj Temple Hamilton
-https://allinonereborn.online/iptv-web/stream.php?id=58081
+#EXTINF:-1 tvg-id="63459" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/63182.jpg" group-title="HINDI | INDIA",FOOD XP
+https://public.kliv.fun/TPTV8A/play.php?id=63459
 
-#EXTINF:-1 tvg-id="52004" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",ChannelWin
-https://allinonereborn.online/iptv-web/stream.php?id=52004
+#EXTINF:-1 tvg-id="67139" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67693.jpg" group-title="HINDI | INDIA",DISCOVERY WORLD HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=67139
 
-#EXTINF:-1 tvg-id="51904" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Arya Sandesh HD
-https://allinonereborn.online/iptv-web/stream.php?id=51904
+#EXTINF:-1 tvg-id="880" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/797.jpg" group-title="HINDI | INDIA",DISCOVERY SCIENCE ENGLISH 4K
+https://public.kliv.fun/TPTV8A/play.php?id=880
 
-#EXTINF:-1 tvg-id="6435" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",***ASSORTED***
-https://allinonereborn.online/iptv-web/stream.php?id=6435
+#EXTINF:-1 tvg-id="1112" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1029.png" group-title="HINDI | INDIA",DISCOVERY INDIA ENGLISH 4K
+https://public.kliv.fun/TPTV8A/play.php?id=1112
 
-#EXTINF:-1 tvg-id="50729" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3673.jpg" group-title="Hindi",Star Utsav India
-https://allinonereborn.online/iptv-web/stream.php?id=50729
+#EXTINF:-1 tvg-id="11636" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11552.png" group-title="HINDI | INDIA",DISCOVERY INDIA HINDI 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11636
 
-#EXTINF:-1 tvg-id="55031" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4683.jpg" group-title="Hindi",Rishtey Cineplex Europe
-https://allinonereborn.online/iptv-web/stream.php?id=55031
+#EXTINF:-1 tvg-id="11712" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11628.jpg" group-title="HINDI | INDIA",DISCOVERY INVESTIGATION HINDI INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=11712
 
-#EXTINF:-1 tvg-id="37078" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3653.png" group-title="Hindi",Dabang
-https://allinonereborn.online/iptv-web/stream.php?id=37078
+#EXTINF:-1 tvg-id="769" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/686.png" group-title="HINDI | INDIA",DISCOVERY TURBO
+https://public.kliv.fun/TPTV8A/play.php?id=769
 
-#EXTINF:-1 tvg-id="41823" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1362.jpg" group-title="Hindi",Maha Movie
-https://allinonereborn.online/iptv-web/stream.php?id=41823
+#EXTINF:-1 tvg-id="974" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/891.png" group-title="HINDI | INDIA",NAT GEO ENGLISH INDIA HD
+https://public.kliv.fun/TPTV8A/play.php?id=974
 
-#EXTINF:-1 tvg-id="41218" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4913.jpg" group-title="Hindi",Manoranjan Movies
-https://allinonereborn.online/iptv-web/stream.php?id=41218
+#EXTINF:-1 tvg-id="11657" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11573.jpg" group-title="HINDI | INDIA",NAT GEO HINDI 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11657
 
-#EXTINF:-1 tvg-id="56695" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3563.png" group-title="Hindi",Zee Anmol Cinema
-https://allinonereborn.online/iptv-web/stream.php?id=56695
+#EXTINF:-1 tvg-id="66792" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67529.jpg" group-title="HINDI | INDIA",B4U PLUS US
+https://public.kliv.fun/TPTV8A/play.php?id=66792
 
-#EXTINF:-1 tvg-id="55797" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/1637.jpg" group-title="Hindi",Zee Action
-https://allinonereborn.online/iptv-web/stream.php?id=55797
+#EXTINF:-1 tvg-id="995" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/912.png" group-title="HINDI | INDIA",NAT GEO WILD ENGLISH INDIA HD
+https://public.kliv.fun/TPTV8A/play.php?id=995
 
-#EXTINF:-1 tvg-id="55562" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/8077.jpg" group-title="Hindi",Zee 24 Taas
-https://allinonereborn.online/iptv-web/stream.php?id=55562
+#EXTINF:-1 tvg-id="1052" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/969.png" group-title="HINDI | INDIA",NAT GEO WILD HINDI HD
+https://public.kliv.fun/TPTV8A/play.php?id=1052
 
-#EXTINF:-1 tvg-id="37148" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3663.png" group-title="Hindi",Zee Hindustan
-https://allinonereborn.online/iptv-web/stream.php?id=37148
+#EXTINF:-1 tvg-id="863" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/780.jpg" group-title="HINDI | INDIA",ANIMAL PLANET HD HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=863
 
-#EXTINF:-1 tvg-id="37153" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3668.jpg" group-title="Hindi",Mastii
-https://allinonereborn.online/iptv-web/stream.php?id=37153
+#EXTINF:-1 tvg-id="803" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/720.png" group-title="HINDI | INDIA",ANIMAL PLANET WORLD 4K
+https://public.kliv.fun/TPTV8A/play.php?id=803
 
-#EXTINF:-1 tvg-id="48869" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/3848.jpg" group-title="Hindi",E24
-https://allinonereborn.online/iptv-web/stream.php?id=48869
+#EXTINF:-1 tvg-id="1032" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/949.jpg" group-title="HINDI | INDIA",BBC EARTH HD ENGLISH
+https://public.kliv.fun/TPTV8A/play.php?id=1032
 
-#EXTINF:-1 tvg-id="50474" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/2188.jpg" group-title="Hindi",CNBC TV18
-https://allinonereborn.online/iptv-web/stream.php?id=50474
+#EXTINF:-1 tvg-id="1004" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/921.png" group-title="HINDI | INDIA",BBC EARTH HD HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=1004
 
-#EXTINF:-1 tvg-id="46699" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4003.jpg" group-title="Hindi",IBC 24
-https://allinonereborn.online/iptv-web/stream.php?id=46699
+#EXTINF:-1 tvg-id="982" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/899.jpg" group-title="HINDI | INDIA",HISTORY TV 18 INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=982
 
-#EXTINF:-1 tvg-id="38183" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/4013.jpg" group-title="Hindi",Janta TV
-https://allinonereborn.online/iptv-web/stream.php?id=38183
+#EXTINF:-1 tvg-id="11644" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11560.jpg" group-title="HINDI | INDIA",HISTORY TV 18 ENGLISH INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11644
 
-#EXTINF:-1 tvg-id="57979" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/9187.jpg" group-title="Hindi",JAN TV
-https://allinonereborn.online/iptv-web/stream.php?id=57979
+#EXTINF:-1 tvg-id="8571" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8487.jpg" group-title="HINDI | INDIA",ID ENGLISH INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=8571
 
-#EXTINF:-1 tvg-id="46634" tvg-logo="http://51.159.223.94/stalker_portal/misc/logos/320/5018.png" group-title="Hindi",NDTV Profit
-https://allinonereborn.online/iptv-web/stream.php?id=46634
+#EXTINF:-1 tvg-id="66800" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67537.jpg" group-title="HINDI | INDIA",MUSIC INDIA US
+https://public.kliv.fun/TPTV8A/play.php?id=66800
 
-#EXTINF:-1 tvg-id="57985" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Bigg Boss 24x7
-https://allinonereborn.online/iptv-web/stream.php?id=57985
+#EXTINF:-1 tvg-id="968" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/885.png" group-title="HINDI | INDIA",DISH CINE ACTIVE
+https://public.kliv.fun/TPTV8A/play.php?id=968
 
-#EXTINF:-1 tvg-id="59231" tvg-logo="https://i.ibb.co/qBqPyv8/iptv-logo.png" group-title="Hindi",Bigg Boss 24x7-2
-https://allinonereborn.online/iptv-web/stream.php?id=59231
+#EXTINF:-1 tvg-id="8611" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8527.jpg" group-title="HINDI | INDIA",DABANG
+https://public.kliv.fun/TPTV8A/play.php?id=8611
+
+#EXTINF:-1 tvg-id="8600" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8516.png" group-title="HINDI | INDIA",DAYSTAR INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=8600
+
+#EXTINF:-1 tvg-id="11752" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11668.png" group-title="HINDI | INDIA",TATA SKY VEDIC MATHS
+https://public.kliv.fun/TPTV8A/play.php?id=11752
+______==
+
+++++++++++
+
+#EXTINF:-1 tvg-id="11758" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11674.jpg" group-title="HINDI | INDIA KIDS",WOW KIDZ HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11758
+
+#EXTINF:-1 tvg-id="11706" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11622.jpg" group-title="HINDI | INDIA KIDS",BABY TV FHD IN
+https://public.kliv.fun/TPTV8A/play.php?id=11706
+
+#EXTINF:-1 tvg-id="11709" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11625.jpg" group-title="HINDI | INDIA KIDS",CARTOON NETWORK HD+
+https://public.kliv.fun/TPTV8A/play.php?id=11709
+
+#EXTINF:-1 tvg-id="11633" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11549.png" group-title="HINDI | INDIA KIDS",CARTOON NETWORK HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11633
+
+#EXTINF:-1 tvg-id="11639" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11555.png" group-title="HINDI | INDIA KIDS",DISNEY CHANNEL INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=11639
+
+#EXTINF:-1 tvg-id="641" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/558.png" group-title="HINDI | INDIA KIDS",DISCOVERY KIDS HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=641
+
+#EXTINF:-1 tvg-id="11640" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11556.jpg" group-title="HINDI | INDIA KIDS",DISNEY JUNIOR HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11640
+
+#EXTINF:-1 tvg-id="891" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/808.jpg" group-title="HINDI | INDIA KIDS",DISNEY JUNIOR ENG INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=891
+
+#EXTINF:-1 tvg-id="11649" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11565.png" group-title="HINDI | INDIA KIDS",MARVEL KIDS HINDI 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11649
+
+#EXTINF:-1 tvg-id="11662" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11578.png" group-title="HINDI | INDIA KIDS",NICK HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11662
+
+#EXTINF:-1 tvg-id="11663" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11579.png" group-title="HINDI | INDIA KIDS",NICK JUNIOR ENG INDIA HD
+https://public.kliv.fun/TPTV8A/play.php?id=11663
+
+#EXTINF:-1 tvg-id="11724" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11640.png" group-title="HINDI | INDIA KIDS",NICKELODEON HD+
+https://public.kliv.fun/TPTV8A/play.php?id=11724
+
+#EXTINF:-1 tvg-id="10827" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/10743.jpg" group-title="HINDI | INDIA KIDS",PEPPA PIG HINDI HD
+https://public.kliv.fun/TPTV8A/play.php?id=10827
+
+#EXTINF:-1 tvg-id="11666" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11582.png" group-title="HINDI | INDIA KIDS",POGO HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11666
+
+#EXTINF:-1 tvg-id="11667" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11583.png" group-title="HINDI | INDIA KIDS",SONIC HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11667
+
+#EXTINF:-1 tvg-id="2802" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2719.jpg" group-title="HINDI | INDIA KIDS",SONY YAY USA
+https://public.kliv.fun/TPTV8A/play.php?id=2802
+
+#EXTINF:-1 tvg-id="8639" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8555.png" group-title="HINDI | INDIA KIDS",THE Q
+https://public.kliv.fun/TPTV8A/play.php?id=8639
+
+#EXTINF:-1 tvg-id="931" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/848.png" group-title="HINDI | INDIA KIDS",KIDS DISNEY INTERNATIONAL HD
+https://public.kliv.fun/TPTV8A/play.php?id=931
+
+#EXTINF:-1 tvg-id="1079" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/996.jpg" group-title="HINDI | INDIA KIDS",KIDS NICK HD+
+https://public.kliv.fun/TPTV8A/play.php?id=1079
+
+#EXTINF:-1 tvg-id="68961" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62830.jpg" group-title="HINDI | INDIA",INSYNC MUSIC
+https://public.kliv.fun/TPTV8A/play.php?id=68961
+
+#EXTINF:-1 tvg-id="63096" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62827.jpg" group-title="HINDI | INDIA",JUS HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=63096
+
+#EXTINF:-1 tvg-id="11619" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11535.jpg" group-title="HINDI | INDIA",& XPLORE HD
+https://public.kliv.fun/TPTV8A/play.php?id=11619
+
+#EXTINF:-1 tvg-id="950" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/867.png" group-title="HINDI | INDIA",9X JALWA
+https://public.kliv.fun/TPTV8A/play.php?id=950
+
+#EXTINF:-1 tvg-id="701" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/618.png" group-title="HINDI | INDIA",9X MUSIC
+https://public.kliv.fun/TPTV8A/play.php?id=701
+
+#EXTINF:-1 tvg-id="63093" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62824.png" group-title="HINDI | INDIA",B4U MUSIC UK
+https://public.kliv.fun/TPTV8A/play.php?id=63093
+
+#EXTINF:-1 tvg-id="8654" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8570.png" group-title="HINDI | INDIA",B4U MUSIC CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8654
+
+#EXTINF:-1 tvg-id="8673" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8589.png" group-title="HINDI | INDIA",MTV INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=8673
+
+#EXTINF:-1 tvg-id="8708" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8624.jpg" group-title="HINDI | INDIA",ZOOM CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8708
+
+#EXTINF:-1 tvg-id="871" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/788.png" group-title="HINDI | INDIA",B4U MUSIC
+https://public.kliv.fun/TPTV8A/play.php?id=871
+
+#EXTINF:-1 tvg-id="735" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/652.jpg" group-title="HINDI | INDIA",BINDAS MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=735
+
+#EXTINF:-1 tvg-id="1177" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1094.jpg" group-title="HINDI | INDIA",BOOGLE BOLLYWOOD
+https://public.kliv.fun/TPTV8A/play.php?id=1177
+
+#EXTINF:-1 tvg-id="63160" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62891.png" group-title="HINDI | INDIA",PEACE MUSIC
+https://public.kliv.fun/TPTV8A/play.php?id=63160
+
+#EXTINF:-1 tvg-id="63161" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62892.jpg" group-title="HINDI | INDIA",MH ONE DIL SE
+https://public.kliv.fun/TPTV8A/play.php?id=63161
+
+#EXTINF:-1 tvg-id="11646" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11562.jpg" group-title="HINDI | INDIA KIDS",HUNGAMA TV
+https://public.kliv.fun/TPTV8A/play.php?id=11646
+
+#EXTINF:-1 tvg-id="68111" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/68533.jpg" group-title="HINDI | INDIA",MTV US
+https://public.kliv.fun/TPTV8A/play.php?id=68111
+
+#EXTINF:-1 tvg-id="692" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/609.jpg" group-title="HINDI | INDIA",MASTI
+https://public.kliv.fun/TPTV8A/play.php?id=692
+
+#EXTINF:-1 tvg-id="63454" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/63177.png" group-title="HINDI | INDIA",CLASSIC HITS
+https://public.kliv.fun/TPTV8A/play.php?id=63454
+
+#EXTINF:-1 tvg-id="63455" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/63178.png" group-title="HINDI | INDIA",BOLLYWOOD CLASSIC
+https://public.kliv.fun/TPTV8A/play.php?id=63455
+
+#EXTINF:-1 tvg-id="1060" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/977.jpg" group-title="HINDI | INDIA",MTV PLUS HD
+https://public.kliv.fun/TPTV8A/play.php?id=1060
+
+#EXTINF:-1 tvg-id="63456" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/63179.jpg" group-title="HINDI | INDIA",BOLLYWOOD HITS
+https://public.kliv.fun/TPTV8A/play.php?id=63456
+
+#EXTINF:-1 tvg-id="1103" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1020.png" group-title="HINDI | INDIA",MUSIC INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=1103
+
+#EXTINF:-1 tvg-id="929" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/846.jpg" group-title="HINDI | INDIA",ZING
+https://public.kliv.fun/TPTV8A/play.php?id=929
+
+#EXTINF:-1 tvg-id="799" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/716.png" group-title="HINDI | INDIA",ZOOM
+https://public.kliv.fun/TPTV8A/play.php?id=799
+
+#EXTINF:-1 tvg-id="8666" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8582.jpg" group-title="HINDI | INDIA",DD INDIA CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8666
+
+#EXTINF:-1 tvg-id="8656" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8572.png" group-title="HINDI | INDIA",DD BHARTI CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8656
+
+#EXTINF:-1 tvg-id="1088" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1005.jpg" group-title="HINDI | INDIA",DD BHARTI
+https://public.kliv.fun/TPTV8A/play.php?id=1088
+
+#EXTINF:-1 tvg-id="973" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/890.jpg" group-title="HINDI | INDIA",DD BIHAR
+https://public.kliv.fun/TPTV8A/play.php?id=973
+
+#EXTINF:-1 tvg-id="1031" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/948.jpg" group-title="HINDI | INDIA",DD INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=1031
+
+#EXTINF:-1 tvg-id="8615" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8531.jpg" group-title="HINDI | INDIA",DD KASHMIR
+https://public.kliv.fun/TPTV8A/play.php?id=8615
+
+#EXTINF:-1 tvg-id="8616" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8532.jpg" group-title="HINDI | INDIA",DD KISSAN
+https://public.kliv.fun/TPTV8A/play.php?id=8616
+
+#EXTINF:-1 tvg-id="1030" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/947.jpg" group-title="HINDI | INDIA",DD MP
+https://public.kliv.fun/TPTV8A/play.php?id=1030
+
+#EXTINF:-1 tvg-id="63166" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62897.jpg" group-title="HINDI | INDIA",DD RETRO
+https://public.kliv.fun/TPTV8A/play.php?id=63166
+
+#EXTINF:-1 tvg-id="1053" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/970.jpg" group-title="HINDI | INDIA",DD NATIONAL HD
+https://public.kliv.fun/TPTV8A/play.php?id=1053
+
+#EXTINF:-1 tvg-id="1029" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/946.jpg" group-title="HINDI | INDIA",DD RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=1029
+
+#EXTINF:-1 tvg-id="979" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/896.jpg" group-title="HINDI | INDIA",DD UP
+https://public.kliv.fun/TPTV8A/play.php?id=979
+
+#EXTINF:-1 tvg-id="2800" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2717.jpg" group-title="HINDI | INDIA",SONY MAX 2 USA
+https://public.kliv.fun/TPTV8A/play.php?id=2800
+
+#EXTINF:-1 tvg-id="1156" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1073.png" group-title="HINDI | INDIA",SONY MAX 2
+https://public.kliv.fun/TPTV8A/play.php?id=1156
+
+#EXTINF:-1 tvg-id="11775" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11691.jpg" group-title="HINDI | INDIA",SONY MAX 2  UK
+https://public.kliv.fun/TPTV8A/play.php?id=11775
+
+#EXTINF:-1 tvg-id="11670" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11586.png" group-title="HINDI | INDIA",SONY MAX INDIA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11670
+
+#EXTINF:-1 tvg-id="3000" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2917.png" group-title="HINDI | INDIA",SONY MAX UK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=3000
+
+#EXTINF:-1 tvg-id="2793" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2710.png" group-title="HINDI | INDIA",SONY SET MAX USA
+https://public.kliv.fun/TPTV8A/play.php?id=2793
+
+#EXTINF:-1 tvg-id="11731" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11647.jpg" group-title="HINDI | INDIA",SONY WAH HD
+https://public.kliv.fun/TPTV8A/play.php?id=11731
+
+#EXTINF:-1 tvg-id="1093" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1010.png" group-title="HINDI | INDIA",SONY PIX HD
+https://public.kliv.fun/TPTV8A/play.php?id=1093
+
+#EXTINF:-1 tvg-id="656" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/573.jpg" group-title="HINDI | INDIA",ZEE ACTION
+https://public.kliv.fun/TPTV8A/play.php?id=656
+
+#EXTINF:-1 tvg-id="953" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/870.png" group-title="HINDI | INDIA",ZEE ANMOL CINEMA
+https://public.kliv.fun/TPTV8A/play.php?id=953
+
+#EXTINF:-1 tvg-id="922" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/839.jpg" group-title="HINDI | INDIA",ZEE BOLLYWOOD 4K
+https://public.kliv.fun/TPTV8A/play.php?id=922
+
+#EXTINF:-1 tvg-id="833" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/750.png" group-title="HINDI | INDIA",ZEE CAFE HD
+https://public.kliv.fun/TPTV8A/play.php?id=833
+
+#EXTINF:-1 tvg-id="11693" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11609.png" group-title="HINDI | INDIA",ZEE CINEMA 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11693
+
+#EXTINF:-1 tvg-id="66730" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/29290.jpg" group-title="HINDI | INDIA",ZEE CINEMA USA
+https://public.kliv.fun/TPTV8A/play.php?id=66730
+
+#EXTINF:-1 tvg-id="62591" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62343.jpg" group-title="HINDI | INDIA",UK ZEE CINEMA
+https://public.kliv.fun/TPTV8A/play.php?id=62591
+
+#EXTINF:-1 tvg-id="896" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/813.png" group-title="HINDI | INDIA",ZEE CLASSIC
+https://public.kliv.fun/TPTV8A/play.php?id=896
+
+#EXTINF:-1 tvg-id="66802" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67539.jpg" group-title="HINDI | INDIA",STAR GOLD ROMANCE
+https://public.kliv.fun/TPTV8A/play.php?id=66802
+
+#EXTINF:-1 tvg-id="976" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/893.png" group-title="HINDI | INDIA",STAR GOLD 2
+https://public.kliv.fun/TPTV8A/play.php?id=976
+
+#EXTINF:-1 tvg-id="1042" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/959.png" group-title="HINDI | INDIA",STAR GOLD HD
+https://public.kliv.fun/TPTV8A/play.php?id=1042
+
+#EXTINF:-1 tvg-id="3004" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2921.png" group-title="HINDI | INDIA",STAR GOLD HD UK
+https://public.kliv.fun/TPTV8A/play.php?id=3004
+
+#EXTINF:-1 tvg-id="732" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/649.png" group-title="HINDI | INDIA",STAR GOLD SELECT HD
+https://public.kliv.fun/TPTV8A/play.php?id=732
+
+#EXTINF:-1 tvg-id="11677" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11593.png" group-title="HINDI | INDIA",STAR MOVIES 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11677
+
+#EXTINF:-1 tvg-id="1125" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1042.png" group-title="HINDI | INDIA",STAR MOVIES SELECT HD
+https://public.kliv.fun/TPTV8A/play.php?id=1125
+
+#EXTINF:-1 tvg-id="869" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/786.jpg" group-title="HINDI | INDIA",STAR UTSAV MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=869
+
+#EXTINF:-1 tvg-id="67138" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67696.png" group-title="HINDI | INDIA",SOUTH TALKIES
+https://public.kliv.fun/TPTV8A/play.php?id=67138
+
+#EXTINF:-1 tvg-id="11624" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11540.png" group-title="HINDI | INDIA",& FLIX 4K.
+https://public.kliv.fun/TPTV8A/play.php?id=11624
+
+#EXTINF:-1 tvg-id="11618" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11534.png" group-title="HINDI | INDIA",& PRIVE 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11618
+
+#EXTINF:-1 tvg-id="821" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/738.jpg" group-title="HINDI | INDIA",ABZY MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=821
+
+#EXTINF:-1 tvg-id="8653" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8569.png" group-title="HINDI | INDIA",B4U MOVIES CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8653
+
+#EXTINF:-1 tvg-id="8655" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8571.jpg" group-title="HINDI | INDIA",B4U PLUS CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8655
+
+#EXTINF:-1 tvg-id="8648" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8564.png" group-title="HINDI | INDIA",SHEMAROO MOVIES CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8648
+
+#EXTINF:-1 tvg-id="8686" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8602.png" group-title="HINDI | INDIA",SET MAX CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8686
+
+#EXTINF:-1 tvg-id="1114" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1031.jpg" group-title="HINDI | INDIA",B4U KADAK
+https://public.kliv.fun/TPTV8A/play.php?id=1114
+
+#EXTINF:-1 tvg-id="800" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/717.png" group-title="HINDI | INDIA",B4U MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=800
+
+#EXTINF:-1 tvg-id="11768" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11684.png" group-title="HINDI | INDIA",B4U MOVIES UK
+https://public.kliv.fun/TPTV8A/play.php?id=11768
+
+#EXTINF:-1 tvg-id="1077" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/994.jpg" group-title="HINDI | INDIA",BFLIX HD
+https://public.kliv.fun/TPTV8A/play.php?id=1077
+
+#EXTINF:-1 tvg-id="8610" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8526.jpg" group-title="HINDI | INDIA",BOX CINEMA
+https://public.kliv.fun/TPTV8A/play.php?id=8610
+
+#EXTINF:-1 tvg-id="1050" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/967.png" group-title="HINDI | INDIA",CINEMA TV
+https://public.kliv.fun/TPTV8A/play.php?id=1050
+
+#EXTINF:-1 tvg-id="8570" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8486.jpg" group-title="HINDI | INDIA",D2H MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=8570
+
+#EXTINF:-1 tvg-id="753" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/670.png" group-title="HINDI | INDIA",ENTER 10 MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=753
+
+#EXTINF:-1 tvg-id="1092" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1009.png" group-title="HINDI | INDIA",EVERGREEN CLASSIC
+https://public.kliv.fun/TPTV8A/play.php?id=1092
+
+#EXTINF:-1 tvg-id="8564" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8480.jpg" group-title="HINDI | INDIA",HOLLYWOOD LOCAL
+https://public.kliv.fun/TPTV8A/play.php?id=8564
+
+#EXTINF:-1 tvg-id="657" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/574.png" group-title="HINDI | INDIA",MAHA MOVIES
+https://public.kliv.fun/TPTV8A/play.php?id=657
+
+#EXTINF:-1 tvg-id="11719" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11635.jpg" group-title="HINDI | INDIA",MANORANJAN TV HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=11719
+
+#EXTINF:-1 tvg-id="734" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/651.png" group-title="HINDI | INDIA",MN PLUS HD
+https://public.kliv.fun/TPTV8A/play.php?id=734
+
+#EXTINF:-1 tvg-id="11650" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11566.png" group-title="HINDI | INDIA",MNX 4K
+https://public.kliv.fun/TPTV8A/play.php?id=11650
+
+#EXTINF:-1 tvg-id="1028" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/945.jpg" group-title="HINDI | INDIA",MOVIES NOW HD
+https://public.kliv.fun/TPTV8A/play.php?id=1028
+
+#EXTINF:-1 tvg-id="819" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/736.png" group-title="HINDI | INDIA",MOVIES PLUS
+https://public.kliv.fun/TPTV8A/play.php?id=819
+
+#EXTINF:-1 tvg-id="11622" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11538.jpg" group-title="HINDI | INDIA",RISHTEY CINEPLEX HD
+https://public.kliv.fun/TPTV8A/play.php?id=11622
+
+#EXTINF:-1 tvg-id="613" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/530.jpg" group-title="HINDI | INDIA",SAHARA FILMY
+https://public.kliv.fun/TPTV8A/play.php?id=613
+
+#EXTINF:-1 tvg-id="843" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/760.jpg" group-title="HINDI | INDIA",SAHARA ONE
+https://public.kliv.fun/TPTV8A/play.php?id=843
+
+#EXTINF:-1 tvg-id="1049" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/966.png" group-title="HINDI | INDIA",TATA SKY BOLLYWOOD HD
+https://public.kliv.fun/TPTV8A/play.php?id=1049
+
+#EXTINF:-1 tvg-id="8563" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8479.png" group-title="HINDI | INDIA",TATA SKY BOLLYWOOD PREMIER
+https://public.kliv.fun/TPTV8A/play.php?id=8563
+
+#EXTINF:-1 tvg-id="8562" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8478.jpg" group-title="HINDI | INDIA",CINEPLEX BOLLYWOD
+https://public.kliv.fun/TPTV8A/play.php?id=8562
+
+#EXTINF:-1 tvg-id="739" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/656.png" group-title="HINDI | INDIA",TATA SKY HITS HD
+https://public.kliv.fun/TPTV8A/play.php?id=739
+
+#EXTINF:-1 tvg-id="1113" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1030.png" group-title="HINDI | INDIA",TATA SKY THEATRE HD
+https://public.kliv.fun/TPTV8A/play.php?id=1113
+
+#EXTINF:-1 tvg-id="751" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/668.jpg" group-title="HINDI | INDIA",UTV ACTION
+https://public.kliv.fun/TPTV8A/play.php?id=751
+
+#EXTINF:-1 tvg-id="11688" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11604.jpg" group-title="HINDI | INDIA",UTV MOVIES HD
+https://public.kliv.fun/TPTV8A/play.php?id=11688
+
+#EXTINF:-1 tvg-id="8705" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8621.png" group-title="HINDI | INDIA",ZING TV CA
+https://public.kliv.fun/TPTV8A/play.php?id=8705
+
+#EXTINF:-1 tvg-id="11729" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11645.jpg" group-title="HINDI | INDIA",SHOW BOX
+https://public.kliv.fun/TPTV8A/play.php?id=11729
+
+#EXTINF:-1 tvg-id="1117" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1034.jpg" group-title="HINDI | INDIA",ROMEDY NOW HD
+https://public.kliv.fun/TPTV8A/play.php?id=1117
+
+#EXTINF:-1 tvg-id="11765" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11681.jpg" group-title="HINDI | INDIA",ZEE SALAAM
+https://public.kliv.fun/TPTV8A/play.php?id=11765
+
+#EXTINF:-1 tvg-id="71132" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70807.png" group-title="HINDI | INDIA",DESI VIBES
+https://public.kliv.fun/TPTV8A/play.php?id=71132
+
+#EXTINF:-1 tvg-id="67142" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67669.jpg" group-title="HINDI | INDIA",DD MADHYA PRADESH
+https://public.kliv.fun/TPTV8A/play.php?id=67142
+
+#EXTINF:-1 tvg-id="67143" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67670.jpg" group-title="HINDI | INDIA",ZEE NEWS RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=67143
+
+#EXTINF:-1 tvg-id="67145" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67672.jpg" group-title="HINDI | INDIA",JAI MAHARASHTRA
+https://public.kliv.fun/TPTV8A/play.php?id=67145
+
+#EXTINF:-1 tvg-id="63019" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62750.png" group-title="HINDI | NEWS",INFORMATIVE CHANNEL
+https://public.kliv.fun/TPTV8A/play.php?id=63019
+
+#EXTINF:-1 tvg-id="70785" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/995.jpg" group-title="HINDI | NEWS",AAJ TAK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=70785
+
+#EXTINF:-1 tvg-id="60802" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60585.jpg" group-title="HINDI | NEWS",AAJ TAK USA
+https://public.kliv.fun/TPTV8A/play.php?id=60802
+
+#EXTINF:-1 tvg-id="61564" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61342.jpg" group-title="HINDI | NEWS",AAJ TAK 2
+https://public.kliv.fun/TPTV8A/play.php?id=61564
+
+#EXTINF:-1 tvg-id="1064" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/981.png" group-title="HINDI | NEWS",NEWS 24
+https://public.kliv.fun/TPTV8A/play.php?id=1064
+
+#EXTINF:-1 tvg-id="637" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/554.jpg" group-title="HINDI | NEWS",ZEE NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=637
+
+#EXTINF:-1 tvg-id="790" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/707.jpg" group-title="HINDI | NEWS",ZEE HINDUSTAN
+https://public.kliv.fun/TPTV8A/play.php?id=790
+
+#EXTINF:-1 tvg-id="883" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/800.png" group-title="HINDI | NEWS",NDTV INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=883
+
+#EXTINF:-1 tvg-id="686" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/603.png" group-title="HINDI | NEWS",NDTV 24X7
+https://public.kliv.fun/TPTV8A/play.php?id=686
+
+#EXTINF:-1 tvg-id="8675" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8591.png" group-title="HINDI | NEWS",NDTV 24X7 CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8675
+
+#EXTINF:-1 tvg-id="1035" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/952.jpg" group-title="HINDI | NEWS",NDTV PROFIT
+https://public.kliv.fun/TPTV8A/play.php?id=1035
+
+#EXTINF:-1 tvg-id="1119" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1036.png" group-title="HINDI | NEWS",REPUBLIC BHARAT
+https://public.kliv.fun/TPTV8A/play.php?id=1119
+
+#EXTINF:-1 tvg-id="944" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/861.png" group-title="HINDI | NEWS",REPUBLIC NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=944
+
+#EXTINF:-1 tvg-id="805" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/722.jpg" group-title="HINDI | NEWS",INDIA TV
+https://public.kliv.fun/TPTV8A/play.php?id=805
+
+#EXTINF:-1 tvg-id="66404" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67395.jpg" group-title="HINDI | NEWS",SANSAD TV
+https://public.kliv.fun/TPTV8A/play.php?id=66404
+
+#EXTINF:-1 tvg-id="63116" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62847.jpg" group-title="HINDI | NEWS",DELHI AAJ TAK 4K
+https://public.kliv.fun/TPTV8A/play.php?id=63116
+
+#EXTINF:-1 tvg-id="63127" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62858.png" group-title="HINDI | NEWS",INH 24/7
+https://public.kliv.fun/TPTV8A/play.php?id=63127
+
+#EXTINF:-1 tvg-id="8634" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8550.png" group-title="HINDI | NEWS",SAMAY NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=8634
+
+#EXTINF:-1 tvg-id="945" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/862.png" group-title="HINDI | NEWS",DD NEWS HD
+https://public.kliv.fun/TPTV8A/play.php?id=945
+
+#EXTINF:-1 tvg-id="8630" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8546.jpg" group-title="HINDI | NEWS",NEWS 18 BHARAT
+https://public.kliv.fun/TPTV8A/play.php?id=8630
+
+#EXTINF:-1 tvg-id="8620" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8536.png" group-title="HINDI | NEWS",INDIA 24 NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=8620
+
+#EXTINF:-1 tvg-id="8671" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8587.jpg" group-title="HINDI | NEWS",INDIA TODAY CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8671
+
+#EXTINF:-1 tvg-id="25852" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/25747.png" group-title="HINDI | NEWS",INDIA TODAY
+https://public.kliv.fun/TPTV8A/play.php?id=25852
+
+#EXTINF:-1 tvg-id="664" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/581.png" group-title="HINDI | NEWS",ABP NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=664
+
+#EXTINF:-1 tvg-id="8606" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8522.png" group-title="HINDI | NEWS",ABP GANGA
+https://public.kliv.fun/TPTV8A/play.php?id=8606
+
+#EXTINF:-1 tvg-id="11727" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11643.jpg" group-title="HINDI | NEWS",TIMES NOW HD
+https://public.kliv.fun/TPTV8A/play.php?id=11727
+
+#EXTINF:-1 tvg-id="8693" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8609.jpg" group-title="HINDI | NEWS",TIMES NOW CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8693
+
+#EXTINF:-1 tvg-id="770" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/687.png" group-title="HINDI | NEWS",CNN NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=770
+
+#EXTINF:-1 tvg-id="25860" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/25755.png" group-title="HINDI | NEWS",TIMES NOW BHARAT
+https://public.kliv.fun/TPTV8A/play.php?id=25860
+
+#EXTINF:-1 tvg-id="993" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/910.png" group-title="HINDI | NEWS",NEWS BLOOMBERG INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=993
+
+#EXTINF:-1 tvg-id="886" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/803.jpg" group-title="HINDI | NEWS",NEWS CNBC TV18 HD
+https://public.kliv.fun/TPTV8A/play.php?id=886
+
+#EXTINF:-1 tvg-id="61743" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61519.png" group-title="HINDI | NEWS",NATIONAL NEWS LIVE
+https://public.kliv.fun/TPTV8A/play.php?id=61743
+
+#EXTINF:-1 tvg-id="844" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/761.png" group-title="HINDI | NEWS",CNBC AAWAZ
+https://public.kliv.fun/TPTV8A/play.php?id=844
+
+#EXTINF:-1 tvg-id="1041" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/958.jpg" group-title="HINDI | NEWS",ZEE BUSINESS HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=1041
+
+#EXTINF:-1 tvg-id="63130" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62861.jpg" group-title="HINDI | NEWS",JK 24/7 NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63130
+
+#EXTINF:-1 tvg-id="967" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/884.jpg" group-title="HINDI | NEWS",NEWS 18 INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=967
+
+#EXTINF:-1 tvg-id="8724" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8640.png" group-title="HINDI | NEWS",NEWS 18 USA
+https://public.kliv.fun/TPTV8A/play.php?id=8724
+
+#EXTINF:-1 tvg-id="8676" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8592.png" group-title="HINDI | NEWS",NEWS18 CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8676
+
+#EXTINF:-1 tvg-id="829" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/746.png" group-title="HINDI | NEWS",A1 NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=829
+
+#EXTINF:-1 tvg-id="62571" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62323.jpg" group-title="HINDI | NEWS",TV9 BHARATVARSH
+https://public.kliv.fun/TPTV8A/play.php?id=62571
+
+#EXTINF:-1 tvg-id="8607" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8523.jpg" group-title="HINDI | NEWS",ANB NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=8607
+
+#EXTINF:-1 tvg-id="63167" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62898.png" group-title="HINDI | NEWS",TAAZA NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63167
+
+#EXTINF:-1 tvg-id="63147" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62878.jpg" group-title="HINDI | NEWS",STV HARYANA NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63147
+
+#EXTINF:-1 tvg-id="917" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/834.jpg" group-title="HINDI | NEWS",ALJAZEERA HD INDIA
+https://public.kliv.fun/TPTV8A/play.php?id=917
+
+#EXTINF:-1 tvg-id="30965" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/30835.png" group-title="HINDI | NEWS",GNT NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=30965
+
+#EXTINF:-1 tvg-id="628" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/545.png" group-title="HINDI | NEWS",APN NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=628
+
+#EXTINF:-1 tvg-id="8667" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8583.jpg" group-title="HINDI | NEWS",DD NEWS CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8667
+
+#EXTINF:-1 tvg-id="635" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/552.png" group-title="HINDI | NEWS",CVR NEW ENGLISH
+https://public.kliv.fun/TPTV8A/play.php?id=635
+
+#EXTINF:-1 tvg-id="894" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/811.jpg" group-title="HINDI | NEWS",ET NOW
+https://public.kliv.fun/TPTV8A/play.php?id=894
+
+#EXTINF:-1 tvg-id="63145" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62876.jpg" group-title="HINDI | NEWS",NETWORK 10 NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63145
+
+#EXTINF:-1 tvg-id="665" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/582.png" group-title="HINDI | NEWS",HINDI KHABAR
+https://public.kliv.fun/TPTV8A/play.php?id=665
+
+#EXTINF:-1 tvg-id="63129" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62860.jpg" group-title="HINDI | NEWS",FIRST INDIA NEWS RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=63129
+
+#EXTINF:-1 tvg-id="63128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62859.jpg" group-title="HINDI | NEWS",INDIA NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63128
+
+#EXTINF:-1 tvg-id="930" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/847.jpg" group-title="HINDI | NEWS",IBC 24
+https://public.kliv.fun/TPTV8A/play.php?id=930
+
+#EXTINF:-1 tvg-id="708" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/625.jpg" group-title="HINDI | NEWS",IDN LOKMAT
+https://public.kliv.fun/TPTV8A/play.php?id=708
+
+#EXTINF:-1 tvg-id="646" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/563.png" group-title="HINDI | NEWS",INDIA AHEAD
+https://public.kliv.fun/TPTV8A/play.php?id=646
+
+#EXTINF:-1 tvg-id="63141" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62872.png" group-title="HINDI | NEWS",NEWS 18 RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=63141
+
+#EXTINF:-1 tvg-id="63142" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62873.jpg" group-title="HINDI | NEWS",NEWS 18 UP & UK
+https://public.kliv.fun/TPTV8A/play.php?id=63142
+
+#EXTINF:-1 tvg-id="63122" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62853.jpg" group-title="HINDI | NEWS",ARYAN NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63122
+
+#EXTINF:-1 tvg-id="920" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/837.png" group-title="HINDI | NEWS",INDIA NEWS HARYANA
+https://public.kliv.fun/TPTV8A/play.php?id=920
+
+#EXTINF:-1 tvg-id="668" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/585.jpg" group-title="HINDI | NEWS",INDIA NEWS MP
+https://public.kliv.fun/TPTV8A/play.php?id=668
+
+#EXTINF:-1 tvg-id="1043" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/960.jpg" group-title="HINDI | NEWS",INDIA NEWS RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=1043
+
+#EXTINF:-1 tvg-id="677" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/594.jpg" group-title="HINDI | NEWS",INDIA NEWS UP
+https://public.kliv.fun/TPTV8A/play.php?id=677
+
+#EXTINF:-1 tvg-id="63148" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62879.jpg" group-title="HINDI | NEWS",SWADESH NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=63148
+
+#EXTINF:-1 tvg-id="2150" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/2067.png" group-title="HINDI | NEWS",JAN TV
+https://public.kliv.fun/TPTV8A/play.php?id=2150
+
+#EXTINF:-1 tvg-id="63168" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62899.png" group-title="HINDI | NEWS",ZEE NEWS UP UK
+https://public.kliv.fun/TPTV8A/play.php?id=63168
+
+#EXTINF:-1 tvg-id="1102" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1019.jpg" group-title="HINDI | NEWS",JANTA TV HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=1102
+
+#EXTINF:-1 tvg-id="11648" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11564.jpg" group-title="HINDI | NEWS",JIVANI TV
+https://public.kliv.fun/TPTV8A/play.php?id=11648
+
+#EXTINF:-1 tvg-id="8624" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8540.jpg" group-title="HINDI | NEWS",KASHISH NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=8624
+
+#EXTINF:-1 tvg-id="8627" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8543.png" group-title="HINDI | NEWS",LOK SABHA
+https://public.kliv.fun/TPTV8A/play.php?id=8627
+
+#EXTINF:-1 tvg-id="694" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/611.jpg" group-title="HINDI | NEWS",MH1 NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=694
+
+#EXTINF:-1 tvg-id="756" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/673.png" group-title="HINDI | NEWS",MIRROR NOW
+https://public.kliv.fun/TPTV8A/play.php?id=756
+
+#EXTINF:-1 tvg-id="63721" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/63442.png" group-title="HINDI | NEWS",BHARAT 24
+https://public.kliv.fun/TPTV8A/play.php?id=63721
+
+#EXTINF:-1 tvg-id="67146" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67673.jpg" group-title="HINDI | NEWS",NEWS 11
+https://public.kliv.fun/TPTV8A/play.php?id=67146
+
+#EXTINF:-1 tvg-id="67150" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67678.jpg" group-title="HINDI | NEWS",BANSAL NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=67150
+
+#EXTINF:-1 tvg-id="67151" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67679.jpg" group-title="HINDI | NEWS",ANAADI NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=67151
+
+#EXTINF:-1 tvg-id="823" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/740.jpg" group-title="HINDI | NEWS",NEWS 18 MP & CHATTISGARH
+https://public.kliv.fun/TPTV8A/play.php?id=823
+
+#EXTINF:-1 tvg-id="994" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/911.jpg" group-title="HINDI | NEWS",NEWS INDIA 24X7
+https://public.kliv.fun/TPTV8A/play.php?id=994
+
+#EXTINF:-1 tvg-id="872" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/789.png" group-title="HINDI | NEWS",NEWS NATION
+https://public.kliv.fun/TPTV8A/play.php?id=872
+
+#EXTINF:-1 tvg-id="949" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/866.jpg" group-title="HINDI | NEWS",NEWS STATE MP CHG
+https://public.kliv.fun/TPTV8A/play.php?id=949
+
+#EXTINF:-1 tvg-id="1003" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/920.jpg" group-title="HINDI | NEWS",NEWS STATE UP UK
+https://public.kliv.fun/TPTV8A/play.php?id=1003
+
+#EXTINF:-1 tvg-id="8604" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8520.png" group-title="HINDI | NEWS",NEWS X
+https://public.kliv.fun/TPTV8A/play.php?id=8604
+
+#EXTINF:-1 tvg-id="8605" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8521.jpg" group-title="HINDI | NEWS",RAJYASABHA TV
+https://public.kliv.fun/TPTV8A/play.php?id=8605
+
+#EXTINF:-1 tvg-id="1094" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1011.png" group-title="HINDI | NEWS",SAHARA BIHAR
+https://public.kliv.fun/TPTV8A/play.php?id=1094
+
+#EXTINF:-1 tvg-id="709" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/626.jpg" group-title="HINDI | NEWS",SAHARA MP
+https://public.kliv.fun/TPTV8A/play.php?id=709
+
+#EXTINF:-1 tvg-id="8633" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8549.png" group-title="HINDI | NEWS",SAHARA RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=8633
+
+#EXTINF:-1 tvg-id="884" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/801.png" group-title="HINDI | NEWS",SAHARA SAMAY ALAMI
+https://public.kliv.fun/TPTV8A/play.php?id=884
+
+#EXTINF:-1 tvg-id="958" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/875.jpg" group-title="HINDI | NEWS",SAHARA UP
+https://public.kliv.fun/TPTV8A/play.php?id=958
+
+#EXTINF:-1 tvg-id="923" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/840.png" group-title="HINDI | NEWS",SUDARSHAN NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=923
+
+#EXTINF:-1 tvg-id="893" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/810.png" group-title="HINDI | NEWS",TOTAL TV HARYANA
+https://public.kliv.fun/TPTV8A/play.php?id=893
+
+#EXTINF:-1 tvg-id="1019" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/936.png" group-title="HINDI | NEWS",WION NEWS
+https://public.kliv.fun/TPTV8A/play.php?id=1019
+
+#EXTINF:-1 tvg-id="1153" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1070.jpg" group-title="HINDI | NEWS",ZEE NEWS MP
+https://public.kliv.fun/TPTV8A/play.php?id=1153
+
+#EXTINF:-1 tvg-id="804" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/721.png" group-title="HINDI | NEWS",ZEE RAJASTHAN
+https://public.kliv.fun/TPTV8A/play.php?id=804
+
+#EXTINF:-1 tvg-id="1154" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1071.png" group-title="HINDI | INDIA",AASTHA BHAJAN
+https://public.kliv.fun/TPTV8A/play.php?id=1154
+
+#EXTINF:-1 tvg-id="1155" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1072.png" group-title="HINDI | INDIA",AASTHA
+https://public.kliv.fun/TPTV8A/play.php?id=1155
+
+#EXTINF:-1 tvg-id="8640" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8556.png" group-title="HINDI | INDIA",AASTHA TV CANADA
+https://public.kliv.fun/TPTV8A/play.php?id=8640
+
+#EXTINF:-1 tvg-id="60778" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60561.png" group-title="HINDI | INDIA",AASTHA TV USA
+https://public.kliv.fun/TPTV8A/play.php?id=60778
+
+#EXTINF:-1 tvg-id="730" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/647.png" group-title="HINDI | INDIA",ARIHANT
+https://public.kliv.fun/TPTV8A/play.php?id=730
+
+#EXTINF:-1 tvg-id="1196" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1113.png" group-title="HINDI | INDIA",ARYA SANDESH
+https://public.kliv.fun/TPTV8A/play.php?id=1196
+
+#EXTINF:-1 tvg-id="955" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/872.jpg" group-title="HINDI | INDIA",BHAKTI SAGAR HD
+https://public.kliv.fun/TPTV8A/play.php?id=955
+
+#EXTINF:-1 tvg-id="731" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/648.png" group-title="HINDI | INDIA",BIG MAGIC
+https://public.kliv.fun/TPTV8A/play.php?id=731
+
+#EXTINF:-1 tvg-id="11713" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11629.jpg" group-title="HINDI | INDIA",DIVYA TV DEVOTIONAL
+https://public.kliv.fun/TPTV8A/play.php?id=11713
+
+#EXTINF:-1 tvg-id="789" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/706.png" group-title="HINDI | INDIA",EPIC HD
+https://public.kliv.fun/TPTV8A/play.php?id=789
+
+#EXTINF:-1 tvg-id="8590" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8506.png" group-title="HINDI | INDIA",FITNESS CHANNEL
+https://public.kliv.fun/TPTV8A/play.php?id=8590
+
+#EXTINF:-1 tvg-id="8701" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8617.jpg" group-title="HINDI | INDIA",ISHWAR TV
+https://public.kliv.fun/TPTV8A/play.php?id=8701
+
+#EXTINF:-1 tvg-id="1034" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/951.jpg" group-title="HINDI | INDIA",ISHWAR TV HINDI
+https://public.kliv.fun/TPTV8A/play.php?id=1034
+
+#EXTINF:-1 tvg-id="1217" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1134.jpg" group-title="HINDI | INDIA",KRISHAN VANI
+https://public.kliv.fun/TPTV8A/play.php?id=1217
+
+#EXTINF:-1 tvg-id="1129" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1046.jpg" group-title="HINDI | INDIA",OM SHANTI
+https://public.kliv.fun/TPTV8A/play.php?id=1129
+
+#EXTINF:-1 tvg-id="729" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/646.jpg" group-title="HINDI | INDIA",PARAS TV
+https://public.kliv.fun/TPTV8A/play.php?id=729
+
+#EXTINF:-1 tvg-id="748" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/665.png" group-title="HINDI | INDIA",PEACE OF MIND
+https://public.kliv.fun/TPTV8A/play.php?id=748
+
+#EXTINF:-1 tvg-id="1211" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/1128.jpg" group-title="HINDI | INDIA",SAI LEELA
+https://public.kliv.fun/TPTV8A/play.php?id=1211
+
+#EXTINF:-1 tvg-id="640" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/557.jpg" group-title="HINDI | INDIA",SANSKAR TV
+https://public.kliv.fun/TPTV8A/play.php?id=640
+
+#EXTINF:-1 tvg-id="1005" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/922.jpg" group-title="HINDI | INDIA",SATSANG TV
+https://public.kliv.fun/TPTV8A/play.php?id=1005
+
+#EXTINF:-1 tvg-id="900" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/817.png" group-title="HINDI | INDIA",SHUBH CINEMA TV
+https://public.kliv.fun/TPTV8A/play.php?id=900
+
+#EXTINF:-1 tvg-id="8636" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8552.jpg" group-title="HINDI | INDIA",SHUBH SANDESH
+https://public.kliv.fun/TPTV8A/play.php?id=8636
+
+#EXTINF:-1 tvg-id="1065" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/982.jpg" group-title="HINDI | INDIA",SHUBH TV
+https://public.kliv.fun/TPTV8A/play.php?id=1065
+
+#EXTINF:-1 tvg-id="1075" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/992.jpg" group-title="HINDI | INDIA",VEDIC TV
+https://public.kliv.fun/TPTV8A/play.php?id=1075
+
+#EXTINF:-1 tvg-id="8594" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8510.png" group-title="HINDI | INDIA",BBC WORLD
+https://public.kliv.fun/TPTV8A/play.php?id=8594
+
+#EXTINF:-1 tvg-id="68061" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/68499.png" group-title="HINDI | INDIA",JIGYASA TV
+https://public.kliv.fun/TPTV8A/play.php?id=68061
+
+#EXTINF:-1 tvg-id="60565" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60349.png" group-title="HINDI | INDIA",MA TV
+https://public.kliv.fun/TPTV8A/play.php?id=60565
+
+#EXTINF:-1 tvg-id="60566" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60350.jpg" group-title="HINDI | INDIA",SARV DHARM SANGAM
+https://public.kliv.fun/TPTV8A/play.php?id=60566
+
+#EXTINF:-1 tvg-id="60567" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60351.png" group-title="HINDI | INDIA",SANSKRIT TV
+https://public.kliv.fun/TPTV8A/play.php?id=60567
+
+#EXTINF:-1 tvg-id="60568" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60352.png" group-title="HINDI | INDIA",SUBHRATRI
+https://public.kliv.fun/TPTV8A/play.php?id=60568
+
+#EXTINF:-1 tvg-id="70880" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70793.png" group-title="HINDI | INDIA",HINDU SAMAJ TEMPLE
+https://public.kliv.fun/TPTV8A/play.php?id=70880
+
+#EXTINF:-1 tvg-id="60569" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60353.jpg" group-title="HINDI | INDIA",SOHAM TV
+https://public.kliv.fun/TPTV8A/play.php?id=60569
+
+#EXTINF:-1 tvg-id="8608" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8524.jpg" group-title="HINDI | INDIA",BHAKTI SAGAR
+https://public.kliv.fun/TPTV8A/play.php?id=8608
+
+#EXTINF:-1 tvg-id="8609" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8525.png" group-title="HINDI | INDIA",BHARAT SAMACHAR
+https://public.kliv.fun/TPTV8A/play.php?id=8609
+
+#EXTINF:-1 tvg-id="67140" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67694.jpg" group-title="HINDI | INDIA",BABULNATH TEMPLE MUMBAI
+https://public.kliv.fun/TPTV8A/play.php?id=67140
+
+#EXTINF:-1 tvg-id="67141" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67695.jpg" group-title="HINDI | INDIA",HARE KRISHNA PRAVACHAN
+https://public.kliv.fun/TPTV8A/play.php?id=67141
+
+#EXTINF:-1 tvg-id="60570" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60354.jpg" group-title="HINDI | INDIA",PRARTHANA BHAWAN
+https://public.kliv.fun/TPTV8A/play.php?id=60570
+
+#EXTINF:-1 tvg-id="60557" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60341.jpg" group-title="HINDI | INDIA",AASTHA TV UK
+https://public.kliv.fun/TPTV8A/play.php?id=60557
+
+#EXTINF:-1 tvg-id="60558" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60342.jpg" group-title="HINDI | INDIA",SHARNAM TV
+https://public.kliv.fun/TPTV8A/play.php?id=60558
+
+#EXTINF:-1 tvg-id="60559" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60343.png" group-title="HINDI | INDIA",DISHA TV
+https://public.kliv.fun/TPTV8A/play.php?id=60559
+
+#EXTINF:-1 tvg-id="60560" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60344.jpg" group-title="HINDI | INDIA",DIVYA TV
+https://public.kliv.fun/TPTV8A/play.php?id=60560
+
+#EXTINF:-1 tvg-id="60561" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60345.jpg" group-title="HINDI | INDIA",GANGA DARSHAN
+https://public.kliv.fun/TPTV8A/play.php?id=60561
+
+#EXTINF:-1 tvg-id="60562" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60346.png" group-title="HINDI | INDIA",HARE KRISHNA TV
+https://public.kliv.fun/TPTV8A/play.php?id=60562
+
+#EXTINF:-1 tvg-id="63162" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62893.png" group-title="HINDI | INDIA",AASTHA PRIME 2
+https://public.kliv.fun/TPTV8A/play.php?id=63162
+
+#EXTINF:-1 tvg-id="66666" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/67519.jpg" group-title="HINDI | INDIA",LAKSHMI NARAYAN TEMPLE TORONTO
+https://public.kliv.fun/TPTV8A/play.php?id=66666
+
+#EXTINF:-1 tvg-id="60563" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60347.jpg" group-title="HINDI | INDIA",MH1 SHARDDHA
+https://public.kliv.fun/TPTV8A/play.php?id=60563
+
+#EXTINF:-1 tvg-id="62722" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/62470.jpg" group-title="HINDI | INDIA",HANUMAN MANDIR
+https://public.kliv.fun/TPTV8A/play.php?id=62722
+
+#EXTINF:-1 tvg-id="8623" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/8539.jpg" group-title="HINDI | INDIA",JINVANI
+https://public.kliv.fun/TPTV8A/play.php?id=8623
+
+#EXTINF:-1 tvg-id="28124" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28004.png" group-title="HINDI | INDIA",BHAKTI SPECIAL 1
+https://public.kliv.fun/TPTV8A/play.php?id=28124
+
+#EXTINF:-1 tvg-id="28128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28008.png" group-title="HINDI | INDIA",BHAKTI SPECIAL 2
+https://public.kliv.fun/TPTV8A/play.php?id=28128
+
+#EXTINF:-1 tvg-id="28156" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28036.png" group-title="HINDI | INDIA",FRONTLINE HD
+https://public.kliv.fun/TPTV8A/play.php?id=28156
+
+#EXTINF:-1 tvg-id="28160" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28040.jpg" group-title="HINDI | INDIA",HINDU SABHA TEMPLE
+https://public.kliv.fun/TPTV8A/play.php?id=28160
+
+#EXTINF:-1 tvg-id="28164" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28044.png" group-title="HINDI | INDIA",HINDU HERITAGE CENTER
+https://public.kliv.fun/TPTV8A/play.php?id=28164
+
+#EXTINF:-1 tvg-id="28168" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28048.jpg" group-title="HINDI | INDIA",TORONTO KALIBARI
+https://public.kliv.fun/TPTV8A/play.php?id=28168
+
+#EXTINF:-1 tvg-id="60564" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60348.jpg" group-title="HINDI | INDIA",SANTVANI
+https://public.kliv.fun/TPTV8A/play.php?id=60564
+
+#EXTINF:-1 tvg-id="28172" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/28052.jpg" group-title="HINDI | INDIA",SRI VRINDAVAN DHAAM
+https://public.kliv.fun/TPTV8A/play.php?id=28172
+
+#EXTINF:-1 tvg-id="29345" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/29217.png" group-title="HINDI | INDIA",HARE KRISHNA
+https://public.kliv.fun/TPTV8A/play.php?id=29345
+
+#EXTINF:-1 tvg-id="59679" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59463.jpg" group-title="HINDI | INDIA",SHIRDI SAI BABA LIVE
+https://public.kliv.fun/TPTV8A/play.php?id=59679
+
+#EXTINF:-1 tvg-id="59692" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59476.png" group-title="HINDI | INDIA",SADHNA TV
+https://public.kliv.fun/TPTV8A/play.php?id=59692
+
+#EXTINF:-1 tvg-id="59978" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/59762.jpg" group-title="HINDI | INDIA",HAR HAR MAHADEV
+https://public.kliv.fun/TPTV8A/play.php?id=59978
+
+#EXTINF:-1 tvg-id="60555" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60339.jpg" group-title="HINDI | INDIA",ISHAARA TV
+https://public.kliv.fun/TPTV8A/play.php?id=60555
+
+#EXTINF:-1 tvg-id="60556" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/60340.jpg" group-title="HINDI | INDIA",ZEE GANGA
+https://public.kliv.fun/TPTV8A/play.php?id=60556
+
+#EXTINF:-1 tvg-id="73387" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/68498.jpg" group-title="SPORTS | CRICKET",STAR SPORTS TRUE 4K
+https://public.kliv.fun/TPTV8A/play.php?id=73387
 
 //====FROM PLAYLIV PREMANENT====//
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" group-title="LIFES GOOD 🍟",Zee Dil Se
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 pliv/07 Safari/537.36
